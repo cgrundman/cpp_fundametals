@@ -1,0 +1,2 @@
+*.idx
+!spec/*.idx
