@@ -1,3 +1,5 @@
 */.cache/
 */.codelite/
 */build-Debug/
+
+*/Makefile
