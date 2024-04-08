@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="07-characters_strings" Database="" Version="10000">
   <Project Name="CStrings" Path="CStrings/CStrings.project" Active="No"/>
-  <Project Name="CPPStrings" Path="CPPStrings/CPPStrings.project" Active="Yes"/>
-  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
-  <Project Name="CharFunctions" Path="CharFunctions/CharFunctions.project"/>
+  <Project Name="CPPStrings" Path="CPPStrings/CPPStrings.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="CharFunctions" Path="CharFunctions/CharFunctions.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

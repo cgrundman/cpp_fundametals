@@ -30,12 +30,40 @@ Reuse existing functionality in libraries and in the std::string class!
 
 #include <iostream>
 
+using namespace std;
+
 int main() {
     
     string alphabet {"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"};
-    string key  {"XZNLWEBGJHQDYVTKFUOMPCIASRxznlwebgjhqdyvtkfuompciasr"};
+    string key      {"XZNLWEBGJHQDYVTKFUOMPCIASRxznlwebgjhqdyvtkfuompciasr"};
     
-    
+    // Input string
+    cout << "Input a string to be encoded: ";
+    string input;
+    cin >> input;
     cout << endl;
+    
+    // Encode
+    string input_enc = input;
+    int index = 0;
+    for (char& character : input) {
+        
+        // Iteration through alphabet
+        int alphabet_idx = 0;
+        for (char& letter : alphabet) {
+            // Check for match with current letter, break to extract index
+            if (character==letter) {
+                break;
+            }
+            
+            alphabet_idx++;
+        }
+        
+        // Add encoded letter to encoded string
+        input_enc[index] = key[alphabet_idx];
+        
+        index++;
+    }
+    cout << "Encoded string:" << input_enc << endl;
     return 0;
 }
