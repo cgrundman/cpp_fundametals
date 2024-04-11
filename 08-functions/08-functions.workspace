@@ -3,7 +3,10 @@
   <Project Name="FunctionDefinitions" Path="FunctionDefinitions/FunctionDefinitions.project" Active="No"/>
   <Project Name="FunctionPrototypes" Path="FunctionPrototypes/FunctionPrototypes.project" Active="No"/>
   <Project Name="FunctionParameters" Path="FunctionParameters/FunctionParameters.project" Active="No"/>
-  <Project Name="DefaultArguments" Path="DefaultArguments/DefaultArguments.project" Active="Yes"/>
+  <Project Name="DefaultArguments" Path="DefaultArguments/DefaultArguments.project" Active="No"/>
+  <Project Name="FunctionOverloading" Path="FunctionOverloading/FunctionOverloading.project" Active="No"/>
+  <Project Name="ArraysAndFunctions" Path="ArraysAndFunctions/ArraysAndFunctions.project" Active="Yes"/>
+  <Project Name="PassByReference" Path="PassByReference/PassByReference.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +14,9 @@
       <Project Name="FunctionPrototypes" ConfigName="Debug"/>
       <Project Name="FunctionParameters" ConfigName="Debug"/>
       <Project Name="DefaultArguments" ConfigName="Debug"/>
+      <Project Name="FunctionOverloading" ConfigName="Debug"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Debug"/>
+      <Project Name="PassByReference" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +24,9 @@
       <Project Name="FunctionPrototypes" ConfigName="Release"/>
       <Project Name="FunctionParameters" ConfigName="Release"/>
       <Project Name="DefaultArguments" ConfigName="Release"/>
+      <Project Name="FunctionOverloading" ConfigName="Release"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Release"/>
+      <Project Name="PassByReference" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
