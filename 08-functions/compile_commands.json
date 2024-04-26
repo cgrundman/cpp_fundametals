@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\HowFunctionCallsWork\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\HowFunctionCallsWork",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\HowFunctionCallsWork\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\HowFunctionCallsWork\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\ArraysAndFunctions\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\ArraysAndFunctions",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\ArraysAndFunctions\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\ArraysAndFunctions\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
@@ -6,6 +10,14 @@
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\DefaultArguments\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\DefaultArguments",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\DefaultArguments\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\DefaultArguments\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\Fibonacci\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\Fibonacci",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\Fibonacci\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\Fibonacci\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\ScopeExample\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\ScopeExample",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\ScopeExample\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\ScopeExample\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\PassByReference\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\PassByReference",
@@ -18,6 +30,10 @@
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\FunctionParameters\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\FunctionParameters",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\FunctionParameters\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\FunctionParameters\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\Factorial\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\Factorial",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\Factorial\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\Factorial\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\FunctionPrototypes\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\08-functions\\FunctionPrototypes",
