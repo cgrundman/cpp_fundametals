@@ -2,16 +2,25 @@
 <CodeLite_Workspace Name="09-pointers_references" Database="" Version="10000">
   <Project Name="SimplePointers" Path="SimplePointers/SimplePointers.project" Active="No"/>
   <Project Name="Dereference" Path="Dereference/Dereference.project" Active="Yes"/>
+  <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project"/>
+  <Project Name="ArraysandPointers" Path="ArraysandPointers/ArraysandPointers.project"/>
+  <Project Name="PointerArithmetic" Path="PointerArithmetic/PointerArithmetic.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="SimplePointers" ConfigName="Debug"/>
       <Project Name="Dereference" ConfigName="Debug"/>
+      <Project Name="DynamicMemory" ConfigName="Debug"/>
+      <Project Name="ArraysandPointers" ConfigName="Debug"/>
+      <Project Name="PointerArithmetic" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="SimplePointers" ConfigName="Release"/>
       <Project Name="Dereference" ConfigName="Release"/>
+      <Project Name="DynamicMemory" ConfigName="Release"/>
+      <Project Name="ArraysandPointers" ConfigName="Release"/>
+      <Project Name="PointerArithmetic" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
