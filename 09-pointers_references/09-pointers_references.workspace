@@ -8,7 +8,8 @@
   <Project Name="PassingPointers1" Path="PassingPointers1/PassingPointers1.project" Active="No"/>
   <Project Name="PassingPointers2" Path="PassingPointers2/PassingPointers2.project" Active="No"/>
   <Project Name="PassingPointers3" Path="PassingPointers3/PassingPointers3.project" Active="No"/>
-  <Project Name="ReturnPointer" Path="ReturnPointer/ReturnPointer.project" Active="Yes"/>
+  <Project Name="ReturnPointer" Path="ReturnPointer/ReturnPointer.project" Active="No"/>
+  <Project Name="ReverseArrayChallenge" Path="ReverseArrayChallenge/ReverseArrayChallenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -21,6 +22,7 @@
       <Project Name="PassingPointers2" ConfigName="Debug"/>
       <Project Name="PassingPointers3" ConfigName="Debug"/>
       <Project Name="ReturnPointer" ConfigName="Debug"/>
+      <Project Name="ReverseArrayChallenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -33,6 +35,7 @@
       <Project Name="PassingPointers2" ConfigName="Release"/>
       <Project Name="PassingPointers3" ConfigName="Release"/>
       <Project Name="ReturnPointer" ConfigName="Release"/>
+      <Project Name="ReverseArrayChallenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
