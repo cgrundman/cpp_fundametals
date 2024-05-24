@@ -33,8 +33,8 @@ int main() {
     frank_account.name = "Frank's account";
     frank_account.balance = 5000.0;
     
-    frank_account.deposit(1000.0);
-    frank_account.withdraw(500.0);
+//    frank_account.deposit(1000.0);
+//    frank_account.withdraw(500.0);
     
     
     Player frank;

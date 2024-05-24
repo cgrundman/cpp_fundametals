@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="10-object_oriented_programming" Database="" Version="10000">
-  <Project Name="DeclareClassAndObjects" Path="DeclareClassAndObjects/DeclareClassAndObjects.project" Active="Yes"/>
-  <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project"/>
+  <Project Name="DeclareClassAndObjects" Path="DeclareClassAndObjects/DeclareClassAndObjects.project" Active="No"/>
+  <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
