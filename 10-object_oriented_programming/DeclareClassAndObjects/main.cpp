@@ -24,14 +24,12 @@ class Account {
     // methods
     bool deposit(double);
     bool withdraw(double);
-    
 };
 
 
 int main() {
     Account frank_account;
     Account jim_account;
-    
     
     Player frank;
     Player hero;
@@ -40,7 +38,6 @@ int main() {
     
     vector<Player> player_vec {frank};
     player_vec.push_back(hero);
-    
     
     Player *enemy {nullptr};
     enemy = new Player;

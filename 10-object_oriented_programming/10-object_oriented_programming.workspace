@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="10-object_oriented_programming" Database="" Version="10000">
   <Project Name="DeclareClassAndObjects" Path="DeclareClassAndObjects/DeclareClassAndObjects.project" Active="Yes"/>
+  <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="DeclareClassAndObjects" ConfigName="Debug"/>
+      <Project Name="AccessingClassMembers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="DeclareClassAndObjects" ConfigName="Release"/>
+      <Project Name="AccessingClassMembers" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
