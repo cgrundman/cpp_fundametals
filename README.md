@@ -111,5 +111,47 @@ Code outlining c++ code struxtures and syntax.
 
 ## 10. Object Oriented Programming
 
+| Title | Description |
+| :---: | :----       |
+
+## 11. Operator Overloading
+
+| Title | Description |
+| :---: | :----       |
+
+## 12. Inheritance
+
+| Title | Description |
+| :---: | :----       |
+
+## 13. Polymorphism
+
+| Title | Description |
+| :---: | :----       |
+
+## 14. Smart Pointers
+
+| Title | Description |
+| :---: | :----       |
+
+## 15. Exception Handling
+
+| Title | Description |
+| :---: | :----       |
+
+## 16. I/O Streams
+
+| Title | Description |
+| :---: | :----       |
+
+## 17. The Standard Template Library (STL)
+
+| Title | Description |
+| :---: | :----       |
+
+## 18. Lambda Expressions
+
+| Title | Description |
+| :---: | :----       |
 
 All code thanks to instructor Dr. Frank Mitropoulos and [Tim Buchalka's Learn Programming Academy](https://learnprogramming.academy/), course found [here](https://www.udemy.com/course/beginning-c-plus-plus-programming/?couponCode=OF52424)
