@@ -2,19 +2,25 @@
 <CodeLite_Workspace Name="10-object_oriented_programming" Database="" Version="10000">
   <Project Name="DeclareClassAndObjects" Path="DeclareClassAndObjects/DeclareClassAndObjects.project" Active="No"/>
   <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project" Active="No"/>
-  <Project Name="AccessModifiers" Path="AccessModifiers/AccessModifiers.project" Active="Yes"/>
+  <Project Name="AccessModifiers" Path="AccessModifiers/AccessModifiers.project" Active="No"/>
+  <Project Name="ImplementingMethods" Path="ImplementingMethods/ImplementingMethods.project" Active="No"/>
+  <Project Name="ImplementingMethods2" Path="ImplementingMethods2/ImplementingMethods2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="DeclareClassAndObjects" ConfigName="Debug"/>
       <Project Name="AccessingClassMembers" ConfigName="Debug"/>
       <Project Name="AccessModifiers" ConfigName="Debug"/>
+      <Project Name="ImplementingMethods" ConfigName="Debug"/>
+      <Project Name="ImplementingMethods2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="DeclareClassAndObjects" ConfigName="Release"/>
       <Project Name="AccessingClassMembers" ConfigName="Release"/>
       <Project Name="AccessModifiers" ConfigName="Release"/>
+      <Project Name="ImplementingMethods" ConfigName="Release"/>
+      <Project Name="ImplementingMethods2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
