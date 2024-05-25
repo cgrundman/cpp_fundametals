@@ -76,36 +76,38 @@ Code outlining c++ code struxtures and syntax.
 
 ## 8. Functions
 
-| Title                | Description                                                                   |
-| :---:                | :----                                                                         |
-| FunctionDefinitions  | . |
-| FunctionPrototypes   | .    |
-| FunctionParameters   | .      |
-| DefaultArguments     | .    |
-| FunctionOverloading  | . |
-| ArraysAndFunctions   | .    |
-| PassByReference      | .      |
-| ScopeExample         | .    |
-| HowFunctionCallsWork | . |
-| Factorial            | .    |
-| Fibonacci            | .      |
-| SaveAPenny           | .    |
-| Challenge            | .   |
+| Title                | Description                                                                          |
+| :---:                | :----                                                                                |
+| FunctionDefinitions  | How to define functions.                                                             |
+| FunctionPrototypes   | Create function prototpes that define data types, before creating the full function. |
+| FunctionParameters   | How to handle different parameters in a function.                                    |
+| DefaultArguments     | Set default values to variables input into functions.                                |
+| FunctionOverloading  | Create different functionality of the same function with different data types.       |
+| ArraysAndFunctions   | How to pass arrays into functions.                                                   |
+| PassByReference      | Manipulating variables inside of the function, and returning new values.             |
+| ScopeExample         | Show the complexity of scope definitions and how it applys to functions.             |
+| HowFunctionCallsWork | Example of how to call functions.                                                    |
+| Factorial            | Perform factorial calculation by using a recursive function.                         |
+| Fibonacci            | Find the nth value of the Fibonacci sequence by using a recursive function.          |
+| SaveAPenny           | Calculate daily double of nth day, if starting with $0.01.                           |
+| Challenge            | Same as challenge from last section, adds functions for each commmand type.          |
 
 ## 9. Pointer and References
 
-ArraysAndPointers
-Challenge
-Dereference
-DynamicMemory
-PassingPointers1
-PassingPointers2
-PassingPointers3
-PointerArithmetic
-References
-ReturnPointer
-ReverseArrayChallenge
-SimplePointers
+| Title                 | Description                                                          |
+| :---:                 | :----                                                                |
+| SimplePointers        | Introduction to Pointers.                                            |
+| Dereference           | How to dereference a pointer.                                        |
+| DynamicMemory         | Use of pointers and allocating to the heap.                          |
+| ArraysAndPointers     | How to point to arrays and how changing values cahnges the pointers. |
+| PointerArithmetic     | How to apply arithemitc functions on pointers.                       |
+| PassingPointers1      | Passing an integer pointer to a function.                            |
+| PassingPointers2      | Passing multiple pointers to a function.                             |
+| PassingPointers3      | Passing different pointer types to functions.                        |
+| ReverseArrayChallenge | Reverse an array through passing pointer of array.                   |
+| ReturnPointer         | Returning a pointer from a function.                                 |
+| References            | Introduction to references.                                          |
+| Challenge             | Pass array pointers to functions, one printing all values within array, the other multiplying all values together. |
 
 ## 10. Object Oriented Programming
 
