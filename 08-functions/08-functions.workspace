@@ -12,7 +12,7 @@
   <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
   <Project Name="Fibonacci" Path="Fibonacci/Fibonacci.project" Active="No"/>
   <Project Name="SaveAPenny" Path="SaveAPenny/SaveAPenny.project" Active="No"/>
-  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -28,7 +28,7 @@
       <Project Name="Factorial" ConfigName="Debug"/>
       <Project Name="Fibonacci" ConfigName="Debug"/>
       <Project Name="SaveAPenny" ConfigName="Debug"/>
-      <Project Name="SectionChallenge" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -44,7 +44,7 @@
       <Project Name="Factorial" ConfigName="Release"/>
       <Project Name="Fibonacci" ConfigName="Release"/>
       <Project Name="SaveAPenny" ConfigName="Release"/>
-      <Project Name="SectionChallenge" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
