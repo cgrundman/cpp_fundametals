@@ -7,6 +7,7 @@
   <Project Name="ImplementingMethods2" Path="ImplementingMethods2/ImplementingMethods2.project" Active="No"/>
   <Project Name="ConstructorsAndDestructors" Path="ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
   <Project Name="DefaultConstructor" Path="DefaultConstructor/DefaultConstructor.project" Active="Yes"/>
+  <Project Name="ConstructorInitializationLists" Path="ConstructorInitializationLists/ConstructorInitializationLists.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +18,7 @@
       <Project Name="ImplementingMethods2" ConfigName="Debug"/>
       <Project Name="ConstructorsAndDestructors" ConfigName="Debug"/>
       <Project Name="DefaultConstructor" ConfigName="Debug"/>
+      <Project Name="ConstructorInitializationLists" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +29,7 @@
       <Project Name="ImplementingMethods2" ConfigName="Release"/>
       <Project Name="ConstructorsAndDestructors" ConfigName="Release"/>
       <Project Name="DefaultConstructor" ConfigName="Release"/>
+      <Project Name="ConstructorInitializationLists" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
