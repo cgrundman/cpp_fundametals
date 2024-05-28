@@ -111,8 +111,25 @@ Code outlining c++ code struxtures and syntax.
 
 ## 10. Object Oriented Programming
 
-| Title | Description |
-| :---: | :----       |
+| Title                          | Description                                                                 |
+| :---:                          | :----                                                                       |
+| DeclareClassAndObjects         | Demonstrates the basic snytax for declarring a c++ class.                   |
+| AccessingClassMembers          | How to modify an object's attributes using the dot and pointer operators.   |
+| AccessModifiers                | Setting access to class members with public, private, and protected.        |
+| ImplementingMethods            | Implementing methods inside of the class declaration.                       |
+| ImplementingMethods2           | Implementing methods outside of the class declaration.                      |
+| ConstructorsAndDestructors     | Introducing how classes are constructed and destructed to and from memory.  |
+| DefaultConstructor             | Initializing objects without providing initialization information.          |
+| ConstructorInitializationLists | Initializing an object's data members by assigning values.                  |
+| DelegatingConstructors         | Reducing code duplication by calling another constructor of the same class. |
+| DefaultConstructorParameters   | Setting default constructor parameter values.                               |
+| CopyConstructor                | Creating a new object from an existing object.                              |
+| ShallowCopy                    | Showing the issues with shallow copy in context of copy constructor.        |
+| DeepCopy                       | Showing the correct way to implement copy constructors.                     |
+| MoveConstructor                | Moving constructors from objec to object (advanced).                        |
+| ConstInClass                   | Creating objects that are not allowed to change.                            |
+| StaticClassMembers             | Creating class members that cannot be changed.                              |
+| Challenge                      | Work with mulilevel OOP code (movies and movie).                            |
 
 ## 11. Operator Overloading
 
