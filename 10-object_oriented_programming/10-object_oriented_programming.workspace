@@ -14,7 +14,8 @@
   <Project Name="CopyConstructor" Path="CopyConstructor/CopyConstructor.project" Active="No"/>
   <Project Name="ShallowCopy" Path="ShallowCopy/ShallowCopy.project" Active="No"/>
   <Project Name="DeepCopy" Path="DeepCopy/DeepCopy.project" Active="No"/>
-  <Project Name="MoveConstructor" Path="MoveConstructor/MoveConstructor.project" Active="Yes"/>
+  <Project Name="MoveConstructor" Path="MoveConstructor/MoveConstructor.project" Active="No"/>
+  <Project Name="ConstInClasses" Path="ConstInClasses/ConstInClasses.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -33,6 +34,7 @@
       <Project Name="ShallowCopy" ConfigName="Debug"/>
       <Project Name="DeepCopy" ConfigName="Debug"/>
       <Project Name="MoveConstructor" ConfigName="Debug"/>
+      <Project Name="ConstInClasses" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -51,6 +53,7 @@
       <Project Name="ShallowCopy" ConfigName="Release"/>
       <Project Name="DeepCopy" ConfigName="Release"/>
       <Project Name="MoveConstructor" ConfigName="Release"/>
+      <Project Name="ConstInClasses" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
