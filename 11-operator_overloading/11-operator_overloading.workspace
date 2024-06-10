@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="11-operator_overloading" Database="" Version="10000">
-  <Project Name="Start" Path="Start/Start.project" Active="Yes"/>
+  <Project Name="Start" Path="Start/Start.project" Active="No"/>
+  <Project Name="CopyAssignment" Path="CopyAssignment/CopyAssignment.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Start" ConfigName="Debug"/>
+      <Project Name="CopyAssignment" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Start" ConfigName="Release"/>
+      <Project Name="CopyAssignment" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
