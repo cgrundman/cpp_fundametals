@@ -5,7 +5,8 @@
   <Project Name="MoveAssignment" Path="MoveAssignment/MoveAssignment.project" Active="No"/>
   <Project Name="OperatorMethods" Path="OperatorMethods/OperatorMethods.project" Active="No"/>
   <Project Name="OperatorFunctions" Path="OperatorFunctions/OperatorFunctions.project" Active="No"/>
-  <Project Name="InsertionExtraction" Path="InsertionExtraction/InsertionExtraction.project" Active="Yes"/>
+  <Project Name="InsertionExtraction" Path="InsertionExtraction/InsertionExtraction.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -15,6 +16,7 @@
       <Project Name="OperatorMethods" ConfigName="Debug"/>
       <Project Name="OperatorFunctions" ConfigName="Debug"/>
       <Project Name="InsertionExtraction" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -24,6 +26,7 @@
       <Project Name="OperatorMethods" ConfigName="Release"/>
       <Project Name="OperatorFunctions" ConfigName="Release"/>
       <Project Name="InsertionExtraction" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
