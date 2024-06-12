@@ -178,4 +178,4 @@ Code outlining c++ code struxtures and syntax.
 | Title | Description |
 | :---: | :----       |
 
-All code thanks to instructor Dr. Frank Mitropoulos and [Tim Buchalka's Learn Programming Academy](https://learnprogramming.academy/), course found [here](https://www.udemy.com/course/beginning-c-plus-plus-programming/?couponCode=OF52424)
+All code thanks to instructor Dr. Frank Mitropoulos and [Tim Buchalka's Learn Programming Academy](https://learnprogramming.academy/) course found [here](https://www.udemy.com/course/beginning-c-plus-plus-programming/?couponCode=OF52424).
