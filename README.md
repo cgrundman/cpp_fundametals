@@ -133,8 +133,15 @@ Code outlining c++ code struxtures and syntax.
 
 ## 11. Operator Overloading
 
-| Title | Description |
-| :---: | :----       |
+| Title               | Description                                                            |
+| :---:               | :----                                                                  |
+| Start               | Starting code, creating a string object with a class to be overloaded. |
+| CopyAssignment      | Overloading Operators working with l-values.                           |
+| MoveAssignment      | Overloading Operators working with r-values.                           |
+| OperatorMethods     | Demonstrates Overloading Operators as Member Functions.                |
+| OperatorFunctions   | Demonstrates Overloading Operators as Global Functions.                |
+| InsertionExtraction | Insertion and Extraction of information into objects.                  |
+| Challenge           | Implementation of all Overloading Operator functions.                  |
 
 ## 12. Inheritance
 
