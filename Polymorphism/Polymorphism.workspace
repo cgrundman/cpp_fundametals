@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Polymorphism" Database="" Version="10000">
   <Project Name="BaseClassPointers" Path="BaseClassPointers/BaseClassPointers.project" Active="No"/>
-  <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project" Active="Yes"/>
+  <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project" Active="No"/>
+  <Project Name="VirtualDestructors" Path="VirtualDestructors/VirtualDestructors.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="BaseClassPointers" ConfigName="Debug"/>
       <Project Name="VirtualFunctions" ConfigName="Debug"/>
+      <Project Name="VirtualDestructors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="BaseClassPointers" ConfigName="Release"/>
       <Project Name="VirtualFunctions" ConfigName="Release"/>
+      <Project Name="VirtualDestructors" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
