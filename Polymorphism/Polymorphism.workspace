@@ -6,6 +6,7 @@
   <Project Name="UsingFinalSpecifier" Path="UsingFinalSpecifier/UsingFinalSpecifier.project" Active="Yes"/>
   <Project Name="BaseClassReferences" Path="BaseClassReferences/BaseClassReferences.project"/>
   <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project"/>
+  <Project Name="UsingOverrideSpecifier" Path="UsingOverrideSpecifier/UsingOverrideSpecifier.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -15,6 +16,7 @@
       <Project Name="UsingFinalSpecifier" ConfigName="Debug"/>
       <Project Name="BaseClassReferences" ConfigName="Debug"/>
       <Project Name="VirtualFunctions" ConfigName="Debug"/>
+      <Project Name="UsingOverrideSpecifier" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -24,6 +26,7 @@
       <Project Name="UsingFinalSpecifier" ConfigName="Release"/>
       <Project Name="BaseClassReferences" ConfigName="Release"/>
       <Project Name="VirtualFunctions" ConfigName="Release"/>
+      <Project Name="UsingOverrideSpecifier" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
