@@ -3,10 +3,12 @@
   <Project Name="BaseClassPointers" Path="BaseClassPointers/BaseClassPointers.project" Active="No"/>
   <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project" Active="No"/>
   <Project Name="VirtualDestructors" Path="VirtualDestructors/VirtualDestructors.project" Active="No"/>
-  <Project Name="UsingFinalSpecifier" Path="UsingFinalSpecifier/UsingFinalSpecifier.project" Active="Yes"/>
-  <Project Name="BaseClassReferences" Path="BaseClassReferences/BaseClassReferences.project"/>
-  <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project"/>
-  <Project Name="UsingOverrideSpecifier" Path="UsingOverrideSpecifier/UsingOverrideSpecifier.project"/>
+  <Project Name="UsingFinalSpecifier" Path="UsingFinalSpecifier/UsingFinalSpecifier.project" Active="No"/>
+  <Project Name="BaseClassReferences" Path="BaseClassReferences/BaseClassReferences.project" Active="No"/>
+  <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project" Active="No"/>
+  <Project Name="UsingOverrideSpecifier" Path="UsingOverrideSpecifier/UsingOverrideSpecifier.project" Active="No"/>
+  <Project Name="Interfaces" Path="Interfaces/Interfaces.project" Active="No"/>
+  <Project Name="InterfacesComplete" Path="InterfacesComplete/InterfacesComplete.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +19,8 @@
       <Project Name="BaseClassReferences" ConfigName="Debug"/>
       <Project Name="VirtualFunctions" ConfigName="Debug"/>
       <Project Name="UsingOverrideSpecifier" ConfigName="Debug"/>
+      <Project Name="Interfaces" ConfigName="Debug"/>
+      <Project Name="InterfacesComplete" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +31,8 @@
       <Project Name="BaseClassReferences" ConfigName="Release"/>
       <Project Name="VirtualFunctions" ConfigName="Release"/>
       <Project Name="UsingOverrideSpecifier" ConfigName="Release"/>
+      <Project Name="Interfaces" ConfigName="Release"/>
+      <Project Name="InterfacesComplete" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
