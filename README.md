@@ -1,157 +1,166 @@
 # C++ Fundamentals
 
-Code outlining c++ code struxtures and syntax. 
+Code outlining C++ code structures and syntax. 
 
-## 1. Getting Started
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=2><h2>1. Getting Started</h2></td>
+        </tr>
+        <tr><td>FirstProject</td><td>An exmaple first project using input and output to display text in<br> the terminal.</td></tr>
+        <tr><td>CompileErrors</td><td>An exmaple for Compile Errors.</td></tr>
+        <tr><td>CompileWarnings</td><td>An exmaple for Compile Warnings.</td></tr>
+        <tr><td>LinkerErrors</td><td>An exmaple for Linker Errors.</td></tr>
+        <tr><td>Challenge</td><td>A coding challenge to recieve a string and handle a basic output.</td></tr>
+        <tr>
+            <td colspan=2><h2>2. C++ Program Structure</h2></td>
+        </tr>
+        <tr><td>ModifiedProgram</td><td>Very similar example to Challenge from previous section.</td></tr>
+        <tr><td>Comments</td><td>Example of how to use comments to document code.</td></tr>
+        <tr><td>BasicIO</td><td>Examples of how to provide IO through the terminal for different <br>data types.</td></tr>
+        <tr>
+            <td colspan=2><h2>3. Variables and Constants</h2></td>
+        </tr>
+        <tr><td>InitializingVariables</td><td>Example for how to initilize variables in a room area calculator.</td></tr>
+        <tr><td>GlobalVariables</td><td>Shows how to declare variables in a global scope.</td></tr>
+        <tr><td>PrimitiveTypes</td><td>Overview of prinitive data types including: char, int, long, float, and bool.</td></tr>
+        <tr><td>SizeOf</td><td>Introduces the ``sizeof`` operator.</td></tr>
+        <tr><td>SizeofOperator</td><td>Example for how to use the ``sizeof`` operator.</td></tr>
+        <tr><td>Constants</td><td>Introduce constants (variables that cannot be changed).</td></tr>
+        <tr><td>Challenge</td><td>Cleaning servise cost calculator for room size and and rates.</td></tr>
+        <tr>
+            <td colspan=2><h2>4. Arrays and Vectors</h2></td>
+        </tr>
+        <tr><td>Arrays</td><td>Example for how declare and use Arrays.</td></tr>
+        <tr><td>Vectors</td><td>Example for how declare and use Vectors.</td></tr>
+        <tr><td>Challenge</td><td>Manipulate vectors and combining vectors into a single vector.</td></tr>
+        <tr>
+            <td colspan=2><h2>5. Statements and Operators</h2></td>
+        </tr>
+        <tr><td>AssignmentOperator</td><td>Use of ``=`` operator.  </td></tr>
+        <tr><td>ArithmeticOperators</td><td>Use of ``+`` (addition), ``-`` (subtraction), ``*`` (multiplication), ``/`` (division), ``%`` (modulo) operators.</td></tr>
+        <tr><td>IncrementDecrementOperators</td><td>Use of ``++`` (increment up) and ``--`` (decrement down) operators.</td></tr>
+        <tr><td>MixedExpressions</td><td>Use of mixing the above expressions to find calculated answers.</td></tr>
+        <tr><td>RelationalOperators</td><td>Use of ``<`` (less than) and ``>`` (greater than) for variable comparison.</td></tr>
+        <tr><td>LogicalOperators</td><td>Using the ``<`` and ``>`` operators for boolean logic (true/false).</td></tr>
+        <tr><td>Challenge</td><td>Collecting all of these operators into a change calculator.</td></tr>
+        <tr>
+            <td colspan=2><h2>6. Controlling Program Flow</h2></td>
+        </tr>
+        <tr><td>IfStatement</td><td>Example for ``if`` logic, only runs if statement is true.</td></tr>
+        <tr><td>IfElseStatement</td><td>Example for ``ifelse`` logic, provides beckup statement if original is not true.</td></tr>
+        <tr><td>ConditionalOperator</td><td>Use of ``?`` as conditional operator, think inline ifelse.</td></tr>
+        <tr><td>ForLoop</td><td>Use of ``for`` loop to iterate through code for specified times.</td></tr>
+        <tr><td>WhileLoop</td><td>Use of ``while`` loop to iterate while a condition is true.</td></tr>
+        <tr><td>DoWhile</td><td>Use of ``dowhile`` loop, executes and then checks condition if it should run again.</td></tr>
+        <tr><td>Challenge</td><td>List maniputation through the use of a ``dowhile`` loop.</td></tr>
+        <tr>
+            <td colspan=2><h2>7. Characters and Strings</h2></td>
+        </tr>
+        <tr><td>CharFunctions</td><td>Example for handling ``char`` (character) variables and manipulating strings.</td></tr>
+        <tr><td>CStrings</td><td>Example for handling c-style strings.</td></tr>
+        <tr><td>CPPStrings</td><td>Example for handling cpp-stayle strings.</td></tr>
+        <tr><td>LetterPyramid</td><td>Display a letter pyramid from input (removes chars from string into list).</td></tr>
+        <tr><td>Challenge</td><td>Char challenge using a cipher for encoding a string.</td></tr>
+        <tr>
+            <td colspan=2><h2>8. Functions</h2></td>
+        </tr>
+        <tr><td>FunctionDefinitions</td><td>How to define functions.</td></tr>
+        <tr><td>FunctionPrototypes</td><td>Create function prototpes that define data types, before creating <br>the full function.</td></tr>
+        <tr><td>FunctionParameters</td><td>How to handle different parameters in a function.</td></tr>
+        <tr><td>DefaultArguments</td><td>Set default values to variables input into functions.</td></tr>
+        <tr><td>FunctionOverloading</td><td>Create different functionality of the same function with different data types.</td></tr>
+        <tr><td>ArraysAndFunctions</td><td>How to pass arrays into functions.</td></tr>
+        <tr><td>PassByReference</td><td>Manipulating variables inside of the function, and returning new values.</td></tr>
+        <tr><td>ScopeExample</td><td>Show the complexity of scope definitions and how it applys to functions.</td></tr>
+        <tr><td>HowFunctionCallsWork</td><td>Example of how to call functions.</td></tr>
+        <tr><td>Factorial</td><td>Perform factorial calculation by using a recursive function.</td></tr>
+        <tr><td>Fibonacci</td><td>Find the nth value of the Fibonacci sequence by using a recursive function.</td></tr>
+        <tr><td>SaveAPenny</td><td>Calculate daily double of nth day, if starting with $0.01.</td></tr>
+        <tr><td>Challenge</td><td>Same as challenge from last section, adds functions for each commmand type.</td></tr>
+        <tr>
+            <td colspan=2><h2>9. Pointer and References</h2></td>
+        </tr>
+        <tr><td>SimplePointers</td><td>Introduction to Pointers.</td></tr>
+        <tr><td>Dereference</td><td>How to dereference a pointer.</td></tr>
+        <tr><td>DynamicMemory</td><td>Use of pointers and allocating to the heap.</td></tr>
+        <tr><td>ArraysAndPointers</td><td>How to point to arrays and how changing values cahnges the pointers.</td></tr>
+        <tr><td>PointerArithmetic</td><td>How to apply arithemitc functions on pointers.</td></tr>
+        <tr><td>PassingPointers1</td><td>Passing an integer pointer to a function.</td></tr>
+        <tr><td>PassingPointers2</td><td>Passing multiple pointers to a function.</td></tr>
+        <tr><td>PassingPointers3</td><td>Passing different pointer types to functions.</td></tr>
+        <tr><td>ReverseArrayChallenge</td><td>Reverse an array through passing pointer of array.</td></tr>
+        <tr><td>ReturnPointer</td><td>Returning a pointer from a function.</td></tr>
+        <tr><td>References</td><td>Introduction to references.</td></tr>
+        <tr><td>Challenge</td><td>Pass array pointers to functions, one printing all values within array, the other multiplying all values together.</td></tr>
+        <tr>
+            <td colspan=2><h2>10. Object Oriented Programming</h2></td>
+        </tr>
+        <tr><td>DeclareClassAndObjects</td><td>Demonstrates the basic snytax for declarring a c++ class.</td></tr>
+        <tr><td>AccessingClassMembers</td><td>How to modify an object's attributes using the dot and pointer operators.</td></tr>
+        <tr><td>AccessModifiers</td><td>Setting access to class members with public, private, and protected.</td></tr>
+        <tr><td>ImplementingMethods</td><td>Implementing methods inside of the class declaration.</td></tr>
+        <tr><td>ImplementingMethods2</td><td>Implementing methods outside of the class declaration.</td></tr>
+        <tr><td>ConstructorsAndDestructors</td><td>Introducing how classes are constructed and destructed to and from memory.</td></tr>
+        <tr><td>DefaultConstructor</td><td>Initializing objects without providing initialization information.</td></tr>
+        <tr><td>ConstructorInitializationLists</td><td>Initializing an object's data members by assigning values.</td></tr>
+        <tr><td>DelegatingConstructors</td><td>Reducing code duplication by calling another constructor of the same class.</td></tr>
+        <tr><td>DefaultConstructorParameters</td><td>Setting default constructor parameter values.</td></tr>
+        <tr><td>CopyConstructor</td><td>Creating a new object from an existing object.</td></tr>
+        <tr><td>ShallowCopy</td><td>Showing the issues with shallow copy in context of copy constructor.</td></tr>
+        <tr><td>DeepCopy</td><td>Showing the correct way to implement copy constructors.</td></tr>
+        <tr><td>MoveConstructor</td><td>Moving constructors from objec to object (advanced).</td></tr>
+        <tr><td>ConstInClass</td><td>Creating objects that are not allowed to change.</td></tr>
+        <tr><td>StaticClassMembers</td><td>Creating class members that cannot be changed.</td></tr>
+        <tr><td>Challenge</td><td>Work with mulilevel OOP code (movies and movie).</td></tr>
+    </tbody>
+</table>
 
-| Title           | Description                                                                      |
-| :---:           | :----                                                                            |
-| FirstProject    | An exmaple first project using input and output to display text in the terminal. |
-| CompileErrors   | An exmaple for Compile Errors.                                                   |
-| CompileWarnings | An exmaple for Compile Warnings.                                                 |
-| LinkerErrors    | An exmaple for Linker Errors.                                                    |
-| Challenge       | A coding challenge to recieve a string and handle a basic output.                |
-
-## 2. C++ Program Structure
-
-| Title           | Description                                                                  |
-| :---:           | :----                                                                        |
-| ModifiedProgram | Very similar example to Challenge from previous section.                     |
-| Comments        | Example of how to use comments to document code.                             |
-| BasicIO         | Examples of how to provide IO through the terminal for different data types. |
-
-## 3. Variables and Constants
-
-| Title                 | Description                                                                   |
-| :---:                 | :----                                                                         |
-| InitializingVariables | Example for how to initilize variables in a room area calculator.             |
-| GlobalVariables       | Shows how to declare variables in a global scope.                             |
-| PrimitiveTypes        | Overview of prinitive data types including: char, int, long, float, and bool. |
-| SizeOf                | Introduces the ``sizeof`` operator.                                           |
-| SizeofOperator        | Example for how to use the ``sizeof`` operator.                               |
-| Constants             | Introduce constants (variables that cannot be changed).                       |
-| Challenge             | Cleaning servise cost calculator for room size and and rates.                 |
-
-## 4. Arrays and Vectors
-
-| Title     | Description                                                    |
-| :---:     | :----                                                          |
-| Arrays    | Example for how declare and use Arrrays.                       |
-| Vectors   | Example for how declare and use Vectors.                       |
-| Challenge | Manipulate vectors and combining vectors into a single vector. |
-
-## 5. Statements and Operators
-
-| Title                       | Description                                                                |
-| :---:                       | :----                                                                      |
-| AssignmentOperator          | Use of ``=`` operator.                                                     |
-| ArithmeticOperators         | Use of ``+`` (addition), ``-`` (subtraction), ``*`` (multiplication), ``/`` (division), ``%`` (modulo) operators. |
-| IncrementDecrementOperators | Use of ``++`` (increment up) and ``--`` (decrement down) operators.        |
-| MixedExpressions            | Use of mixing the above expressions to find calculated answers.            |
-| RelationalOperators         | Use of ``<`` (less than) and ``>`` (greater than) for variable comparison. |
-| LogicalOperators            | Using the ``<`` and ``>`` operators for boolean logic (true/false).        |
-| Challenge                   | Collecting all of these operators into a change calculator .               |
-
-## 6. Controlling Program Flow
-
-| Title               | Description                                                                         |
-| :---:               | :----                                                                               |
-| IfStatement         | Example for ``if`` logic, only runs if statement is true.                           |
-| IfElseStatement     | Example for ``ifelse`` logic, provides beckup statement if original is not true.    |
-| ConditionalOperator | Use of ``?`` as conditional operator, think inline ifelse.                          |
-| ForLoop             | Use of ``for`` loop to iterate through code for specified times.                    |
-| WhileLoop           | Use of ``while`` loop to iterate while a condition is true.                         |
-| DoWhile             | Use of ``dowhile`` loop, executes and then checks condition if it should run again. |
-| Challenge           | List maniputation through the use of a ``dowhile`` loop.                            |
-
-## 7. Characters and Strings
-
-| Title         | Description                                                                   |
-| :---:         | :----                                                                         |
-| CharFunctions | Example for handling ``char`` (character) variables and manipulating strings. |
-| CStrings      | Example for handling c-style strings.                                         |
-| CPPStrings    | Example for handling cpp-stayle strings.                                      |
-| LetterPyramid | Display a letter pyramid from input (removes chars from string into list).    |
-| Challenge     | Char challenge using a cipher for encoding a string.                          |
-
-## 8. Functions
-
-| Title                | Description                                                                          |
-| :---:                | :----                                                                                |
-| FunctionDefinitions  | How to define functions.                                                             |
-| FunctionPrototypes   | Create function prototpes that define data types, before creating the full function. |
-| FunctionParameters   | How to handle different parameters in a function.                                    |
-| DefaultArguments     | Set default values to variables input into functions.                                |
-| FunctionOverloading  | Create different functionality of the same function with different data types.       |
-| ArraysAndFunctions   | How to pass arrays into functions.                                                   |
-| PassByReference      | Manipulating variables inside of the function, and returning new values.             |
-| ScopeExample         | Show the complexity of scope definitions and how it applys to functions.             |
-| HowFunctionCallsWork | Example of how to call functions.                                                    |
-| Factorial            | Perform factorial calculation by using a recursive function.                         |
-| Fibonacci            | Find the nth value of the Fibonacci sequence by using a recursive function.          |
-| SaveAPenny           | Calculate daily double of nth day, if starting with $0.01.                           |
-| Challenge            | Same as challenge from last section, adds functions for each commmand type.          |
-
-## 9. Pointer and References
-
-| Title                 | Description                                                          |
-| :---:                 | :----                                                                |
-| SimplePointers        | Introduction to Pointers.                                            |
-| Dereference           | How to dereference a pointer.                                        |
-| DynamicMemory         | Use of pointers and allocating to the heap.                          |
-| ArraysAndPointers     | How to point to arrays and how changing values cahnges the pointers. |
-| PointerArithmetic     | How to apply arithemitc functions on pointers.                       |
-| PassingPointers1      | Passing an integer pointer to a function.                            |
-| PassingPointers2      | Passing multiple pointers to a function.                             |
-| PassingPointers3      | Passing different pointer types to functions.                        |
-| ReverseArrayChallenge | Reverse an array through passing pointer of array.                   |
-| ReturnPointer         | Returning a pointer from a function.                                 |
-| References            | Introduction to references.                                          |
-| Challenge             | Pass array pointers to functions, one printing all values within array, the other multiplying all values together. |
-
-## 10. Object Oriented Programming
-
-| Title                          | Description                                                                 |
-| :---:                          | :----                                                                       |
-| DeclareClassAndObjects         | Demonstrates the basic snytax for declarring a c++ class.                   |
-| AccessingClassMembers          | How to modify an object's attributes using the dot and pointer operators.   |
-| AccessModifiers                | Setting access to class members with public, private, and protected.        |
-| ImplementingMethods            | Implementing methods inside of the class declaration.                       |
-| ImplementingMethods2           | Implementing methods outside of the class declaration.                      |
-| ConstructorsAndDestructors     | Introducing how classes are constructed and destructed to and from memory.  |
-| DefaultConstructor             | Initializing objects without providing initialization information.          |
-| ConstructorInitializationLists | Initializing an object's data members by assigning values.                  |
-| DelegatingConstructors         | Reducing code duplication by calling another constructor of the same class. |
-| DefaultConstructorParameters   | Setting default constructor parameter values.                               |
-| CopyConstructor                | Creating a new object from an existing object.                              |
-| ShallowCopy                    | Showing the issues with shallow copy in context of copy constructor.        |
-| DeepCopy                       | Showing the correct way to implement copy constructors.                     |
-| MoveConstructor                | Moving constructors from objec to object (advanced).                        |
-| ConstInClass                   | Creating objects that are not allowed to change.                            |
-| StaticClassMembers             | Creating class members that cannot be changed.                              |
-| Challenge                      | Work with mulilevel OOP code (movies and movie).                            |
 
 ## 11. Operator Overloading
 
-| Title               | Description                                                            |
-| :---:               | :----                                                                  |
-| Start               | Starting code, creating a string object with a class to be overloaded. |
-| CopyAssignment      | Overloading Operators working with l-values.                           |
-| MoveAssignment      | Overloading Operators working with r-values.                           |
-| OperatorMethods     | Demonstrates Overloading Operators as Member Functions.                |
-| OperatorFunctions   | Demonstrates Overloading Operators as Global Functions.                |
-| InsertionExtraction | Insertion and Extraction of information into objects.                  |
-| Challenge           | Implementation of all Overloading Operator functions.                  |
+| Title                             | Description                                                            |
+| :---:                             | :----                                                                  |
+| Start                             | Starting code, creating a string object with a class to be overloaded. |
+| CopyAssignment                    | Overloading Operators working with l-values.                           |
+| MoveAssignment                    | Overloading Operators working with r-values.                           |
+| OperatorMethods                   | Demonstrates Overloading Operators as Member Functions.                |
+| OperatorFunctions                 | Demonstrates Overloading Operators as Global Functions.                |
+| InsertionExtraction               | Insertion and Extraction of information into objects.                  |
+| Challenge                         | Implementation of all Overloading Operator functions.                  |
 
 ## 12. Inheritance
 
-| Title | Description |
-| :---: | :----       |
+| Title                             | Description                                                                                               |
+| :---:                             | :----                                                                                                     |
+| DerivingOurFirstClass             | Basics in deriving a class from a base class.                                                             |
+| ProtectedMemberClassAccess        | Defining public, protected, and private class definitions that affect the class's visibility and context. |
+| ConstructorsandDestructors        | Constructing and destructing classes to handle memory.                                                    |
+| BaseClassInitialization           | Initialization of base classes and passing arguments into them.                                           |
+| CopyConstructorAssignmentOperator | Derviving classes with move and copy constructors.                                                        |
+| RedefiningBaseClassMethods        | Redefine how base classes are defined to allow for better inheritance practices.                          |
+| Challenge                         | Implementation of all the previous sections.                                                              |
 
 ## 13. Polymorphism
 
-| Title | Description |
-| :---: | :----       |
+| Title                             | Description |
+| :---:                             | :---- |
+| BaseClassPointers                 | Declaring a new object using a pointer to the base class.|
+| VirtualFunctions                  | Declaring base classes with virtual functions.|
+| VirtualDestructors                | Cleaning up base classes with virtual destructors.|
+| UsingOverrideSpecifier            | Overriding base class methods in the derived classes.|
+| UsingFinalSpecifier               | Specifying a class as final to prevent use in further derived classes.|
+| BaseClassReferences               | Referencing the base class.|
+| PureVirtualFunctions              | Exemplify the making of a pure functions for abstraction.|
+| Interfaces                        | Defining methods a class must implement in abstract classes - start point.|
+| InterfacesComplete                | Defining methods a class must implement in abstract classes - end point.|
+| Challenge                         | Use the previous sections to create a hierarchy of classes.|
 
 ## 14. Smart Pointers
 
