@@ -3,7 +3,6 @@
 #include <iostream>
 
 // This class uses dynamic polymorphism for the withdraw method
-// We'll learn about virtual functions in the next video
 class Account {
 public:
     virtual void withdraw(double amount) {
