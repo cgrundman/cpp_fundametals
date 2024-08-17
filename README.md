@@ -32,20 +32,16 @@ Code outlining C++ code structures and syntax.
         <tr><td>Arrays</td><td>Example for how declare and use Arrays.</td></tr>
         <tr><td>Vectors</td><td>Example for how declare and use Vectors.</td></tr>
         <tr><td>Challenge</td><td>Manipulate vectors and combining vectors into a single vector.</td></tr>
+        <tr><td colspan=2><h2>5. Statements and Operators</h2></td></tr>
+        <tr><td>AssignmentOperator</td><td>Use of ``=`` operator.  </td></tr>
+        <tr><td>ArithmeticOperators</td><td>Use of ``+`` (addition), ``-`` (subtraction), ``*`` (multiplication), ``/`` (division), ``%`` (modulo) operators.</td></tr>
+        <tr><td>IncrementDecrementOperators</td><td>Use of ``++`` (increment up) and ``--`` (decrement down) operators.</td></tr>
+        <tr><td>MixedExpressions</td><td>Use of mixing the above expressions to find calculated answers.</td></tr>
+        <tr><td>RelationalOperators</td><td>Use of ``<`` (less than) and ``>`` (greater than) for variable comparison.</td></tr>
+        <tr><td>LogicalOperators</td><td>Using the ``<`` and ``>`` operators for boolean logic (true/false).</td></tr>
+        <tr><td>Challenge</td><td>Collecting all of these operators into a change calculator.</td></tr>
     </tbody>
 </table>
-
-## 5. Statements and Operators
-
-| Title                             | Description                                                                |
-| :---:                             | :----                                                                      |
-| AssignmentOperator                | Use of ``=`` operator.                                                     |
-| ArithmeticOperators               | Use of ``+`` (addition), ``-`` (subtraction),                    <br>``*`` (multiplication), ``/`` (division), ``%`` (modulo) operators.|
-| IncrementDecrementOperators       | Use of ``++`` (increment up) and ``--`` (decrement down) operators.        |
-| MixedExpressions                  | Use of mixing the above expressions to find calculated answers.            |
-| RelationalOperators               | Use of ``<`` (less than) and ``>`` (greater than) for variable   <br>comparison. |
-| LogicalOperators                  | Using the ``<`` and ``>`` operators for boolean logic (true/false).        |
-| Challenge                         | Collecting all of these operators into a change calculator .               |
 
 ## 6. Controlling Program Flow
 
