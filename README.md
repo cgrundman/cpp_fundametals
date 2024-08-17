@@ -2,35 +2,34 @@
 
 Code outlining C++ code structures and syntax. 
 
-## 1. Getting Started
-
-| Title                             | Description                                                                      |
-| :---:                             | :----                                                                            |
-| FirstProject                      | An exmaple first project using input and output to display text in<br> the terminal. |
-| CompileErrors                     | An exmaple for Compile Errors.                                                   |
-| CompileWarnings                   | An exmaple for Compile Warnings.                                                 |
-| LinkerErrors                      | An exmaple for Linker Errors.                                                    |
-| Challenge                         | A coding challenge to recieve a string and handle a basic output.                |
-
-## 2. C++ Program Structure
-
-| Title                             | Description                                                                  |
-| :---:                             | :----                                                                        |
-| ModifiedProgram                   | Very similar example to Challenge from previous section.                     |
-| Comments                          | Example of how to use comments to document code.                             |
-| BasicIO                           | Examples of how to provide IO through the terminal for different <br>data types. |
-
-## 3. Variables and Constants
-
-| Title                             | Description                                                                   |
-| :---:                             | :----                                                                         |
-| InitializingVariables             | Example for how to initilize variables in a room area calculator.             |
-| GlobalVariables                   | Shows how to declare variables in a global scope.                             |
-| PrimitiveTypes                    | Overview of prinitive data types including: char, int, long,     <br>float, and bool. |
-| SizeOf                            | Introduces the ``sizeof`` operator.                                           |
-| SizeofOperator                    | Example for how to use the ``sizeof`` operator.                               |
-| Constants                         | Introduce constants (variables that cannot be changed).                       |
-| Challenge                         | Cleaning servise cost calculator for room size and and rates.                 |
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td colspan=2><h2>1. Getting Started</h2></td></tr>
+        <tr><td>FirstProject</td><td>An exmaple first project using input and output to display text in<br> the terminal.</td></tr>
+        <tr><td>CompileErrors</td><td>An exmaple for Compile Errors.</td></tr>
+        <tr><td>CompileWarnings</td><td>An exmaple for Compile Warnings.</td></tr>
+        <tr><td>LinkerErrors</td><td>An exmaple for Linker Errors.</td></tr>
+        <tr><td>Challenge</td><td>A coding challenge to recieve a string and handle a basic output.</td></tr>
+        <tr><td colspan=2><h2>2. C++ Program Structure</h2></td></tr>
+        <tr><td>ModifiedProgram</td><td>Very similar example to Challenge from previous section.</td></tr>
+        <tr><td>Comments</td><td>Example of how to use comments to document code.</td></tr>
+        <tr><td>BasicIO</td><td>Examples of how to provide IO through the terminal for different <br>data types.</td></tr>
+        <tr><td colspan=2><h2>3. Variables and Constants</h2></td></tr>
+        <tr><td>InitializingVariables</td><td>Example for how to initilize variables in a room area calculator.</td></tr>
+        <tr><td>GlobalVariables</td><td>Shows how to declare variables in a global scope.</td></tr>
+        <tr><td>PrimitiveTypes</td><td>Overview of prinitive data types including: char, int, long, float, and bool.</td></tr>
+        <tr><td>SizeOf</td><td>Introduces the ``sizeof`` operator.</td></tr>
+        <tr><td>SizeofOperator</td><td>Example for how to use the ``sizeof`` operator.</td></tr>
+        <tr><td>Constants</td><td>Introduce constants (variables that cannot be changed).</td></tr>
+        <tr><td>Challenge</td><td>Cleaning servise cost calculator for room size and and rates.</td></tr>
+    </tbody>
+</table>
 
 ## 4. Arrays and Vectors
 
