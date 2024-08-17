@@ -28,16 +28,12 @@ Code outlining C++ code structures and syntax.
         <tr><td>SizeofOperator</td><td>Example for how to use the ``sizeof`` operator.</td></tr>
         <tr><td>Constants</td><td>Introduce constants (variables that cannot be changed).</td></tr>
         <tr><td>Challenge</td><td>Cleaning servise cost calculator for room size and and rates.</td></tr>
+        <tr><td colspan=2><h2>4. Arrays and Vectors</h2></td></tr>
+        <tr><td>Arrays</td><td>Example for how declare and use Arrays.</td></tr>
+        <tr><td>Vectors</td><td>Example for how declare and use Vectors.</td></tr>
+        <tr><td>Challenge</td><td>Manipulate vectors and combining vectors into a single vector.</td></tr>
     </tbody>
 </table>
-
-## 4. Arrays and Vectors
-
-| Title                             | Description                                                    |
-| :---:                             | :----                                                          |
-| Arrays                            | Example for how declare and use Arrrays.                       |
-| Vectors                           | Example for how declare and use Vectors.                       |
-| Challenge                         | Manipulate vectors and combining vectors into a single vector. |
 
 ## 5. Statements and Operators
 
