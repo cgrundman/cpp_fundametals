@@ -145,8 +145,15 @@ Code outlining c++ code struxtures and syntax.
 
 ## 12. Inheritance
 
-| Title | Description |
-| :---: | :----       |
+| Title                             | Description                                                                                               |
+| :---:                             | :----                                                                                                     |
+| DerivingOurFirstClass             | Basics in deriving a class from a base class.                                                             |
+| ProtectedMemberClassAccess        | Defining public, protected, and private class definitions that affect the class's visibility and context. |
+| ConstructorsandDestructors        | Constructing and destructing classes to handle memory.                                                    |
+| BaseClassInitialization           | Initialization of base classes and passing arguments into them.                                           |
+| CopyConstructorAssignmentOperator | Derviving classes with move and copy constructors.                                                        |
+| RedefiningBaseClassMethods        | Redefine how base classes are defined to allow for better inheritance practices.                          |
+| Challenge                         | Implementation of all the previous sections.                                                              |
 
 ## 13. Polymorphism
 
