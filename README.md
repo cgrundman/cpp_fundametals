@@ -119,21 +119,19 @@ Code outlining C++ code structures and syntax.
         <tr><td>ConstInClass</td><td>Creating objects that are not allowed to change.</td></tr>
         <tr><td>StaticClassMembers</td><td>Creating class members that cannot be changed.</td></tr>
         <tr><td>Challenge</td><td>Work with mulilevel OOP code (movies and movie).</td></tr>
+        <tr>
+            <td colspan=2><h2>11. Operator Overloading</h2></td>
+        </tr>
+        <tr><td>Start</td><td>Starting code, creating a string object with a class to be overloaded.</td></tr>
+        <tr><td>CopyAssignment</td><td>Overloading Operators working with l-values.</td></tr>
+        <tr><td>MoveAssignment</td><td>Overloading Operators working with r-values.</td></tr>
+        <tr><td>OperatorMethods</td><td>Demonstrates Overloading Operators as Member Functions.</td></tr>
+        <tr><td>OperatorFunctions</td><td>Demonstrates Overloading Operators as Global Functions.</td></tr>
+        <tr><td>InsertionExtraction</td><td>Insertion and Extraction of information into objects.</td></tr>
+        <tr><td>Challenge</td><td>Implementation of all Overloading Operator functions.</td></tr>
     </tbody>
 </table>
 
-
-## 11. Operator Overloading
-
-| Title                             | Description                                                            |
-| :---:                             | :----                                                                  |
-| Start                             | Starting code, creating a string object with a class to be overloaded. |
-| CopyAssignment                    | Overloading Operators working with l-values.                           |
-| MoveAssignment                    | Overloading Operators working with r-values.                           |
-| OperatorMethods                   | Demonstrates Overloading Operators as Member Functions.                |
-| OperatorFunctions                 | Demonstrates Overloading Operators as Global Functions.                |
-| InsertionExtraction               | Insertion and Extraction of information into objects.                  |
-| Challenge                         | Implementation of all Overloading Operator functions.                  |
 
 ## 12. Inheritance
 
