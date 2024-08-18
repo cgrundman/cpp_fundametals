@@ -129,60 +129,44 @@ Code outlining C++ code structures and syntax.
         <tr><td>OperatorFunctions</td><td>Demonstrates Overloading Operators as Global Functions.</td></tr>
         <tr><td>InsertionExtraction</td><td>Insertion and Extraction of information into objects.</td></tr>
         <tr><td>Challenge</td><td>Implementation of all Overloading Operator functions.</td></tr>
+        <tr>
+            <td colspan=2><h2>12. Inheritance</h2></td>
+        </tr>
+        <tr><td>DerivingOurFirstClass</td><td>Basics in deriving a class from a base class.</td></tr>
+        <tr><td>ProtectedMemberClassAccess</td><td>Defining public, protected, and private class definitions that affect the class's visibility and context.</td></tr>
+        <tr><td>BaseClassInitialization</td><td>Initialization of base classes and passing arguments into them.</td></tr>
+        <tr><td>CopyConstructorAssignmentOperator</td><td>Derviving classes with move and copy constructors.</td></tr>
+        <tr><td>RedefiningBaseClassMethods</td><td>Redefine how base classes are defined to allow for better inheritance practices.</td></tr>
+        <tr><td>Challenge</td><td>Implementation of all the previous sections.</td></tr>
+        <tr>
+            <td colspan=2><h2>13. Polymorphism</h2></td>
+        </tr>
+        <tr><td>BaseClassPointers</td><td>Declaring a new object using a pointer to the base class.</td></tr>
+        <tr><td>VirtualFunctions</td><td>Declaring base classes with virtual functions.</td></tr>
+        <tr><td>VirtualDestructors</td><td>Cleaning up base classes with virtual destructors.</td></tr>
+        <tr><td>UsingOverrideSpecifier</td><td>Overriding base class methods in the derived classes.</td></tr>
+        <tr><td>UsingFinalSpecifier</td><td>Specifying a class as final to prevent use in further derived classes.</td></tr>
+        <tr><td>BaseClassReferences</td><td>Referencing the base class.</td></tr>
+        <tr><td>PureVirtualFunctions</td><td>Exemplify the making of a pure functions for abstraction.</td></tr>
+        <tr><td>Interfaces</td><td>Defining methods a class must implement in abstract classes - start point.</td></tr>
+        <tr><td>InterfacesComplete</td><td>Defining methods a class must implement in abstract classes - end point.</td></tr>
+        <tr><td>Challenge</td><td>Use the previous sections to create a hierarchy of classes.</td></tr>
+        <tr>
+            <td colspan=2><h2>14. Smart Pointers</h2></td>
+        </tr>
+        <tr>
+            <td colspan=2><h2>15. Exception Handling</h2></td>
+        </tr>
+        <tr>
+            <td colspan=2><h2>16. I/O Streams</h2></td>
+        </tr>
+        <tr>
+            <td colspan=2><h2>17. The Standard Template Library (STL)</h2></td>
+        </tr>
+        <tr>
+            <td colspan=2><h2>18. Lambda Expressions</h2></td>
+        </tr>
     </tbody>
 </table>
-
-
-## 12. Inheritance
-
-| Title                             | Description                                                                                               |
-| :---:                             | :----                                                                                                     |
-| DerivingOurFirstClass             | Basics in deriving a class from a base class.                                                             |
-| ProtectedMemberClassAccess        | Defining public, protected, and private class definitions that affect the class's visibility and context. |
-| ConstructorsandDestructors        | Constructing and destructing classes to handle memory.                                                    |
-| BaseClassInitialization           | Initialization of base classes and passing arguments into them.                                           |
-| CopyConstructorAssignmentOperator | Derviving classes with move and copy constructors.                                                        |
-| RedefiningBaseClassMethods        | Redefine how base classes are defined to allow for better inheritance practices.                          |
-| Challenge                         | Implementation of all the previous sections.                                                              |
-
-## 13. Polymorphism
-
-| Title                             | Description |
-| :---:                             | :---- |
-| BaseClassPointers                 | Declaring a new object using a pointer to the base class.|
-| VirtualFunctions                  | Declaring base classes with virtual functions.|
-| VirtualDestructors                | Cleaning up base classes with virtual destructors.|
-| UsingOverrideSpecifier            | Overriding base class methods in the derived classes.|
-| UsingFinalSpecifier               | Specifying a class as final to prevent use in further derived classes.|
-| BaseClassReferences               | Referencing the base class.|
-| PureVirtualFunctions              | Exemplify the making of a pure functions for abstraction.|
-| Interfaces                        | Defining methods a class must implement in abstract classes - start point.|
-| InterfacesComplete                | Defining methods a class must implement in abstract classes - end point.|
-| Challenge                         | Use the previous sections to create a hierarchy of classes.|
-
-## 14. Smart Pointers
-
-| Title | Description |
-| :---: | :----       |
-
-## 15. Exception Handling
-
-| Title | Description |
-| :---: | :----       |
-
-## 16. I/O Streams
-
-| Title | Description |
-| :---: | :----       |
-
-## 17. The Standard Template Library (STL)
-
-| Title | Description |
-| :---: | :----       |
-
-## 18. Lambda Expressions
-
-| Title | Description |
-| :---: | :----       |
 
 All code thanks to instructor Dr. Frank Mitropoulos and [Tim Buchalka's Learn Programming Academy](https://learnprogramming.academy/) course found [here](https://www.udemy.com/course/beginning-c-plus-plus-programming/?couponCode=OF52424).
