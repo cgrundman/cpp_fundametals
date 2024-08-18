@@ -2,19 +2,22 @@
 <CodeLite_Workspace Name="14-smart_pointers" Database="" Version="10000">
   <Project Name="UniquePointers" Path="UniquePointers/UniquePointers.project" Active="No"/>
   <Project Name="SharedPointers" Path="SharedPointers/SharedPointers.project" Active="No"/>
-  <Project Name="WeakPointers" Path="WeakPointers/WeakPointers.project" Active="Yes"/>
+  <Project Name="WeakPointers" Path="WeakPointers/WeakPointers.project" Active="No"/>
+  <Project Name="CustomDeleters" Path="CustomDeleters/CustomDeleters.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="UniquePointers" ConfigName="Debug"/>
       <Project Name="SharedPointers" ConfigName="Debug"/>
       <Project Name="WeakPointers" ConfigName="Debug"/>
+      <Project Name="CustomDeleters" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="UniquePointers" ConfigName="Release"/>
       <Project Name="SharedPointers" ConfigName="Release"/>
       <Project Name="WeakPointers" ConfigName="Release"/>
+      <Project Name="CustomDeleters" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
