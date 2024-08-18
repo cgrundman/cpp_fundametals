@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="14-smart_pointers" Database="" Version="10000">
-  <Project Name="UniquePointers" Path="UniquePointers/UniquePointers.project" Active="Yes"/>
+  <Project Name="UniquePointers" Path="UniquePointers/UniquePointers.project" Active="No"/>
+  <Project Name="SharedPointers" Path="SharedPointers/SharedPointers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="UniquePointers" ConfigName="Debug"/>
+      <Project Name="SharedPointers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="UniquePointers" ConfigName="Release"/>
+      <Project Name="SharedPointers" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
