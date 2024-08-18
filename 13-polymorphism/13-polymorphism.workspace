@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Polymorphism" Database="" Version="10000">
-  <Project Name="BaseClassPointers" Path="BaseClassPointers/BaseClassPointers.project" Active="Yes"/>
+  <Project Name="BaseClassPointers" Path="BaseClassPointers/BaseClassPointers.project" Active="No"/>
   <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project" Active="No"/>
   <Project Name="VirtualDestructors" Path="VirtualDestructors/VirtualDestructors.project" Active="No"/>
   <Project Name="UsingFinalSpecifier" Path="UsingFinalSpecifier/UsingFinalSpecifier.project" Active="No"/>
@@ -10,6 +10,7 @@
   <Project Name="Interfaces" Path="Interfaces/Interfaces.project" Active="No"/>
   <Project Name="InterfacesComplete" Path="InterfacesComplete/InterfacesComplete.project" Active="No"/>
   <Project Name="PureVirtualFunctions" Path="PureVirtualFunctions/PureVirtualFunctions.project" Active="No"/>
+  <Project Name="Challenge" Path="Challange/Challange.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -23,6 +24,7 @@
       <Project Name="Interfaces" ConfigName="Debug"/>
       <Project Name="InterfacesComplete" ConfigName="Debug"/>
       <Project Name="PureVirtualFunctions" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -36,6 +38,7 @@
       <Project Name="Interfaces" ConfigName="Release"/>
       <Project Name="InterfacesComplete" ConfigName="Release"/>
       <Project Name="PureVirtualFunctions" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
