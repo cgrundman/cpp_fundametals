@@ -154,6 +154,11 @@ Code outlining C++ code structures and syntax.
         <tr>
             <td colspan=2><h2>14. Smart Pointers</h2></td>
         </tr>
+        <tr><td>UniquePointers</td><td>Guarantees deletion of pointed-to object even when destructed.</td></tr>
+        <tr><td>SharedPointers</td><td>Allows sharing to other pointers and copying while preventing memory leaks.</td></tr>
+        <tr><td>WeakPointers</td><td>Prevents ownership of pointed-to object to prevent curcular dependcy in shared pointers</td></tr>
+        <tr><td>CustomDeleters</td><td>Customize deleters to pointers to better control memory.</td></tr>
+        <tr><td>Challenge</td><td>Make a function to accept a size of and values for a vector of pointers.</td></tr>
         <tr>
             <td colspan=2><h2>15. Exception Handling</h2></td>
         </tr>
