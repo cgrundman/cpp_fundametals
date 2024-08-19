@@ -3,8 +3,7 @@
   <Project Name="UniquePointers" Path="UniquePointers/UniquePointers.project" Active="No"/>
   <Project Name="SharedPointers" Path="SharedPointers/SharedPointers.project" Active="No"/>
   <Project Name="WeakPointers" Path="WeakPointers/WeakPointers.project" Active="No"/>
-  <Project Name="CustomDeleters" Path="CustomDeleters/CustomDeleters.project" Active="No"/>
-  <Project Name="Challenge" Path="Challange/Challange.project" Active="Yes"/>
+  <Project Name="CustomDeleters" Path="CustomDeleters/CustomDeleters.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
