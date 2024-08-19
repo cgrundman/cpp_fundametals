@@ -4,6 +4,7 @@
   <Project Name="SharedPointers" Path="SharedPointers/SharedPointers.project" Active="No"/>
   <Project Name="WeakPointers" Path="WeakPointers/WeakPointers.project" Active="No"/>
   <Project Name="CustomDeleters" Path="CustomDeleters/CustomDeleters.project" Active="Yes"/>
+  <Project Name="Challange" Path="Challange/Challange.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="SharedPointers" ConfigName="Debug"/>
       <Project Name="WeakPointers" ConfigName="Debug"/>
       <Project Name="CustomDeleters" ConfigName="Debug"/>
+      <Project Name="Challange" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="SharedPointers" ConfigName="Release"/>
       <Project Name="WeakPointers" ConfigName="Release"/>
       <Project Name="CustomDeleters" ConfigName="Release"/>
+      <Project Name="Challange" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
