@@ -162,15 +162,26 @@ Code outlining C++ code structures and syntax.
         <tr>
             <td colspan=2><h2>15. Exception Handling</h2></td>
         </tr>
+        <tr><td>MPG</td><td>Provides base code for calculating fuel economy (MPG) with errors being handled by if/else statements.</td></tr>
+        <tr><td>MPGException</td><td>Implementing the if/else statements into exceptions.</td></tr>
+        <tr><td>MPGFunction</td><td>Functionalizes the execption into its own class.</td></tr>
+        <tr><td>MPGMultipleExceptions</td><td>Demonstrates the use of multiple exceptions.</td></tr>
+        <tr><td>StackUnwinding</td><td>Demonstrates how to exceptions work when put in different layers of stacked functions.</td></tr>
+        <tr><td>MPGFunctionExceptionClasses</td><td>Makes multiple functions out of exceptions.</td></tr>
+        <tr><td>ConstructorException</td><td>Demonstrates how to construct exceptions as a class in another file.</td></tr>
+        <tr><td>Challenge</td><td>Creates two seperate .h files containing execptions to account errors.</td></tr>
         <tr>
             <td colspan=2><h2>16. I/O Streams</h2></td>
         </tr>
+        <tr><td></td><td></td></tr>
         <tr>
             <td colspan=2><h2>17. The Standard Template Library (STL)</h2></td>
         </tr>
+        <tr><td></td><td></td></tr>
         <tr>
             <td colspan=2><h2>18. Lambda Expressions</h2></td>
         </tr>
+        <tr><td></td><td></td></tr>
     </tbody>
 </table>
 
