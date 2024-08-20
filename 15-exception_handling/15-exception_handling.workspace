@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="15-exception_handling" Database="" Version="10000">
   <Project Name="MPG" Path="MPG/MPG.project" Active="No"/>
-  <Project Name="MPGException" Path="MPGException/MPGException.project" Active="Yes"/>
+  <Project Name="MPGException" Path="MPGException/MPGException.project" Active="No"/>
+  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="MPG" ConfigName="Debug"/>
       <Project Name="MPGException" ConfigName="Debug"/>
+      <Project Name="MPGFunction" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="MPG" ConfigName="Release"/>
       <Project Name="MPGException" ConfigName="Release"/>
+      <Project Name="MPGFunction" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
