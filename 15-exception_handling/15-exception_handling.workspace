@@ -4,7 +4,8 @@
   <Project Name="MPGException" Path="MPGException/MPGException.project" Active="No"/>
   <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="No"/>
   <Project Name="MPGMultipleExceptions" Path="MPGMultipleExceptions/MPGMultipleExceptions.project" Active="No"/>
-  <Project Name="StackUnwinding" Path="StackUnwinding/StackUnwinding.project" Active="Yes"/>
+  <Project Name="StackUnwinding" Path="StackUnwinding/StackUnwinding.project" Active="No"/>
+  <Project Name="MPGFunctionExceptionClasses" Path="MPGFunctionExceptionClasses/MPGFunctionExceptionClasses.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +14,7 @@
       <Project Name="MPGFunction" ConfigName="Debug"/>
       <Project Name="MPGMultipleExceptions" ConfigName="Debug"/>
       <Project Name="StackUnwinding" ConfigName="Debug"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +23,7 @@
       <Project Name="MPGFunction" ConfigName="Release"/>
       <Project Name="MPGMultipleExceptions" ConfigName="Release"/>
       <Project Name="StackUnwinding" ConfigName="Release"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
