@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="16-io_and_streams" Database="" Version="10000">
-  <Project Name="ManipBoolean" Path="ManipBoolean/ManipBoolean.project" Active="Yes"/>
+  <Project Name="ManipBoolean" Path="ManipBoolean/ManipBoolean.project" Active="No"/>
+  <Project Name="ManipIntegers" Path="ManipIntegers/ManipIntegers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="ManipBoolean" ConfigName="Debug"/>
+      <Project Name="ManipIntegers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="ManipBoolean" ConfigName="Release"/>
+      <Project Name="ManipIntegers" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
