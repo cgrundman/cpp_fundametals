@@ -3,7 +3,8 @@
   <Project Name="ManipBoolean" Path="ManipBoolean/ManipBoolean.project" Active="No"/>
   <Project Name="ManipIntegers" Path="ManipIntegers/ManipIntegers.project" Active="No"/>
   <Project Name="ManipFloating" Path="ManipFloating/ManipFloating.project" Active="No"/>
-  <Project Name="ManipAlignFill" Path="ManipAlignFill/ManipAlignFill.project" Active="Yes"/>
+  <Project Name="ManipAlignFill" Path="ManipAlignFill/ManipAlignFill.project" Active="No"/>
+  <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="ManipIntegers" ConfigName="Debug"/>
       <Project Name="ManipFloating" ConfigName="Debug"/>
       <Project Name="ManipAlignFill" ConfigName="Debug"/>
+      <Project Name="Challenge1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="ManipIntegers" ConfigName="Release"/>
       <Project Name="ManipFloating" ConfigName="Release"/>
       <Project Name="ManipAlignFill" ConfigName="Release"/>
+      <Project Name="Challenge1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
