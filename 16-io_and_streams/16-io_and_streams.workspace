@@ -5,8 +5,9 @@
   <Project Name="ManipFloating" Path="ManipFloating/ManipFloating.project" Active="No"/>
   <Project Name="ManipAlignFill" Path="ManipAlignFill/ManipAlignFill.project" Active="No"/>
   <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
-  <Project Name="ReadFile1" Path="ReadFile1/ReadFile1.project" Active="Yes"/>
-  <Project Name="ReadFile2" Path="ReadFile2/ReadFile2.project"/>
+  <Project Name="ReadFile1" Path="ReadFile1/ReadFile1.project" Active="No"/>
+  <Project Name="ReadFile2" Path="ReadFile2/ReadFile2.project" Active="No"/>
+  <Project Name="ReadFile3" Path="ReadFile3/ReadFile3.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +18,7 @@
       <Project Name="Challenge1" ConfigName="Debug"/>
       <Project Name="ReadFile1" ConfigName="Debug"/>
       <Project Name="ReadFile2" ConfigName="Debug"/>
+      <Project Name="ReadFile3" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +29,7 @@
       <Project Name="Challenge1" ConfigName="Release"/>
       <Project Name="ReadFile1" ConfigName="Release"/>
       <Project Name="ReadFile2" ConfigName="Release"/>
+      <Project Name="ReadFile3" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
