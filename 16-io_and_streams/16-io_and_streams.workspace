@@ -8,8 +8,8 @@
   <Project Name="ReadFile1" Path="ReadFile1/ReadFile1.project" Active="No"/>
   <Project Name="ReadFile2" Path="ReadFile2/ReadFile2.project" Active="No"/>
   <Project Name="ReadFile3" Path="ReadFile3/ReadFile3.project" Active="No"/>
-  <Project Name="ReadFile4" Path="ReadFile4/ReadFile4.project" Active="Yes"/>
-  <Project Name="Challenge2" Path="Challenge2/Challenge2.project"/>
+  <Project Name="ReadFile4" Path="ReadFile4/ReadFile4.project" Active="No"/>
+  <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
