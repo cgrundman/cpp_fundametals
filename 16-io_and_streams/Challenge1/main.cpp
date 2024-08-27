@@ -54,24 +54,41 @@ int main()
             },
         }
     };
-
+    
+    const int total_width {70};
+    const int field1_width {20}; // County name
+    const int field2_width {20}; // City Name
+    const int field3_width {15}; // Population
+    const int field4_width {15}; // Cost
+    
+    
     // Formatted display
-    std::cout << std::setw(64) << std::left << tours.title << std::endl;
-    std::cout << std::setw(10) << std::left << " Country"
-    << "\t" << std::setw(14) << std::left << "     City" 
-    << "\t" << std::setw(8) << std::left << "Population" 
-    << "\t" << std::setw(10) << std::left << "     Cost" << std::endl;
-    for(auto country : tours.countries) {   // loop through the countries
-        std::cout << std::setw(10) << std::left << country.name << std::endl;
-        for(auto city : country.cities) {       // loop through the cities for each country
-            std::cout << std::setw(11) << std::right 
-                          << "\t" << std::setw(14) << std::right << city.name 
-                          << "\t" << std::setw(11) << std::right << city.population 
-                          << "\t" << std::setw(10) << std::right << "$" << city.cost 
-                          << std::endl;
+    int title_length = tours.title.length();
+    std::cout << std::setw((total_width - title_length)/2) << "" << tours.title << std::endl;
+    std::cout << std::endl;
+    std::cout << std::setw(field1_width) << std::left << "Country"
+              << std::setw(field2_width) << std::left << "City"
+              << std::setw(field3_width) << std::right << "Population"
+              << std::setw(field4_width) << std::right << "Price"
+              << std::endl;
+              
+    std::cout << std::setw(total_width)
+              << std::setfill('-')
+              << std::endl;
+              
+    std::cout << std::setfill(' ');
+    std::cout << std::setprecision(2) << std::fixed;
+    
+    for(Country country : tours.countries) {
+        for(size_t i=0; i<country.cities.size(); ++i) {       // loop through the cities for each country
+            std::cout << std::setw(field1_width) << std::left << ((i == 0) ? country.name : "")
+                      << std::setw(field2_width) << std::left << country.cities.at(i).name
+                      << std::setw(field3_width) << std::right << country.cities.at(i).population
+                      << std::setw(field4_width) << std::right << country.cities.at(i).cost
+                      << std::endl;
         }
     }
 
-    std::cout << std::endl << std::endl;
+//    std::cout << std::endl << std::endl;
     return 0;
 }
