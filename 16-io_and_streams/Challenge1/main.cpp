@@ -25,7 +25,7 @@ struct Tours {
 int main()
 {
     Tours tours
-        { "Tour Ticket Prices from Miami",
+        { "                 Tour Ticket Prices from Miami",
             {
                 {
                     "Colombia", { 
@@ -56,13 +56,18 @@ int main()
     };
 
     // Formatted display
-    std::cout << tours.title << std::endl;
+    std::cout << std::setw(64) << std::left << tours.title << std::endl;
+    std::cout << std::setw(10) << std::left << " Country"
+    << "\t" << std::setw(14) << std::left << "     City" 
+    << "\t" << std::setw(8) << std::left << "Population" 
+    << "\t" << std::setw(10) << std::left << "     Cost" << std::endl;
     for(auto country : tours.countries) {   // loop through the countries
         std::cout << std::setw(10) << std::left << country.name << std::endl;
         for(auto city : country.cities) {       // loop through the cities for each country
-            std::cout << std::setw(7) << std::left << std::setfill('#' ) << "\t" << city.name 
-                          << "\t" << city.population 
-                          << "\t" << city.cost 
+            std::cout << std::setw(11) << std::right 
+                          << "\t" << std::setw(14) << std::right << city.name 
+                          << "\t" << std::setw(11) << std::right << city.population 
+                          << "\t" << std::setw(10) << std::right << "$" << city.cost 
                           << std::endl;
         }
     }
