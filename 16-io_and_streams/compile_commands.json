@@ -1,4 +1,12 @@
 [{
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\WriteFile1\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\WriteFile1",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\WriteFile1\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\WriteFile1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile1\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile1",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile1\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\Challenge3\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\Challenge3",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\Challenge3\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\Challenge3\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
@@ -7,9 +15,9 @@
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\Challenge2",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\Challenge2\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\Challenge2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
-  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile1\\main.cpp",
-  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile1",
-  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile1\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipIntegers\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipIntegers",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipIntegers\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipIntegers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\Challenge1\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\Challenge1",
@@ -23,13 +31,13 @@
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipFloating",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipFloating\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipFloating\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
-  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipIntegers\\main.cpp",
-  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipIntegers",
-  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipIntegers\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipIntegers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipAlignFill\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipAlignFill",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipAlignFill\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipAlignFill\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipBoolean\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipBoolean",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipBoolean\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipBoolean\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile4\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile4",
@@ -38,8 +46,4 @@
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile2\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile2",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile2\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ReadFile2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }, {
-  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipBoolean\\main.cpp",
-  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipBoolean",
-  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipBoolean\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\16-io_and_streams\\ManipBoolean\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }]

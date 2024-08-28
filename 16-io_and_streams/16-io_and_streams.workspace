@@ -10,7 +10,8 @@
   <Project Name="ReadFile3" Path="ReadFile3/ReadFile3.project" Active="No"/>
   <Project Name="ReadFile4" Path="ReadFile4/ReadFile4.project" Active="No"/>
   <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="No"/>
-  <Project Name="Challenge3" Path="Challenge3/Challenge3.project" Active="Yes"/>
+  <Project Name="Challenge3" Path="Challenge3/Challenge3.project" Active="No"/>
+  <Project Name="WriteFile1" Path="WriteFile1/WriteFile1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -25,6 +26,7 @@
       <Project Name="ReadFile4" ConfigName="Debug"/>
       <Project Name="Challenge2" ConfigName="Debug"/>
       <Project Name="Challenge3" ConfigName="Debug"/>
+      <Project Name="WriteFile1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -39,6 +41,7 @@
       <Project Name="ReadFile4" ConfigName="Release"/>
       <Project Name="Challenge2" ConfigName="Release"/>
       <Project Name="Challenge3" ConfigName="Release"/>
+      <Project Name="WriteFile1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
