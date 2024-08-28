@@ -1,0 +1,4766 @@
+1      	ROMEO AND JULIET
+
+
+2      	DRAMATIS PERSONAE
+
+
+3      ESCALUS	prince of Verona. (PRINCE:)
+
+4      PARIS	a young nobleman, kinsman to the prince.
+
+
+5      MONTAGUE	|
+6      	|  heads of two houses at variance with each other.
+7      CAPULET	|
+
+
+8      	An old man, cousin to Capulet. (Second Capulet:)
+
+9      ROMEO	son to Montague.
+
+10     MERCUTIO	kinsman to the prince, and friend to Romeo.
+
+11     BENVOLIO	nephew to Montague, and friend to Romeo.
+
+12     TYBALT	nephew to Lady Capulet.
+
+
+13     FRIAR LAURENCE	|
+14     	|  Franciscans.
+15     FRIAR JOHN	|
+
+
+16     BALTHASAR	servant to Romeo.
+
+
+17     SAMPSON	|
+18     	|  servants to Capulet.
+19     GREGORY	|
+
+
+20     PETER	servant to Juliet's nurse.
+
+21     ABRAHAM	servant to Montague.
+
+22     	An Apothecary. (Apothecary:)
+
+23     	Three Musicians.
+24     	(First Musician:)
+25     	(Second Musician:)
+26     	(Third Musician:)
+
+27     	Page to Paris; (PAGE:)  another Page; an officer.
+
+28     LADY MONTAGUE	wife to Montague.
+
+29     LADY CAPULET	wife to Capulet.
+
+30     JULIET	daughter to Capulet.
+
+31     	Nurse to Juliet. (Nurse:)
+
+32     	Citizens of Verona; several Men and Women,
+33     	relations to both houses; Maskers,
+34     	Guards, Watchmen, and Attendants.
+35     	(First Citizen:)
+36     	(Servant:)
+37     	(First Servant:)
+38     	(Second Servant:)
+39     	(First Watchman:)
+40     	(Second Watchman:)
+41     	(Third Watchman:)
+42     	Chorus.
+
+
+43     SCENE	Verona: Mantua.
+
+
+
+
+44     	ROMEO AND JULIET
+
+45     	PROLOGUE
+
+
+46     	Two households, both alike in dignity,
+47     	In fair Verona, where we lay our scene,
+48     	From ancient grudge break to new mutiny,
+49     	Where civil blood makes civil hands unclean.
+50     	From forth the fatal loins of these two foes
+51     	A pair of star-cross'd lovers take their life;
+52     	Whole misadventured piteous overthrows
+53     	Do with their death bury their parents' strife.
+54     	The fearful passage of their death-mark'd love,
+55     	And the continuance of their parents' rage,
+56     	Which, but their children's end, nought could remove,
+57     	Is now the two hours' traffic of our stage;
+58     	The which if you with patient ears attend,
+59     	What here shall miss, our toil shall strive to mend.
+
+
+
+
+60     	ROMEO AND JULIET
+
+
+61     ACT I
+
+
+
+62     SCENE I	Verona. A public place.
+
+
+63     	[Enter SAMPSON and GREGORY, of the house of Capulet,
+64     	armed with swords and bucklers]
+
+65     SAMPSON	Gregory, o' my word, we'll not carry coals.
+
+66     GREGORY	No, for then we should be colliers.
+
+67     SAMPSON	I mean, an we be in choler, we'll draw.
+
+68     GREGORY	Ay, while you live, draw your neck out o' the collar.
+
+69     SAMPSON	I strike quickly, being moved.
+
+70     GREGORY	But thou art not quickly moved to strike.
+
+71     SAMPSON	A dog of the house of Montague moves me.
+
+72     GREGORY	To move is to stir; and to be valiant is to stand:
+73     	therefore, if thou art moved, thou runn'st away.
+
+74     SAMPSON	A dog of that house shall move me to stand: I will
+75     	take the wall of any man or maid of Montague's.
+
+76     GREGORY	That shows thee a weak slave; for the weakest goes
+77     	to the wall.
+
+78     SAMPSON	True; and therefore women, being the weaker vessels,
+79     	are ever thrust to the wall: therefore I will push
+80     	Montague's men from the wall, and thrust his maids
+81     	to the wall.
+
+82     GREGORY	The quarrel is between our masters and us their men.
+
+83     SAMPSON	'Tis all one, I will show myself a tyrant: when I
+84     	have fought with the men, I will be cruel with the
+85     	maids, and cut off their heads.
+
+86     GREGORY	The heads of the maids?
+
+87     SAMPSON	Ay, the heads of the maids, or their maidenheads;
+88     	take it in what sense thou wilt.
+
+89     GREGORY	They must take it in sense that feel it.
+
+90     SAMPSON	Me they shall feel while I am able to stand: and
+91     	'tis known I am a pretty piece of flesh.
+
+92     GREGORY	'Tis well thou art not fish; if thou hadst, thou
+93     	hadst been poor John. Draw thy tool! here comes
+94     	two of the house of the Montagues.
+
+95     SAMPSON	My naked weapon is out: quarrel, I will back thee.
+
+96     GREGORY	How! turn thy back and run?
+
+97     SAMPSON	Fear me not.
+
+98     GREGORY	No, marry; I fear thee!
+
+99     SAMPSON	Let us take the law of our sides; let them begin.
+
+100    GREGORY	I will frown as I pass by, and let them take it as
+101    	they list.
+
+102    SAMPSON	Nay, as they dare. I will bite my thumb at them;
+103    	which is a disgrace to them, if they bear it.
+
+104    	[Enter ABRAHAM and BALTHASAR]
+
+105    ABRAHAM	Do you bite your thumb at us, sir?
+
+106    SAMPSON	I do bite my thumb, sir.
+
+107    ABRAHAM	Do you bite your thumb at us, sir?
+
+108    SAMPSON	[Aside to GREGORY]  Is the law of our side, if I say
+109    	ay?
+
+110    GREGORY	No.
+
+111    SAMPSON	No, sir, I do not bite my thumb at you, sir, but I
+112    	bite my thumb, sir.
+
+113    GREGORY	Do you quarrel, sir?
+
+114    ABRAHAM	Quarrel sir! no, sir.
+
+115    SAMPSON	If you do, sir, I am for you: I serve as good a man as you.
+
+116    ABRAHAM	No better.
+
+117    SAMPSON	Well, sir.
+
+118    GREGORY	Say 'better:' here comes one of my master's kinsmen.
+
+119    SAMPSON	Yes, better, sir.
+
+120    ABRAHAM	You lie.
+
+121    SAMPSON	Draw, if you be men. Gregory, remember thy swashing blow.
+
+122    	[They fight]
+
+123    	[Enter BENVOLIO]
+
+124    BENVOLIO	Part, fools!
+125    	Put up your swords; you know not what you do.
+
+126    	[Beats down their swords]
+
+127    	[Enter TYBALT]
+
+128    TYBALT	What, art thou drawn among these heartless hinds?
+129    	Turn thee, Benvolio, look upon thy death.
+
+130    BENVOLIO	I do but keep the peace: put up thy sword,
+131    	Or manage it to part these men with me.
+
+132    TYBALT	What, drawn, and talk of peace! I hate the word,
+133    	As I hate hell, all Montagues, and thee:
+134    	Have at thee, coward!
+
+135    	[They fight]
+
+136    	[Enter, several of both houses, who join the fray;
+137    	then enter Citizens, with clubs]
+
+138    First Citizen	Clubs, bills, and partisans! strike! beat them down!
+139    	Down with the Capulets! down with the Montagues!
+
+140    	[Enter CAPULET in his gown, and LADY CAPULET]
+
+141    CAPULET	What noise is this? Give me my long sword, ho!
+
+142    LADY CAPULET	A crutch, a crutch! why call you for a sword?
+
+143    CAPULET	My sword, I say! Old Montague is come,
+144    	And flourishes his blade in spite of me.
+
+145    	[Enter MONTAGUE and LADY MONTAGUE]
+
+146    MONTAGUE	Thou villain Capulet,--Hold me not, let me go.
+
+147    LADY MONTAGUE	Thou shalt not stir a foot to seek a foe.
+
+148    	[Enter PRINCE, with Attendants]
+
+149    PRINCE	Rebellious subjects, enemies to peace,
+150    	Profaners of this neighbour-stained steel,--
+151    	Will they not hear? What, ho! you men, you beasts,
+152    	That quench the fire of your pernicious rage
+153    	With purple fountains issuing from your veins,
+154    	On pain of torture, from those bloody hands
+155    	Throw your mistemper'd weapons to the ground,
+156    	And hear the sentence of your moved prince.
+157    	Three civil brawls, bred of an airy word,
+158    	By thee, old Capulet, and Montague,
+159    	Have thrice disturb'd the quiet of our streets,
+160    	And made Verona's ancient citizens
+161    	Cast by their grave beseeming ornaments,
+162    	To wield old partisans, in hands as old,
+163    	Canker'd with peace, to part your canker'd hate:
+164    	If ever you disturb our streets again,
+165    	Your lives shall pay the forfeit of the peace.
+166    	For this time, all the rest depart away:
+167    	You Capulet; shall go along with me:
+168    	And, Montague, come you this afternoon,
+169    	To know our further pleasure in this case,
+170    	To old Free-town, our common judgment-place.
+171    	Once more, on pain of death, all men depart.
+
+172    	[Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO]
+
+173    MONTAGUE	Who set this ancient quarrel new abroach?
+174    	Speak, nephew, were you by when it began?
+
+175    BENVOLIO	Here were the servants of your adversary,
+176    	And yours, close fighting ere I did approach:
+177    	I drew to part them: in the instant came
+178    	The fiery Tybalt, with his sword prepared,
+179    	Which, as he breathed defiance to my ears,
+180    	He swung about his head and cut the winds,
+181    	Who nothing hurt withal hiss'd him in scorn:
+182    	While we were interchanging thrusts and blows,
+183    	Came more and more and fought on part and part,
+184    	Till the prince came, who parted either part.
+
+185    LADY MONTAGUE	O, where is Romeo? saw you him to-day?
+186    	Right glad I am he was not at this fray.
+
+187    BENVOLIO	Madam, an hour before the worshipp'd sun
+188    	Peer'd forth the golden window of the east,
+189    	A troubled mind drave me to walk abroad;
+190    	Where, underneath the grove of sycamore
+191    	That westward rooteth from the city's side,
+192    	So early walking did I see your son:
+193    	Towards him I made, but he was ware of me
+194    	And stole into the covert of the wood:
+195    	I, measuring his affections by my own,
+196    	That most are busied when they're most alone,
+197    	Pursued my humour not pursuing his,
+198    	And gladly shunn'd who gladly fled from me.
+
+199    MONTAGUE	Many a morning hath he there been seen,
+200    	With tears augmenting the fresh morning dew.
+201    	Adding to clouds more clouds with his deep sighs;
+202    	But all so soon as the all-cheering sun
+203    	Should in the furthest east begin to draw
+204    	The shady curtains from Aurora's bed,
+205    	Away from the light steals home my heavy son,
+206    	And private in his chamber pens himself,
+207    	Shuts up his windows, locks far daylight out
+208    	And makes himself an artificial night:
+209    	Black and portentous must this humour prove,
+210    	Unless good counsel may the cause remove.
+
+211    BENVOLIO	My noble uncle, do you know the cause?
+
+212    MONTAGUE	I neither know it nor can learn of him.
+
+213    BENVOLIO	Have you importuned him by any means?
+
+214    MONTAGUE	Both by myself and many other friends:
+215    	But he, his own affections' counsellor,
+216    	Is to himself--I will not say how true--
+217    	But to himself so secret and so close,
+218    	So far from sounding and discovery,
+219    	As is the bud bit with an envious worm,
+220    	Ere he can spread his sweet leaves to the air,
+221    	Or dedicate his beauty to the sun.
+222    	Could we but learn from whence his sorrows grow.
+223    	We would as willingly give cure as know.
+
+224    	[Enter ROMEO]
+
+225    BENVOLIO	See, where he comes: so please you, step aside;
+226    	I'll know his grievance, or be much denied.
+
+227    MONTAGUE	I would thou wert so happy by thy stay,
+228    	To hear true shrift. Come, madam, let's away.
+
+229    	[Exeunt MONTAGUE and LADY MONTAGUE]
+
+230    BENVOLIO	Good-morrow, cousin.
+
+231    ROMEO	Is the day so young?
+
+232    BENVOLIO	But new struck nine.
+
+233    ROMEO	Ay me! sad hours seem long.
+234    	Was that my father that went hence so fast?
+
+235    BENVOLIO	It was. What sadness lengthens Romeo's hours?
+
+236    ROMEO	Not having that, which, having, makes them short.
+
+237    BENVOLIO	In love?
+
+238    ROMEO	Out--
+
+239    BENVOLIO	Of love?
+
+240    ROMEO	Out of her favour, where I am in love.
+
+241    BENVOLIO	Alas, that love, so gentle in his view,
+242    	Should be so tyrannous and rough in proof!
+
+243    ROMEO	Alas, that love, whose view is muffled still,
+244    	Should, without eyes, see pathways to his will!
+245    	Where shall we dine? O me! What fray was here?
+246    	Yet tell me not, for I have heard it all.
+247    	Here's much to do with hate, but more with love.
+248    	Why, then, O brawling love! O loving hate!
+249    	O any thing, of nothing first create!
+250    	O heavy lightness! serious vanity!
+251    	Mis-shapen chaos of well-seeming forms!
+252    	Feather of lead, bright smoke, cold fire,
+253    	sick health!
+254    	Still-waking sleep, that is not what it is!
+255    	This love feel I, that feel no love in this.
+256    	Dost thou not laugh?
+
+257    BENVOLIO	No, coz, I rather weep.
+
+258    ROMEO	Good heart, at what?
+
+259    BENVOLIO	At thy good heart's oppression.
+
+260    ROMEO	Why, such is love's transgression.
+261    	Griefs of mine own lie heavy in my breast,
+262    	Which thou wilt propagate, to have it prest
+263    	With more of thine: this love that thou hast shown
+264    	Doth add more grief to too much of mine own.
+265    	Love is a smoke raised with the fume of sighs;
+266    	Being purged, a fire sparkling in lovers' eyes;
+267    	Being vex'd a sea nourish'd with lovers' tears:
+268    	What is it else? a madness most discreet,
+269    	A choking gall and a preserving sweet.
+270    	Farewell, my coz.
+
+271    BENVOLIO	                  Soft! I will go along;
+272    	An if you leave me so, you do me wrong.
+
+273    ROMEO	Tut, I have lost myself; I am not here;
+274    	This is not Romeo, he's some other where.
+
+275    BENVOLIO	Tell me in sadness, who is that you love.
+
+276    ROMEO	What, shall I groan and tell thee?
+
+277    BENVOLIO	Groan! why, no.
+278    	But sadly tell me who.
+
+279    ROMEO	Bid a sick man in sadness make his will:
+280    	Ah, word ill urged to one that is so ill!
+281    	In sadness, cousin, I do love a woman.
+
+282    BENVOLIO	I aim'd so near, when I supposed you loved.
+
+283    ROMEO	A right good mark-man! And she's fair I love.
+
+284    BENVOLIO	A right fair mark, fair coz, is soonest hit.
+
+285    ROMEO	Well, in that hit you miss: she'll not be hit
+286    	With Cupid's arrow; she hath Dian's wit;
+287    	And, in strong proof of chastity well arm'd,
+288    	From love's weak childish bow she lives unharm'd.
+289    	She will not stay the siege of loving terms,
+290    	Nor bide the encounter of assailing eyes,
+291    	Nor ope her lap to saint-seducing gold:
+292    	O, she is rich in beauty, only poor,
+293    	That when she dies with beauty dies her store.
+
+294    BENVOLIO	Then she hath sworn that she will still live chaste?
+
+295    ROMEO	She hath, and in that sparing makes huge waste,
+296    	For beauty starved with her severity
+297    	Cuts beauty off from all posterity.
+298    	She is too fair, too wise, wisely too fair,
+299    	To merit bliss by making me despair:
+300    	She hath forsworn to love, and in that vow
+301    	Do I live dead that live to tell it now.
+
+302    BENVOLIO	Be ruled by me, forget to think of her.
+
+303    ROMEO	O, teach me how I should forget to think.
+
+304    BENVOLIO	By giving liberty unto thine eyes;
+305    	Examine other beauties.
+
+306    ROMEO	'Tis the way
+307    	To call hers exquisite, in question more:
+308    	These happy masks that kiss fair ladies' brows
+309    	Being black put us in mind they hide the fair;
+310    	He that is strucken blind cannot forget
+311    	The precious treasure of his eyesight lost:
+312    	Show me a mistress that is passing fair,
+313    	What doth her beauty serve, but as a note
+314    	Where I may read who pass'd that passing fair?
+315    	Farewell: thou canst not teach me to forget.
+
+316    BENVOLIO	I'll pay that doctrine, or else die in debt.
+
+317    	[Exeunt]
+
+
+
+
+318    	ROMEO AND JULIET
+
+
+319    ACT I
+
+
+
+320    SCENE II	A street.
+
+
+321    	[Enter CAPULET, PARIS, and Servant]
+
+322    CAPULET	But Montague is bound as well as I,
+323    	In penalty alike; and 'tis not hard, I think,
+324    	For men so old as we to keep the peace.
+
+325    PARIS	Of honourable reckoning are you both;
+326    	And pity 'tis you lived at odds so long.
+327    	But now, my lord, what say you to my suit?
+
+328    CAPULET	But saying o'er what I have said before:
+329    	My child is yet a stranger in the world;
+330    	She hath not seen the change of fourteen years,
+331    	Let two more summers wither in their pride,
+332    	Ere we may think her ripe to be a bride.
+
+333    PARIS	Younger than she are happy mothers made.
+
+334    CAPULET	And too soon marr'd are those so early made.
+335    	The earth hath swallow'd all my hopes but she,
+336    	She is the hopeful lady of my earth:
+337    	But woo her, gentle Paris, get her heart,
+338    	My will to her consent is but a part;
+339    	An she agree, within her scope of choice
+340    	Lies my consent and fair according voice.
+341    	This night I hold an old accustom'd feast,
+342    	Whereto I have invited many a guest,
+343    	Such as I love; and you, among the store,
+344    	One more, most welcome, makes my number more.
+345    	At my poor house look to behold this night
+346    	Earth-treading stars that make dark heaven light:
+347    	Such comfort as do lusty young men feel
+348    	When well-apparell'd April on the heel
+349    	Of limping winter treads, even such delight
+350    	Among fresh female buds shall you this night
+351    	Inherit at my house; hear all, all see,
+352    	And like her most whose merit most shall be:
+353    	Which on more view, of many mine being one
+354    	May stand in number, though in reckoning none,
+355    	Come, go with me.
+
+356    	[To Servant, giving a paper]
+
+357    	Go, sirrah, trudge about
+358    	Through fair Verona; find those persons out
+359    	Whose names are written there, and to them say,
+360    	My house and welcome on their pleasure stay.
+
+361    	[Exeunt CAPULET and PARIS]
+
+362    Servant	Find them out whose names are written here! It is
+363    	written, that the shoemaker should meddle with his
+364    	yard, and the tailor with his last, the fisher with
+365    	his pencil, and the painter with his nets; but I am
+366    	sent to find those persons whose names are here
+367    	writ, and can never find what names the writing
+368    	person hath here writ. I must to the learned.--In good time.
+
+369    	[Enter BENVOLIO and ROMEO]
+
+370    BENVOLIO	Tut, man, one fire burns out another's burning,
+371    	One pain is lessen'd by another's anguish;
+372    	Turn giddy, and be holp by backward turning;
+373    	One desperate grief cures with another's languish:
+374    	Take thou some new infection to thy eye,
+375    	And the rank poison of the old will die.
+
+376    ROMEO	Your plaintain-leaf is excellent for that.
+
+377    BENVOLIO	For what, I pray thee?
+
+378    ROMEO	For your broken shin.
+
+379    BENVOLIO	Why, Romeo, art thou mad?
+
+380    ROMEO	Not mad, but bound more than a mad-man is;
+381    	Shut up in prison, kept without my food,
+382    	Whipp'd and tormented and--God-den, good fellow.
+
+383    Servant	God gi' god-den. I pray, sir, can you read?
+
+384    ROMEO	Ay, mine own fortune in my misery.
+
+385    Servant	Perhaps you have learned it without book: but, I
+386    	pray, can you read any thing you see?
+
+387    ROMEO	Ay, if I know the letters and the language.
+
+388    Servant	Ye say honestly: rest you merry!
+
+389    ROMEO	Stay, fellow; I can read.
+
+390    	[Reads]
+
+391    	'Signior Martino and his wife and daughters;
+392    	County Anselme and his beauteous sisters; the lady
+393    	widow of Vitravio; Signior Placentio and his lovely
+394    	nieces; Mercutio and his brother Valentine; mine
+395    	uncle Capulet, his wife and daughters; my fair niece
+396    	Rosaline; Livia; Signior Valentio and his cousin
+397    	Tybalt, Lucio and the lively Helena.' A fair
+398    	assembly: whither should they come?
+
+399    Servant	Up.
+
+400    ROMEO	Whither?
+
+401    Servant	To supper; to our house.
+
+402    ROMEO	Whose house?
+
+403    Servant	My master's.
+
+404    ROMEO	Indeed, I should have ask'd you that before.
+
+405    Servant	Now I'll tell you without asking: my master is the
+406    	great rich Capulet; and if you be not of the house
+407    	of Montagues, I pray, come and crush a cup of wine.
+408    	Rest you merry!
+
+409    	[Exit]
+
+410    BENVOLIO	At this same ancient feast of Capulet's
+411    	Sups the fair Rosaline whom thou so lovest,
+412    	With all the admired beauties of Verona:
+413    	Go thither; and, with unattainted eye,
+414    	Compare her face with some that I shall show,
+415    	And I will make thee think thy swan a crow.
+
+416    ROMEO	When the devout religion of mine eye
+417    	Maintains such falsehood, then turn tears to fires;
+418    	And these, who often drown'd could never die,
+419    	Transparent heretics, be burnt for liars!
+420    	One fairer than my love! the all-seeing sun
+421    	Ne'er saw her match since first the world begun.
+
+422    BENVOLIO	Tut, you saw her fair, none else being by,
+423    	Herself poised with herself in either eye:
+424    	But in that crystal scales let there be weigh'd
+425    	Your lady's love against some other maid
+426    	That I will show you shining at this feast,
+427    	And she shall scant show well that now shows best.
+
+428    ROMEO	I'll go along, no such sight to be shown,
+429    	But to rejoice in splendor of mine own.
+
+430    	[Exeunt]
+
+
+
+
+431    	ROMEO AND JULIET
+
+
+432    ACT I
+
+
+
+433    SCENE III	A room in Capulet's house.
+
+
+434    	[Enter LADY CAPULET and Nurse]
+
+435    LADY CAPULET	Nurse, where's my daughter? call her forth to me.
+
+436    Nurse	Now, by my maidenhead, at twelve year old,
+437    	I bade her come. What, lamb! what, ladybird!
+438    	God forbid! Where's this girl? What, Juliet!
+
+439    	[Enter JULIET]
+
+440    JULIET	How now! who calls?
+
+441    Nurse	Your mother.
+
+442    JULIET	Madam, I am here.
+443    	What is your will?
+
+444    LADY CAPULET	This is the matter:--Nurse, give leave awhile,
+445    	We must talk in secret:--nurse, come back again;
+446    	I have remember'd me, thou's hear our counsel.
+447    	Thou know'st my daughter's of a pretty age.
+
+448    Nurse	Faith, I can tell her age unto an hour.
+
+449    LADY CAPULET	She's not fourteen.
+
+450    Nurse	I'll lay fourteen of my teeth,--
+451    	And yet, to my teeth be it spoken, I have but four--
+452    	She is not fourteen. How long is it now
+453    	To Lammas-tide?
+
+454    LADY CAPULET	                  A fortnight and odd days.
+
+455    Nurse	Even or odd, of all days in the year,
+456    	Come Lammas-eve at night shall she be fourteen.
+457    	Susan and she--God rest all Christian souls!--
+458    	Were of an age: well, Susan is with God;
+459    	She was too good for me: but, as I said,
+460    	On Lammas-eve at night shall she be fourteen;
+461    	That shall she, marry; I remember it well.
+462    	'Tis since the earthquake now eleven years;
+463    	And she was wean'd,--I never shall forget it,--
+464    	Of all the days of the year, upon that day:
+465    	For I had then laid wormwood to my dug,
+466    	Sitting in the sun under the dove-house wall;
+467    	My lord and you were then at Mantua:--
+468    	Nay, I do bear a brain:--but, as I said,
+469    	When it did taste the wormwood on the nipple
+470    	Of my dug and felt it bitter, pretty fool,
+471    	To see it tetchy and fall out with the dug!
+472    	Shake quoth the dove-house: 'twas no need, I trow,
+473    	To bid me trudge:
+474    	And since that time it is eleven years;
+475    	For then she could stand alone; nay, by the rood,
+476    	She could have run and waddled all about;
+477    	For even the day before, she broke her brow:
+478    	And then my husband--God be with his soul!
+479    	A' was a merry man--took up the child:
+480    	'Yea,' quoth he, 'dost thou fall upon thy face?
+481    	Thou wilt fall backward when thou hast more wit;
+482    	Wilt thou not, Jule?' and, by my holidame,
+483    	The pretty wretch left crying and said 'Ay.'
+484    	To see, now, how a jest shall come about!
+485    	I warrant, an I should live a thousand years,
+486    	I never should forget it: 'Wilt thou not, Jule?' quoth he;
+487    	And, pretty fool, it stinted and said 'Ay.'
+
+488    LADY CAPULET	Enough of this; I pray thee, hold thy peace.
+
+489    Nurse	Yes, madam: yet I cannot choose but laugh,
+490    	To think it should leave crying and say 'Ay.'
+491    	And yet, I warrant, it had upon its brow
+492    	A bump as big as a young cockerel's stone;
+493    	A parlous knock; and it cried bitterly:
+494    	'Yea,' quoth my husband,'fall'st upon thy face?
+495    	Thou wilt fall backward when thou comest to age;
+496    	Wilt thou not, Jule?' it stinted and said 'Ay.'
+
+497    JULIET	And stint thou too, I pray thee, nurse, say I.
+
+498    Nurse	Peace, I have done. God mark thee to his grace!
+499    	Thou wast the prettiest babe that e'er I nursed:
+500    	An I might live to see thee married once,
+501    	I have my wish.
+
+502    LADY CAPULET	Marry, that 'marry' is the very theme
+503    	I came to talk of. Tell me, daughter Juliet,
+504    	How stands your disposition to be married?
+
+505    JULIET	It is an honour that I dream not of.
+
+506    Nurse	An honour! were not I thine only nurse,
+507    	I would say thou hadst suck'd wisdom from thy teat.
+
+508    LADY CAPULET	Well, think of marriage now; younger than you,
+509    	Here in Verona, ladies of esteem,
+510    	Are made already mothers: by my count,
+511    	I was your mother much upon these years
+512    	That you are now a maid. Thus then in brief:
+513    	The valiant Paris seeks you for his love.
+
+514    Nurse	A man, young lady! lady, such a man
+515    	As all the world--why, he's a man of wax.
+
+516    LADY CAPULET	Verona's summer hath not such a flower.
+
+517    Nurse	Nay, he's a flower; in faith, a very flower.
+
+518    LADY CAPULET	What say you? can you love the gentleman?
+519    	This night you shall behold him at our feast;
+520    	Read o'er the volume of young Paris' face,
+521    	And find delight writ there with beauty's pen;
+522    	Examine every married lineament,
+523    	And see how one another lends content
+524    	And what obscured in this fair volume lies
+525    	Find written in the margent of his eyes.
+526    	This precious book of love, this unbound lover,
+527    	To beautify him, only lacks a cover:
+528    	The fish lives in the sea, and 'tis much pride
+529    	For fair without the fair within to hide:
+530    	That book in many's eyes doth share the glory,
+531    	That in gold clasps locks in the golden story;
+532    	So shall you share all that he doth possess,
+533    	By having him, making yourself no less.
+
+534    Nurse	No less! nay, bigger; women grow by men.
+
+535    LADY CAPULET	Speak briefly, can you like of Paris' love?
+
+536    JULIET	I'll look to like, if looking liking move:
+537    	But no more deep will I endart mine eye
+538    	Than your consent gives strength to make it fly.
+
+539    	[Enter a Servant]
+
+540    Servant	Madam, the guests are come, supper served up, you
+541    	called, my young lady asked for, the nurse cursed in
+542    	the pantry, and every thing in extremity. I must
+543    	hence to wait; I beseech you, follow straight.
+
+544    LADY CAPULET	We follow thee.
+
+545    	[Exit Servant]
+
+546    	Juliet, the county stays.
+
+547    Nurse	Go, girl, seek happy nights to happy days.
+
+548    	[Exeunt]
+
+
+
+
+549    	ROMEO AND JULIET
+
+
+550    ACT I
+
+
+
+551    SCENE IV	A street.
+
+
+552    	[Enter ROMEO, MERCUTIO, BENVOLIO, with five or six
+553    	Maskers, Torch-bearers, and others]
+
+554    ROMEO	What, shall this speech be spoke for our excuse?
+555    	Or shall we on without a apology?
+
+556    BENVOLIO	The date is out of such prolixity:
+557    	We'll have no Cupid hoodwink'd with a scarf,
+558    	Bearing a Tartar's painted bow of lath,
+559    	Scaring the ladies like a crow-keeper;
+560    	Nor no without-book prologue, faintly spoke
+561    	After the prompter, for our entrance:
+562    	But let them measure us by what they will;
+563    	We'll measure them a measure, and be gone.
+
+564    ROMEO	Give me a torch: I am not for this ambling;
+565    	Being but heavy, I will bear the light.
+
+566    MERCUTIO	Nay, gentle Romeo, we must have you dance.
+
+567    ROMEO	Not I, believe me: you have dancing shoes
+568    	With nimble soles: I have a soul of lead
+569    	So stakes me to the ground I cannot move.
+
+570    MERCUTIO	You are a lover; borrow Cupid's wings,
+571    	And soar with them above a common bound.
+
+572    ROMEO	I am too sore enpierced with his shaft
+573    	To soar with his light feathers, and so bound,
+574    	I cannot bound a pitch above dull woe:
+575    	Under love's heavy burden do I sink.
+
+576    MERCUTIO	And, to sink in it, should you burden love;
+577    	Too great oppression for a tender thing.
+
+578    ROMEO	Is love a tender thing? it is too rough,
+579    	Too rude, too boisterous, and it pricks like thorn.
+
+580    MERCUTIO	If love be rough with you, be rough with love;
+581    	Prick love for pricking, and you beat love down.
+582    	Give me a case to put my visage in:
+583    	A visor for a visor! what care I
+584    	What curious eye doth quote deformities?
+585    	Here are the beetle brows shall blush for me.
+
+586    BENVOLIO	Come, knock and enter; and no sooner in,
+587    	But every man betake him to his legs.
+
+588    ROMEO	A torch for me: let wantons light of heart
+589    	Tickle the senseless rushes with their heels,
+590    	For I am proverb'd with a grandsire phrase;
+591    	I'll be a candle-holder, and look on.
+592    	The game was ne'er so fair, and I am done.
+
+593    MERCUTIO	Tut, dun's the mouse, the constable's own word:
+594    	If thou art dun, we'll draw thee from the mire
+595    	Of this sir-reverence love, wherein thou stick'st
+596    	Up to the ears. Come, we burn daylight, ho!
+
+597    ROMEO	Nay, that's not so.
+
+598    MERCUTIO	I mean, sir, in delay
+599    	We waste our lights in vain, like lamps by day.
+600    	Take our good meaning, for our judgment sits
+601    	Five times in that ere once in our five wits.
+
+602    ROMEO	And we mean well in going to this mask;
+603    	But 'tis no wit to go.
+
+604    MERCUTIO	Why, may one ask?
+
+605    ROMEO	I dream'd a dream to-night.
+
+606    MERCUTIO	And so did I.
+
+607    ROMEO	Well, what was yours?
+
+608    MERCUTIO	That dreamers often lie.
+
+609    ROMEO	In bed asleep, while they do dream things true.
+
+610    MERCUTIO	O, then, I see Queen Mab hath been with you.
+611    	She is the fairies' midwife, and she comes
+612    	In shape no bigger than an agate-stone
+613    	On the fore-finger of an alderman,
+614    	Drawn with a team of little atomies
+615    	Athwart men's noses as they lie asleep;
+616    	Her wagon-spokes made of long spiders' legs,
+617    	The cover of the wings of grasshoppers,
+618    	The traces of the smallest spider's web,
+619    	The collars of the moonshine's watery beams,
+620    	Her whip of cricket's bone, the lash of film,
+621    	Her wagoner a small grey-coated gnat,
+622    	Not so big as a round little worm
+623    	Prick'd from the lazy finger of a maid;
+624    	Her chariot is an empty hazel-nut
+625    	Made by the joiner squirrel or old grub,
+626    	Time out o' mind the fairies' coachmakers.
+627    	And in this state she gallops night by night
+628    	Through lovers' brains, and then they dream of love;
+629    	O'er courtiers' knees, that dream on court'sies straight,
+630    	O'er lawyers' fingers, who straight dream on fees,
+631    	O'er ladies ' lips, who straight on kisses dream,
+632    	Which oft the angry Mab with blisters plagues,
+633    	Because their breaths with sweetmeats tainted are:
+634    	Sometime she gallops o'er a courtier's nose,
+635    	And then dreams he of smelling out a suit;
+636    	And sometime comes she with a tithe-pig's tail
+637    	Tickling a parson's nose as a' lies asleep,
+638    	Then dreams, he of another benefice:
+639    	Sometime she driveth o'er a soldier's neck,
+640    	And then dreams he of cutting foreign throats,
+641    	Of breaches, ambuscadoes, Spanish blades,
+642    	Of healths five-fathom deep; and then anon
+643    	Drums in his ear, at which he starts and wakes,
+644    	And being thus frighted swears a prayer or two
+645    	And sleeps again. This is that very Mab
+646    	That plats the manes of horses in the night,
+647    	And bakes the elflocks in foul sluttish hairs,
+648    	Which once untangled, much misfortune bodes:
+649    	This is the hag, when maids lie on their backs,
+650    	That presses them and learns them first to bear,
+651    	Making them women of good carriage:
+652    	This is she--
+
+653    ROMEO	                  Peace, peace, Mercutio, peace!
+654    	Thou talk'st of nothing.
+
+655    MERCUTIO	True, I talk of dreams,
+656    	Which are the children of an idle brain,
+657    	Begot of nothing but vain fantasy,
+658    	Which is as thin of substance as the air
+659    	And more inconstant than the wind, who wooes
+660    	Even now the frozen bosom of the north,
+661    	And, being anger'd, puffs away from thence,
+662    	Turning his face to the dew-dropping south.
+
+663    BENVOLIO	This wind, you talk of, blows us from ourselves;
+664    	Supper is done, and we shall come too late.
+
+665    ROMEO	I fear, too early: for my mind misgives
+666    	Some consequence yet hanging in the stars
+667    	Shall bitterly begin his fearful date
+668    	With this night's revels and expire the term
+669    	Of a despised life closed in my breast
+670    	By some vile forfeit of untimely death.
+671    	But He, that hath the steerage of my course,
+672    	Direct my sail! On, lusty gentlemen.
+
+673    BENVOLIO	Strike, drum.
+
+674    	[Exeunt]
+
+
+
+
+675    	ROMEO AND JULIET
+
+
+676    ACT I
+
+
+
+677    SCENE V	A hall in Capulet's house.
+
+
+678    	[Musicians waiting. Enter Servingmen with napkins]
+
+679    First Servant	Where's Potpan, that he helps not to take away? He
+680    	shift a trencher? he scrape a trencher!
+
+681    Second Servant	When good manners shall lie all in one or two men's
+682    	hands and they unwashed too, 'tis a foul thing.
+
+683    First Servant	Away with the joint-stools, remove the
+684    	court-cupboard, look to the plate. Good thou, save
+685    	me a piece of marchpane; and, as thou lovest me, let
+686    	the porter let in Susan Grindstone and Nell.
+687    	Antony, and Potpan!
+
+688    Second Servant	Ay, boy, ready.
+
+689    First Servant	You are looked for and called for, asked for and
+690    	sought for, in the great chamber.
+
+691    Second Servant	We cannot be here and there too. Cheerly, boys; be
+692    	brisk awhile, and the longer liver take all.
+
+693    	[Enter CAPULET, with JULIET and others of his house,
+694    	meeting the Guests and Maskers]
+
+695    CAPULET	Welcome, gentlemen! ladies that have their toes
+696    	Unplagued with corns will have a bout with you.
+697    	Ah ha, my mistresses! which of you all
+698    	Will now deny to dance? she that makes dainty,
+699    	She, I'll swear, hath corns; am I come near ye now?
+700    	Welcome, gentlemen! I have seen the day
+701    	That I have worn a visor and could tell
+702    	A whispering tale in a fair lady's ear,
+703    	Such as would please: 'tis gone, 'tis gone, 'tis gone:
+704    	You are welcome, gentlemen! come, musicians, play.
+705    	A hall, a hall! give room! and foot it, girls.
+
+706    	[Music plays, and they dance]
+
+707    	More light, you knaves; and turn the tables up,
+708    	And quench the fire, the room is grown too hot.
+709    	Ah, sirrah, this unlook'd-for sport comes well.
+710    	Nay, sit, nay, sit, good cousin Capulet;
+711    	For you and I are past our dancing days:
+712    	How long is't now since last yourself and I
+713    	Were in a mask?
+
+714    Second Capulet	                  By'r lady, thirty years.
+
+715    CAPULET	What, man! 'tis not so much, 'tis not so much:
+716    	'Tis since the nuptials of Lucentio,
+717    	Come pentecost as quickly as it will,
+718    	Some five and twenty years; and then we mask'd.
+
+719    Second Capulet	'Tis more, 'tis more, his son is elder, sir;
+720    	His son is thirty.
+
+721    CAPULET	                  Will you tell me that?
+722    	His son was but a ward two years ago.
+
+723    ROMEO	[To a Servingman]  What lady is that, which doth
+724    	enrich the hand
+725    	Of yonder knight?
+
+726    Servant	I know not, sir.
+
+727    ROMEO	O, she doth teach the torches to burn bright!
+728    	It seems she hangs upon the cheek of night
+729    	Like a rich jewel in an Ethiope's ear;
+730    	Beauty too rich for use, for earth too dear!
+731    	So shows a snowy dove trooping with crows,
+732    	As yonder lady o'er her fellows shows.
+733    	The measure done, I'll watch her place of stand,
+734    	And, touching hers, make blessed my rude hand.
+735    	Did my heart love till now? forswear it, sight!
+736    	For I ne'er saw true beauty till this night.
+
+737    TYBALT	This, by his voice, should be a Montague.
+738    	Fetch me my rapier, boy. What dares the slave
+739    	Come hither, cover'd with an antic face,
+740    	To fleer and scorn at our solemnity?
+741    	Now, by the stock and honour of my kin,
+742    	To strike him dead, I hold it not a sin.
+
+743    CAPULET	Why, how now, kinsman! wherefore storm you so?
+
+744    TYBALT	Uncle, this is a Montague, our foe,
+745    	A villain that is hither come in spite,
+746    	To scorn at our solemnity this night.
+
+747    CAPULET	Young Romeo is it?
+
+748    TYBALT	'Tis he, that villain Romeo.
+
+749    CAPULET	Content thee, gentle coz, let him alone;
+750    	He bears him like a portly gentleman;
+751    	And, to say truth, Verona brags of him
+752    	To be a virtuous and well-govern'd youth:
+753    	I would not for the wealth of all the town
+754    	Here in my house do him disparagement:
+755    	Therefore be patient, take no note of him:
+756    	It is my will, the which if thou respect,
+757    	Show a fair presence and put off these frowns,
+758    	And ill-beseeming semblance for a feast.
+
+759    TYBALT	It fits, when such a villain is a guest:
+760    	I'll not endure him.
+
+761    CAPULET	He shall be endured:
+762    	What, goodman boy! I say, he shall: go to;
+763    	Am I the master here, or you? go to.
+764    	You'll not endure him! God shall mend my soul!
+765    	You'll make a mutiny among my guests!
+766    	You will set cock-a-hoop! you'll be the man!
+
+767    TYBALT	Why, uncle, 'tis a shame.
+
+768    CAPULET	Go to, go to;
+769    	You are a saucy boy: is't so, indeed?
+770    	This trick may chance to scathe you, I know what:
+771    	You must contrary me! marry, 'tis time.
+772    	Well said, my hearts! You are a princox; go:
+773    	Be quiet, or--More light, more light! For shame!
+774    	I'll make you quiet. What, cheerly, my hearts!
+
+775    TYBALT	Patience perforce with wilful choler meeting
+776    	Makes my flesh tremble in their different greeting.
+777    	I will withdraw: but this intrusion shall
+778    	Now seeming sweet convert to bitter gall.
+
+779    	[Exit]
+
+780    ROMEO	[To JULIET]  If I profane with my unworthiest hand
+781    	This holy shrine, the gentle fine is this:
+782    	My lips, two blushing pilgrims, ready stand
+783    	To smooth that rough touch with a tender kiss.
+
+784    JULIET	Good pilgrim, you do wrong your hand too much,
+785    	Which mannerly devotion shows in this;
+786    	For saints have hands that pilgrims' hands do touch,
+787    	And palm to palm is holy palmers' kiss.
+
+788    ROMEO	Have not saints lips, and holy palmers too?
+
+789    JULIET	Ay, pilgrim, lips that they must use in prayer.
+
+790    ROMEO	O, then, dear saint, let lips do what hands do;
+791    	They pray, grant thou, lest faith turn to despair.
+
+792    JULIET	Saints do not move, though grant for prayers' sake.
+
+793    ROMEO	Then move not, while my prayer's effect I take.
+794    	Thus from my lips, by yours, my sin is purged.
+
+795    JULIET	Then have my lips the sin that they have took.
+
+796    ROMEO	Sin from thy lips? O trespass sweetly urged!
+797    	Give me my sin again.
+
+798    JULIET	You kiss by the book.
+
+799    Nurse	Madam, your mother craves a word with you.
+
+800    ROMEO	What is her mother?
+
+801    Nurse	Marry, bachelor,
+802    	Her mother is the lady of the house,
+803    	And a good lady, and a wise and virtuous
+804    	I nursed her daughter, that you talk'd withal;
+805    	I tell you, he that can lay hold of her
+806    	Shall have the chinks.
+
+807    ROMEO	Is she a Capulet?
+808    	O dear account! my life is my foe's debt.
+
+809    BENVOLIO	Away, begone; the sport is at the best.
+
+810    ROMEO	Ay, so I fear; the more is my unrest.
+
+811    CAPULET	Nay, gentlemen, prepare not to be gone;
+812    	We have a trifling foolish banquet towards.
+813    	Is it e'en so? why, then, I thank you all
+814    	I thank you, honest gentlemen; good night.
+815    	More torches here! Come on then, let's to bed.
+816    	Ah, sirrah, by my fay, it waxes late:
+817    	I'll to my rest.
+
+818    	[Exeunt all but JULIET and Nurse]
+
+819    JULIET	Come hither, nurse. What is yond gentleman?
+
+820    Nurse	The son and heir of old Tiberio.
+
+821    JULIET	What's he that now is going out of door?
+
+822    Nurse	Marry, that, I think, be young Petrucio.
+
+823    JULIET	What's he that follows there, that would not dance?
+
+824    Nurse	I know not.
+
+825    JULIET	Go ask his name: if he be married.
+826    	My grave is like to be my wedding bed.
+
+827    Nurse	His name is Romeo, and a Montague;
+828    	The only son of your great enemy.
+
+829    JULIET	My only love sprung from my only hate!
+830    	Too early seen unknown, and known too late!
+831    	Prodigious birth of love it is to me,
+832    	That I must love a loathed enemy.
+
+833    Nurse	What's this? what's this?
+
+834    JULIET	A rhyme I learn'd even now
+835    	Of one I danced withal.
+
+836    	[One calls within 'Juliet.']
+
+837    Nurse	Anon, anon!
+838    	Come, let's away; the strangers all are gone.
+
+839    	[Exeunt]
+
+
+
+
+840    	ROMEO AND JULIET
+
+
+841    ACT II
+
+
+842    	PROLOGUE
+
+
+843    	[Enter Chorus]
+
+844    Chorus	Now old desire doth in his death-bed lie,
+845    	And young affection gapes to be his heir;
+846    	That fair for which love groan'd for and would die,
+847    	With tender Juliet match'd, is now not fair.
+848    	Now Romeo is beloved and loves again,
+849    	Alike betwitched by the charm of looks,
+850    	But to his foe supposed he must complain,
+851    	And she steal love's sweet bait from fearful hooks:
+852    	Being held a foe, he may not have access
+853    	To breathe such vows as lovers use to swear;
+854    	And she as much in love, her means much less
+855    	To meet her new-beloved any where:
+856    	But passion lends them power, time means, to meet
+857    	Tempering extremities with extreme sweet.
+
+858    	[Exit]
+
+
+
+
+859    	ROMEO AND JULIET
+
+
+860    ACT II
+
+
+
+861    SCENE I	A lane by the wall of Capulet's orchard.
+
+
+862    	[Enter ROMEO]
+
+863    ROMEO	Can I go forward when my heart is here?
+864    	Turn back, dull earth, and find thy centre out.
+
+865    	[He climbs the wall, and leaps down within it]
+
+866    	[Enter BENVOLIO and MERCUTIO]
+
+867    BENVOLIO	Romeo! my cousin Romeo!
+
+868    MERCUTIO	He is wise;
+869    	And, on my lie, hath stol'n him home to bed.
+
+870    BENVOLIO	He ran this way, and leap'd this orchard wall:
+871    	Call, good Mercutio.
+
+872    MERCUTIO	Nay, I'll conjure too.
+873    	Romeo! humours! madman! passion! lover!
+874    	Appear thou in the likeness of a sigh:
+875    	Speak but one rhyme, and I am satisfied;
+876    	Cry but 'Ay me!' pronounce but 'love' and 'dove;'
+877    	Speak to my gossip Venus one fair word,
+878    	One nick-name for her purblind son and heir,
+879    	Young Adam Cupid, he that shot so trim,
+880    	When King Cophetua loved the beggar-maid!
+881    	He heareth not, he stirreth not, he moveth not;
+882    	The ape is dead, and I must conjure him.
+883    	I conjure thee by Rosaline's bright eyes,
+884    	By her high forehead and her scarlet lip,
+885    	By her fine foot, straight leg and quivering thigh
+886    	And the demesnes that there adjacent lie,
+887    	That in thy likeness thou appear to us!
+
+888    BENVOLIO	And if he hear thee, thou wilt anger him.
+
+889    MERCUTIO	This cannot anger him: 'twould anger him
+890    	To raise a spirit in his mistress' circle
+891    	Of some strange nature, letting it there stand
+892    	Till she had laid it and conjured it down;
+893    	That were some spite: my invocation
+894    	Is fair and honest, and in his mistress' name
+895    	I conjure only but to raise up him.
+
+896    BENVOLIO	Come, he hath hid himself among these trees,
+897    	To be consorted with the humorous night:
+898    	Blind is his love and best befits the dark.
+
+899    MERCUTIO	If love be blind, love cannot hit the mark.
+900    	Now will he sit under a medlar tree,
+901    	And wish his mistress were that kind of fruit
+902    	As maids call medlars, when they laugh alone.
+903    	Romeo, that she were, O, that she were
+904    	An open et caetera, thou a poperin pear!
+905    	Romeo, good night: I'll to my truckle-bed;
+906    	This field-bed is too cold for me to sleep:
+907    	Come, shall we go?
+
+908    BENVOLIO	                  Go, then; for 'tis in vain
+909    	To seek him here that means not to be found.
+
+910    	[Exeunt]
+
+
+
+
+911    	ROMEO AND JULIET
+
+
+912    ACT II
+
+
+
+913    SCENE II	Capulet's orchard.
+
+
+914    	[Enter ROMEO]
+
+915    ROMEO	He jests at scars that never felt a wound.
+
+916    	[JULIET appears above at a window]
+
+917    	But, soft! what light through yonder window breaks?
+918    	It is the east, and Juliet is the sun.
+919    	Arise, fair sun, and kill the envious moon,
+920    	Who is already sick and pale with grief,
+921    	That thou her maid art far more fair than she:
+922    	Be not her maid, since she is envious;
+923    	Her vestal livery is but sick and green
+924    	And none but fools do wear it; cast it off.
+925    	It is my lady, O, it is my love!
+926    	O, that she knew she were!
+927    	She speaks yet she says nothing: what of that?
+928    	Her eye discourses; I will answer it.
+929    	I am too bold, 'tis not to me she speaks:
+930    	Two of the fairest stars in all the heaven,
+931    	Having some business, do entreat her eyes
+932    	To twinkle in their spheres till they return.
+933    	What if her eyes were there, they in her head?
+934    	The brightness of her cheek would shame those stars,
+935    	As daylight doth a lamp; her eyes in heaven
+936    	Would through the airy region stream so bright
+937    	That birds would sing and think it were not night.
+938    	See, how she leans her cheek upon her hand!
+939    	O, that I were a glove upon that hand,
+940    	That I might touch that cheek!
+
+941    JULIET	Ay me!
+
+942    ROMEO	She speaks:
+943    	O, speak again, bright angel! for thou art
+944    	As glorious to this night, being o'er my head
+945    	As is a winged messenger of heaven
+946    	Unto the white-upturned wondering eyes
+947    	Of mortals that fall back to gaze on him
+948    	When he bestrides the lazy-pacing clouds
+949    	And sails upon the bosom of the air.
+
+950    JULIET	O Romeo, Romeo! wherefore art thou Romeo?
+951    	Deny thy father and refuse thy name;
+952    	Or, if thou wilt not, be but sworn my love,
+953    	And I'll no longer be a Capulet.
+
+954    ROMEO	[Aside]  Shall I hear more, or shall I speak at this?
+
+955    JULIET	'Tis but thy name that is my enemy;
+956    	Thou art thyself, though not a Montague.
+957    	What's Montague? it is nor hand, nor foot,
+958    	Nor arm, nor face, nor any other part
+959    	Belonging to a man. O, be some other name!
+960    	What's in a name? that which we call a rose
+961    	By any other name would smell as sweet;
+962    	So Romeo would, were he not Romeo call'd,
+963    	Retain that dear perfection which he owes
+964    	Without that title. Romeo, doff thy name,
+965    	And for that name which is no part of thee
+966    	Take all myself.
+
+967    ROMEO	                  I take thee at thy word:
+968    	Call me but love, and I'll be new baptized;
+969    	Henceforth I never will be Romeo.
+
+970    JULIET	What man art thou that thus bescreen'd in night
+971    	So stumblest on my counsel?
+
+972    ROMEO	By a name
+973    	I know not how to tell thee who I am:
+974    	My name, dear saint, is hateful to myself,
+975    	Because it is an enemy to thee;
+976    	Had I it written, I would tear the word.
+
+977    JULIET	My ears have not yet drunk a hundred words
+978    	Of that tongue's utterance, yet I know the sound:
+979    	Art thou not Romeo and a Montague?
+
+980    ROMEO	Neither, fair saint, if either thee dislike.
+
+981    JULIET	How camest thou hither, tell me, and wherefore?
+982    	The orchard walls are high and hard to climb,
+983    	And the place death, considering who thou art,
+984    	If any of my kinsmen find thee here.
+
+985    ROMEO	With love's light wings did I o'er-perch these walls;
+986    	For stony limits cannot hold love out,
+987    	And what love can do that dares love attempt;
+988    	Therefore thy kinsmen are no let to me.
+
+989    JULIET	If they do see thee, they will murder thee.
+
+990    ROMEO	Alack, there lies more peril in thine eye
+991    	Than twenty of their swords: look thou but sweet,
+992    	And I am proof against their enmity.
+
+993    JULIET	I would not for the world they saw thee here.
+
+994    ROMEO	I have night's cloak to hide me from their sight;
+995    	And but thou love me, let them find me here:
+996    	My life were better ended by their hate,
+997    	Than death prorogued, wanting of thy love.
+
+998    JULIET	By whose direction found'st thou out this place?
+
+999    ROMEO	By love, who first did prompt me to inquire;
+1000   	He lent me counsel and I lent him eyes.
+1001   	I am no pilot; yet, wert thou as far
+1002   	As that vast shore wash'd with the farthest sea,
+1003   	I would adventure for such merchandise.
+
+1004   JULIET	Thou know'st the mask of night is on my face,
+1005   	Else would a maiden blush bepaint my cheek
+1006   	For that which thou hast heard me speak to-night
+1007   	Fain would I dwell on form, fain, fain deny
+1008   	What I have spoke: but farewell compliment!
+1009   	Dost thou love me? I know thou wilt say 'Ay,'
+1010   	And I will take thy word: yet if thou swear'st,
+1011   	Thou mayst prove false; at lovers' perjuries
+1012   	Then say, Jove laughs. O gentle Romeo,
+1013   	If thou dost love, pronounce it faithfully:
+1014   	Or if thou think'st I am too quickly won,
+1015   	I'll frown and be perverse an say thee nay,
+1016   	So thou wilt woo; but else, not for the world.
+1017   	In truth, fair Montague, I am too fond,
+1018   	And therefore thou mayst think my 'havior light:
+1019   	But trust me, gentleman, I'll prove more true
+1020   	Than those that have more cunning to be strange.
+1021   	I should have been more strange, I must confess,
+1022   	But that thou overheard'st, ere I was ware,
+1023   	My true love's passion: therefore pardon me,
+1024   	And not impute this yielding to light love,
+1025   	Which the dark night hath so discovered.
+
+1026   ROMEO	Lady, by yonder blessed moon I swear
+1027   	That tips with silver all these fruit-tree tops--
+
+1028   JULIET	O, swear not by the moon, the inconstant moon,
+1029   	That monthly changes in her circled orb,
+1030   	Lest that thy love prove likewise variable.
+
+1031   ROMEO	What shall I swear by?
+
+1032   JULIET	Do not swear at all;
+1033   	Or, if thou wilt, swear by thy gracious self,
+1034   	Which is the god of my idolatry,
+1035   	And I'll believe thee.
+
+1036   ROMEO	If my heart's dear love--
+
+1037   JULIET	Well, do not swear: although I joy in thee,
+1038   	I have no joy of this contract to-night:
+1039   	It is too rash, too unadvised, too sudden;
+1040   	Too like the lightning, which doth cease to be
+1041   	Ere one can say 'It lightens.' Sweet, good night!
+1042   	This bud of love, by summer's ripening breath,
+1043   	May prove a beauteous flower when next we meet.
+1044   	Good night, good night! as sweet repose and rest
+1045   	Come to thy heart as that within my breast!
+
+1046   ROMEO	O, wilt thou leave me so unsatisfied?
+
+1047   JULIET	What satisfaction canst thou have to-night?
+
+1048   ROMEO	The exchange of thy love's faithful vow for mine.
+
+1049   JULIET	I gave thee mine before thou didst request it:
+1050   	And yet I would it were to give again.
+
+1051   ROMEO	Wouldst thou withdraw it? for what purpose, love?
+
+1052   JULIET	But to be frank, and give it thee again.
+1053   	And yet I wish but for the thing I have:
+1054   	My bounty is as boundless as the sea,
+1055   	My love as deep; the more I give to thee,
+1056   	The more I have, for both are infinite.
+
+1057   	[Nurse calls within]
+
+1058   	I hear some noise within; dear love, adieu!
+1059   	Anon, good nurse! Sweet Montague, be true.
+1060   	Stay but a little, I will come again.
+
+1061   	[Exit, above]
+
+1062   ROMEO	O blessed, blessed night! I am afeard.
+1063   	Being in night, all this is but a dream,
+1064   	Too flattering-sweet to be substantial.
+
+1065   	[Re-enter JULIET, above]
+
+1066   JULIET	Three words, dear Romeo, and good night indeed.
+1067   	If that thy bent of love be honourable,
+1068   	Thy purpose marriage, send me word to-morrow,
+1069   	By one that I'll procure to come to thee,
+1070   	Where and what time thou wilt perform the rite;
+1071   	And all my fortunes at thy foot I'll lay
+1072   	And follow thee my lord throughout the world.
+
+1073   Nurse	[Within]  Madam!
+
+1074   JULIET	I come, anon.--But if thou mean'st not well,
+1075   	I do beseech thee--
+
+1076   Nurse	[Within]  Madam!
+
+1077   JULIET	By and by, I come:--
+1078   	To cease thy suit, and leave me to my grief:
+1079   	To-morrow will I send.
+
+1080   ROMEO	So thrive my soul--
+
+1081   JULIET	A thousand times good night!
+
+1082   	[Exit, above]
+
+1083   ROMEO	A thousand times the worse, to want thy light.
+1084   	Love goes toward love, as schoolboys from
+1085   	their books,
+1086   	But love from love, toward school with heavy looks.
+
+1087   	[Retiring]
+
+1088   	[Re-enter JULIET, above]
+
+1089   JULIET	Hist! Romeo, hist! O, for a falconer's voice,
+1090   	To lure this tassel-gentle back again!
+1091   	Bondage is hoarse, and may not speak aloud;
+1092   	Else would I tear the cave where Echo lies,
+1093   	And make her airy tongue more hoarse than mine,
+1094   	With repetition of my Romeo's name.
+
+1095   ROMEO	It is my soul that calls upon my name:
+1096   	How silver-sweet sound lovers' tongues by night,
+1097   	Like softest music to attending ears!
+
+1098   JULIET	Romeo!
+
+1099   ROMEO	     My dear?
+
+1100   JULIET	                  At what o'clock to-morrow
+1101   	Shall I send to thee?
+
+1102   ROMEO	At the hour of nine.
+
+1103   JULIET	I will not fail: 'tis twenty years till then.
+1104   	I have forgot why I did call thee back.
+
+1105   ROMEO	Let me stand here till thou remember it.
+
+1106   JULIET	I shall forget, to have thee still stand there,
+1107   	Remembering how I love thy company.
+
+1108   ROMEO	And I'll still stay, to have thee still forget,
+1109   	Forgetting any other home but this.
+
+1110   JULIET	'Tis almost morning; I would have thee gone:
+1111   	And yet no further than a wanton's bird;
+1112   	Who lets it hop a little from her hand,
+1113   	Like a poor prisoner in his twisted gyves,
+1114   	And with a silk thread plucks it back again,
+1115   	So loving-jealous of his liberty.
+
+1116   ROMEO	I would I were thy bird.
+
+1117   JULIET	Sweet, so would I:
+1118   	Yet I should kill thee with much cherishing.
+1119   	Good night, good night! parting is such
+1120   	sweet sorrow,
+1121   	That I shall say good night till it be morrow.
+
+1122   	[Exit above]
+
+1123   ROMEO	Sleep dwell upon thine eyes, peace in thy breast!
+1124   	Would I were sleep and peace, so sweet to rest!
+1125   	Hence will I to my ghostly father's cell,
+1126   	His help to crave, and my dear hap to tell.
+
+1127   	[Exit]
+
+
+
+
+1128   	ROMEO AND JULIET
+
+
+1129   ACT II
+
+
+
+1130   SCENE III	Friar Laurence's cell.
+
+
+1131   	[Enter FRIAR LAURENCE, with a basket]
+
+1132   FRIAR LAURENCE	The grey-eyed morn smiles on the frowning night,
+1133   	Chequering the eastern clouds with streaks of light,
+1134   	And flecked darkness like a drunkard reels
+1135   	From forth day's path and Titan's fiery wheels:
+1136   	Now, ere the sun advance his burning eye,
+1137   	The day to cheer and night's dank dew to dry,
+1138   	I must up-fill this osier cage of ours
+1139   	With baleful weeds and precious-juiced flowers.
+1140   	The earth that's nature's mother is her tomb;
+1141   	What is her burying grave that is her womb,
+1142   	And from her womb children of divers kind
+1143   	We sucking on her natural bosom find,
+1144   	Many for many virtues excellent,
+1145   	None but for some and yet all different.
+1146   	O, mickle is the powerful grace that lies
+1147   	In herbs, plants, stones, and their true qualities:
+1148   	For nought so vile that on the earth doth live
+1149   	But to the earth some special good doth give,
+1150   	Nor aught so good but strain'd from that fair use
+1151   	Revolts from true birth, stumbling on abuse:
+1152   	Virtue itself turns vice, being misapplied;
+1153   	And vice sometimes by action dignified.
+1154   	Within the infant rind of this small flower
+1155   	Poison hath residence and medicine power:
+1156   	For this, being smelt, with that part cheers each part;
+1157   	Being tasted, slays all senses with the heart.
+1158   	Two such opposed kings encamp them still
+1159   	In man as well as herbs, grace and rude will;
+1160   	And where the worser is predominant,
+1161   	Full soon the canker death eats up that plant.
+
+1162   	[Enter ROMEO]
+
+1163   ROMEO	Good morrow, father.
+
+1164   FRIAR LAURENCE	Benedicite!
+1165   	What early tongue so sweet saluteth me?
+1166   	Young son, it argues a distemper'd head
+1167   	So soon to bid good morrow to thy bed:
+1168   	Care keeps his watch in every old man's eye,
+1169   	And where care lodges, sleep will never lie;
+1170   	But where unbruised youth with unstuff'd brain
+1171   	Doth couch his limbs, there golden sleep doth reign:
+1172   	Therefore thy earliness doth me assure
+1173   	Thou art up-roused by some distemperature;
+1174   	Or if not so, then here I hit it right,
+1175   	Our Romeo hath not been in bed to-night.
+
+1176   ROMEO	That last is true; the sweeter rest was mine.
+
+1177   FRIAR LAURENCE	God pardon sin! wast thou with Rosaline?
+
+1178   ROMEO	With Rosaline, my ghostly father? no;
+1179   	I have forgot that name, and that name's woe.
+
+1180   FRIAR LAURENCE	That's my good son: but where hast thou been, then?
+
+1181   ROMEO	I'll tell thee, ere thou ask it me again.
+1182   	I have been feasting with mine enemy,
+1183   	Where on a sudden one hath wounded me,
+1184   	That's by me wounded: both our remedies
+1185   	Within thy help and holy physic lies:
+1186   	I bear no hatred, blessed man, for, lo,
+1187   	My intercession likewise steads my foe.
+
+1188   FRIAR LAURENCE	Be plain, good son, and homely in thy drift;
+1189   	Riddling confession finds but riddling shrift.
+
+1190   ROMEO	Then plainly know my heart's dear love is set
+1191   	On the fair daughter of rich Capulet:
+1192   	As mine on hers, so hers is set on mine;
+1193   	And all combined, save what thou must combine
+1194   	By holy marriage: when and where and how
+1195   	We met, we woo'd and made exchange of vow,
+1196   	I'll tell thee as we pass; but this I pray,
+1197   	That thou consent to marry us to-day.
+
+1198   FRIAR LAURENCE	Holy Saint Francis, what a change is here!
+1199   	Is Rosaline, whom thou didst love so dear,
+1200   	So soon forsaken? young men's love then lies
+1201   	Not truly in their hearts, but in their eyes.
+1202   	Jesu Maria, what a deal of brine
+1203   	Hath wash'd thy sallow cheeks for Rosaline!
+1204   	How much salt water thrown away in waste,
+1205   	To season love, that of it doth not taste!
+1206   	The sun not yet thy sighs from heaven clears,
+1207   	Thy old groans ring yet in my ancient ears;
+1208   	Lo, here upon thy cheek the stain doth sit
+1209   	Of an old tear that is not wash'd off yet:
+1210   	If e'er thou wast thyself and these woes thine,
+1211   	Thou and these woes were all for Rosaline:
+1212   	And art thou changed? pronounce this sentence then,
+1213   	Women may fall, when there's no strength in men.
+
+1214   ROMEO	Thou chid'st me oft for loving Rosaline.
+
+1215   FRIAR LAURENCE	For doting, not for loving, pupil mine.
+
+1216   ROMEO	And bad'st me bury love.
+
+1217   FRIAR LAURENCE	Not in a grave,
+1218   	To lay one in, another out to have.
+
+1219   ROMEO	I pray thee, chide not; she whom I love now
+1220   	Doth grace for grace and love for love allow;
+1221   	The other did not so.
+
+1222   FRIAR LAURENCE	O, she knew well
+1223   	Thy love did read by rote and could not spell.
+1224   	But come, young waverer, come, go with me,
+1225   	In one respect I'll thy assistant be;
+1226   	For this alliance may so happy prove,
+1227   	To turn your households' rancour to pure love.
+
+1228   ROMEO	O, let us hence; I stand on sudden haste.
+
+1229   FRIAR LAURENCE	Wisely and slow; they stumble that run fast.
+
+1230   	[Exeunt]
+
+
+
+
+1231   	ROMEO AND JULIET
+
+
+1232   ACT II
+
+
+
+1233   SCENE IV	A street.
+
+
+1234   	[Enter BENVOLIO and MERCUTIO]
+
+1235   MERCUTIO	Where the devil should this Romeo be?
+1236   	Came he not home to-night?
+
+1237   BENVOLIO	Not to his father's; I spoke with his man.
+
+1238   MERCUTIO	Ah, that same pale hard-hearted wench, that Rosaline.
+1239   	Torments him so, that he will sure run mad.
+
+1240   BENVOLIO	Tybalt, the kinsman of old Capulet,
+1241   	Hath sent a letter to his father's house.
+
+1242   MERCUTIO	A challenge, on my life.
+
+1243   BENVOLIO	Romeo will answer it.
+
+1244   MERCUTIO	Any man that can write may answer a letter.
+
+1245   BENVOLIO	Nay, he will answer the letter's master, how he
+1246   	dares, being dared.
+
+1247   MERCUTIO	Alas poor Romeo! he is already dead; stabbed with a
+1248   	white wench's black eye; shot through the ear with a
+1249   	love-song; the very pin of his heart cleft with the
+1250   	blind bow-boy's butt-shaft: and is he a man to
+1251   	encounter Tybalt?
+
+1252   BENVOLIO	Why, what is Tybalt?
+
+1253   MERCUTIO	More than prince of cats, I can tell you. O, he is
+1254   	the courageous captain of compliments. He fights as
+1255   	you sing prick-song, keeps time, distance, and
+1256   	proportion; rests me his minim rest, one, two, and
+1257   	the third in your bosom: the very butcher of a silk
+1258   	button, a duellist, a duellist; a gentleman of the
+1259   	very first house, of the first and second cause:
+1260   	ah, the immortal passado! the punto reverso! the
+1261   	hai!
+
+1262   BENVOLIO	The what?
+
+1263   MERCUTIO	The pox of such antic, lisping, affecting
+1264   	fantasticoes; these new tuners of accents! 'By Jesu,
+1265   	a very good blade! a very tall man! a very good
+1266   	whore!' Why, is not this a lamentable thing,
+1267   	grandsire, that we should be thus afflicted with
+1268   	these strange flies, these fashion-mongers, these
+1269   	perdona-mi's, who stand so much on the new form,
+1270   	that they cannot at ease on the old bench? O, their
+1271   	bones, their bones!
+
+1272   	[Enter ROMEO]
+
+1273   BENVOLIO	Here comes Romeo, here comes Romeo.
+
+1274   MERCUTIO	Without his roe, like a dried herring: flesh, flesh,
+1275   	how art thou fishified! Now is he for the numbers
+1276   	that Petrarch flowed in: Laura to his lady was but a
+1277   	kitchen-wench; marry, she had a better love to
+1278   	be-rhyme her; Dido a dowdy; Cleopatra a gipsy;
+1279   	Helen and Hero hildings and harlots; Thisbe a grey
+1280   	eye or so, but not to the purpose. Signior
+1281   	Romeo, bon jour! there's a French salutation
+1282   	to your French slop. You gave us the counterfeit
+1283   	fairly last night.
+
+1284   ROMEO	Good morrow to you both. What counterfeit did I give you?
+
+1285   MERCUTIO	The ship, sir, the slip; can you not conceive?
+
+1286   ROMEO	Pardon, good Mercutio, my business was great; and in
+1287   	such a case as mine a man may strain courtesy.
+
+1288   MERCUTIO	That's as much as to say, such a case as yours
+1289   	constrains a man to bow in the hams.
+
+1290   ROMEO	Meaning, to court'sy.
+
+1291   MERCUTIO	Thou hast most kindly hit it.
+
+1292   ROMEO	A most courteous exposition.
+
+1293   MERCUTIO	Nay, I am the very pink of courtesy.
+
+1294   ROMEO	Pink for flower.
+
+1295   MERCUTIO	Right.
+
+1296   ROMEO	Why, then is my pump well flowered.
+
+1297   MERCUTIO	Well said: follow me this jest now till thou hast
+1298   	worn out thy pump, that when the single sole of it
+1299   	is worn, the jest may remain after the wearing sole singular.
+
+1300   ROMEO	O single-soled jest, solely singular for the
+1301   	singleness.
+
+1302   MERCUTIO	Come between us, good Benvolio; my wits faint.
+
+1303   ROMEO	Switch and spurs, switch and spurs; or I'll cry a match.
+
+1304   MERCUTIO	Nay, if thy wits run the wild-goose chase, I have
+1305   	done, for thou hast more of the wild-goose in one of
+1306   	thy wits than, I am sure, I have in my whole five:
+1307   	was I with you there for the goose?
+
+1308   ROMEO	Thou wast never with me for any thing when thou wast
+1309   	not there for the goose.
+
+1310   MERCUTIO	I will bite thee by the ear for that jest.
+
+1311   ROMEO	Nay, good goose, bite not.
+
+1312   MERCUTIO	Thy wit is a very bitter sweeting; it is a most
+1313   	sharp sauce.
+
+1314   ROMEO	And is it not well served in to a sweet goose?
+
+1315   MERCUTIO	O here's a wit of cheveril, that stretches from an
+1316   	inch narrow to an ell broad!
+
+1317   ROMEO	I stretch it out for that word 'broad;' which added
+1318   	to the goose, proves thee far and wide a broad goose.
+
+1319   MERCUTIO	Why, is not this better now than groaning for love?
+1320   	now art thou sociable, now art thou Romeo; now art
+1321   	thou what thou art, by art as well as by nature:
+1322   	for this drivelling love is like a great natural,
+1323   	that runs lolling up and down to hide his bauble in a hole.
+
+1324   BENVOLIO	Stop there, stop there.
+
+1325   MERCUTIO	Thou desirest me to stop in my tale against the hair.
+
+1326   BENVOLIO	Thou wouldst else have made thy tale large.
+
+1327   MERCUTIO	O, thou art deceived; I would have made it short:
+1328   	for I was come to the whole depth of my tale; and
+1329   	meant, indeed, to occupy the argument no longer.
+
+1330   ROMEO	Here's goodly gear!
+
+1331   	[Enter Nurse and PETER]
+
+1332   MERCUTIO	A sail, a sail!
+
+1333   BENVOLIO	Two, two; a shirt and a smock.
+
+1334   Nurse	Peter!
+
+1335   PETER	Anon!
+
+1336   Nurse	My fan, Peter.
+
+1337   MERCUTIO	Good Peter, to hide her face; for her fan's the
+1338   	fairer face.
+
+1339   Nurse	God ye good morrow, gentlemen.
+
+1340   MERCUTIO	God ye good den, fair gentlewoman.
+
+1341   Nurse	Is it good den?
+
+1342   MERCUTIO	'Tis no less, I tell you, for the bawdy hand of the
+1343   	dial is now upon the prick of noon.
+
+1344   Nurse	Out upon you! what a man are you!
+
+1345   ROMEO	One, gentlewoman, that God hath made for himself to
+1346   	mar.
+
+1347   Nurse	By my troth, it is well said; 'for himself to mar,'
+1348   	quoth a'? Gentlemen, can any of you tell me where I
+1349   	may find the young Romeo?
+
+1350   ROMEO	I can tell you; but young Romeo will be older when
+1351   	you have found him than he was when you sought him:
+1352   	I am the youngest of that name, for fault of a worse.
+
+1353   Nurse	You say well.
+
+1354   MERCUTIO	Yea, is the worst well? very well took, i' faith;
+1355   	wisely, wisely.
+
+1356   Nurse	if you be he, sir, I desire some confidence with
+1357   	you.
+
+1358   BENVOLIO	She will indite him to some supper.
+
+1359   MERCUTIO	A bawd, a bawd, a bawd! so ho!
+
+1360   ROMEO	What hast thou found?
+
+1361   MERCUTIO	No hare, sir; unless a hare, sir, in a lenten pie,
+1362   	that is something stale and hoar ere it be spent.
+
+1363   	[Sings]
+
+1364   	An old hare hoar,
+1365   	And an old hare hoar,
+1366   	Is very good meat in lent
+1367   	But a hare that is hoar
+1368   	Is too much for a score,
+1369   	When it hoars ere it be spent.
+1370   	Romeo, will you come to your father's? we'll
+1371   	to dinner, thither.
+
+1372   ROMEO	I will follow you.
+
+1373   MERCUTIO	Farewell, ancient lady; farewell,
+
+1374   	[Singing]
+
+1375   	'lady, lady, lady.'
+
+1376   	[Exeunt MERCUTIO and BENVOLIO]
+
+1377   Nurse	Marry, farewell! I pray you, sir, what saucy
+1378   	merchant was this, that was so full of his ropery?
+
+1379   ROMEO	A gentleman, nurse, that loves to hear himself talk,
+1380   	and will speak more in a minute than he will stand
+1381   	to in a month.
+
+1382   Nurse	An a' speak any thing against me, I'll take him
+1383   	down, an a' were lustier than he is, and twenty such
+1384   	Jacks; and if I cannot, I'll find those that shall.
+1385   	Scurvy knave! I am none of his flirt-gills; I am
+1386   	none of his skains-mates. And thou must stand by
+1387   	too, and suffer every knave to use me at his pleasure?
+
+1388   PETER	I saw no man use you a pleasure; if I had, my weapon
+1389   	should quickly have been out, I warrant you: I dare
+1390   	draw as soon as another man, if I see occasion in a
+1391   	good quarrel, and the law on my side.
+
+1392   Nurse	Now, afore God, I am so vexed, that every part about
+1393   	me quivers. Scurvy knave! Pray you, sir, a word:
+1394   	and as I told you, my young lady bade me inquire you
+1395   	out; what she bade me say, I will keep to myself:
+1396   	but first let me tell ye, if ye should lead her into
+1397   	a fool's paradise, as they say, it were a very gross
+1398   	kind of behavior, as they say: for the gentlewoman
+1399   	is young; and, therefore, if you should deal double
+1400   	with her, truly it were an ill thing to be offered
+1401   	to any gentlewoman, and very weak dealing.
+
+1402   ROMEO	Nurse, commend me to thy lady and mistress. I
+1403   	protest unto thee--
+
+1404   Nurse	Good heart, and, i' faith, I will tell her as much:
+1405   	Lord, Lord, she will be a joyful woman.
+
+1406   ROMEO	What wilt thou tell her, nurse? thou dost not mark me.
+
+1407   Nurse	I will tell her, sir, that you do protest; which, as
+1408   	I take it, is a gentlemanlike offer.
+
+1409   ROMEO	Bid her devise
+1410   	Some means to come to shrift this afternoon;
+1411   	And there she shall at Friar Laurence' cell
+1412   	Be shrived and married. Here is for thy pains.
+
+1413   Nurse	No truly sir; not a penny.
+
+1414   ROMEO	Go to; I say you shall.
+
+1415   Nurse	This afternoon, sir? well, she shall be there.
+
+1416   ROMEO	And stay, good nurse, behind the abbey wall:
+1417   	Within this hour my man shall be with thee
+1418   	And bring thee cords made like a tackled stair;
+1419   	Which to the high top-gallant of my joy
+1420   	Must be my convoy in the secret night.
+1421   	Farewell; be trusty, and I'll quit thy pains:
+1422   	Farewell; commend me to thy mistress.
+
+1423   Nurse	Now God in heaven bless thee! Hark you, sir.
+
+1424   ROMEO	What say'st thou, my dear nurse?
+
+1425   Nurse	Is your man secret? Did you ne'er hear say,
+1426   	Two may keep counsel, putting one away?
+
+1427   ROMEO	I warrant thee, my man's as true as steel.
+
+1428   NURSE	Well, sir; my mistress is the sweetest lady--Lord,
+1429   	Lord! when 'twas a little prating thing:--O, there
+1430   	is a nobleman in town, one Paris, that would fain
+1431   	lay knife aboard; but she, good soul, had as lief
+1432   	see a toad, a very toad, as see him. I anger her
+1433   	sometimes and tell her that Paris is the properer
+1434   	man; but, I'll warrant you, when I say so, she looks
+1435   	as pale as any clout in the versal world. Doth not
+1436   	rosemary and Romeo begin both with a letter?
+
+1437   ROMEO	Ay, nurse; what of that? both with an R.
+
+1438   Nurse	Ah. mocker! that's the dog's name; R is for
+1439   	the--No; I know it begins with some other
+1440   	letter:--and she hath the prettiest sententious of
+1441   	it, of you and rosemary, that it would do you good
+1442   	to hear it.
+
+1443   ROMEO	Commend me to thy lady.
+
+1444   Nurse	Ay, a thousand times.
+
+1445   	[Exit Romeo]
+1446   	Peter!
+
+1447   PETER	Anon!
+
+1448   Nurse	Peter, take my fan, and go before and apace.
+
+1449   	[Exeunt]
+
+
+
+
+1450   	ROMEO AND JULIET
+
+
+1451   ACT II
+
+
+
+1452   SCENE V	Capulet's orchard.
+
+
+1453   	[Enter JULIET]
+
+1454   JULIET	The clock struck nine when I did send the nurse;
+1455   	In half an hour she promised to return.
+1456   	Perchance she cannot meet him: that's not so.
+1457   	O, she is lame! love's heralds should be thoughts,
+1458   	Which ten times faster glide than the sun's beams,
+1459   	Driving back shadows over louring hills:
+1460   	Therefore do nimble-pinion'd doves draw love,
+1461   	And therefore hath the wind-swift Cupid wings.
+1462   	Now is the sun upon the highmost hill
+1463   	Of this day's journey, and from nine till twelve
+1464   	Is three long hours, yet she is not come.
+1465   	Had she affections and warm youthful blood,
+1466   	She would be as swift in motion as a ball;
+1467   	My words would bandy her to my sweet love,
+1468   	And his to me:
+1469   	But old folks, many feign as they were dead;
+1470   	Unwieldy, slow, heavy and pale as lead.
+1471   	O God, she comes!
+
+1472   	[Enter Nurse and PETER]
+
+1473   	O honey nurse, what news?
+1474   	Hast thou met with him? Send thy man away.
+
+1475   Nurse	Peter, stay at the gate.
+
+1476   	[Exit PETER]
+
+1477   JULIET	Now, good sweet nurse,--O Lord, why look'st thou sad?
+1478   	Though news be sad, yet tell them merrily;
+1479   	If good, thou shamest the music of sweet news
+1480   	By playing it to me with so sour a face.
+
+1481   Nurse	I am a-weary, give me leave awhile:
+1482   	Fie, how my bones ache! what a jaunt have I had!
+
+1483   JULIET	I would thou hadst my bones, and I thy news:
+1484   	Nay, come, I pray thee, speak; good, good nurse, speak.
+
+1485   Nurse	Jesu, what haste? can you not stay awhile?
+1486   	Do you not see that I am out of breath?
+
+1487   JULIET	How art thou out of breath, when thou hast breath
+1488   	To say to me that thou art out of breath?
+1489   	The excuse that thou dost make in this delay
+1490   	Is longer than the tale thou dost excuse.
+1491   	Is thy news good, or bad? answer to that;
+1492   	Say either, and I'll stay the circumstance:
+1493   	Let me be satisfied, is't good or bad?
+
+1494   Nurse	Well, you have made a simple choice; you know not
+1495   	how to choose a man: Romeo! no, not he; though his
+1496   	face be better than any man's, yet his leg excels
+1497   	all men's; and for a hand, and a foot, and a body,
+1498   	though they be not to be talked on, yet they are
+1499   	past compare: he is not the flower of courtesy,
+1500   	but, I'll warrant him, as gentle as a lamb. Go thy
+1501   	ways, wench; serve God. What, have you dined at home?
+
+1502   JULIET	No, no: but all this did I know before.
+1503   	What says he of our marriage? what of that?
+
+1504   Nurse	Lord, how my head aches! what a head have I!
+1505   	It beats as it would fall in twenty pieces.
+1506   	My back o' t' other side,--O, my back, my back!
+1507   	Beshrew your heart for sending me about,
+1508   	To catch my death with jaunting up and down!
+
+1509   JULIET	I' faith, I am sorry that thou art not well.
+1510   	Sweet, sweet, sweet nurse, tell me, what says my love?
+
+1511   Nurse	Your love says, like an honest gentleman, and a
+1512   	courteous, and a kind, and a handsome, and, I
+1513   	warrant, a virtuous,--Where is your mother?
+
+1514   JULIET	Where is my mother! why, she is within;
+1515   	Where should she be? How oddly thou repliest!
+1516   	'Your love says, like an honest gentleman,
+1517   	Where is your mother?'
+
+1518   Nurse	O God's lady dear!
+1519   	Are you so hot? marry, come up, I trow;
+1520   	Is this the poultice for my aching bones?
+1521   	Henceforward do your messages yourself.
+
+1522   JULIET	Here's such a coil! come, what says Romeo?
+
+1523   Nurse	Have you got leave to go to shrift to-day?
+
+1524   JULIET	I have.
+
+1525   Nurse	Then hie you hence to Friar Laurence' cell;
+1526   	There stays a husband to make you a wife:
+1527   	Now comes the wanton blood up in your cheeks,
+1528   	They'll be in scarlet straight at any news.
+1529   	Hie you to church; I must another way,
+1530   	To fetch a ladder, by the which your love
+1531   	Must climb a bird's nest soon when it is dark:
+1532   	I am the drudge and toil in your delight,
+1533   	But you shall bear the burden soon at night.
+1534   	Go; I'll to dinner: hie you to the cell.
+
+1535   JULIET	Hie to high fortune! Honest nurse, farewell.
+
+1536   	[Exeunt]
+
+
+
+
+1537   	ROMEO AND JULIET
+
+
+1538   ACT II
+
+
+
+1539   SCENE VI	Friar Laurence's cell.
+
+
+1540   	[Enter FRIAR LAURENCE and ROMEO]
+
+1541   FRIAR LAURENCE	So smile the heavens upon this holy act,
+1542   	That after hours with sorrow chide us not!
+
+1543   ROMEO	Amen, amen! but come what sorrow can,
+1544   	It cannot countervail the exchange of joy
+1545   	That one short minute gives me in her sight:
+1546   	Do thou but close our hands with holy words,
+1547   	Then love-devouring death do what he dare;
+1548   	It is enough I may but call her mine.
+
+1549   FRIAR LAURENCE	These violent delights have violent ends
+1550   	And in their triumph die, like fire and powder,
+1551   	Which as they kiss consume: the sweetest honey
+1552   	Is loathsome in his own deliciousness
+1553   	And in the taste confounds the appetite:
+1554   	Therefore love moderately; long love doth so;
+1555   	Too swift arrives as tardy as too slow.
+
+1556   	[Enter JULIET]
+
+1557   	Here comes the lady: O, so light a foot
+1558   	Will ne'er wear out the everlasting flint:
+1559   	A lover may bestride the gossamer
+1560   	That idles in the wanton summer air,
+1561   	And yet not fall; so light is vanity.
+
+1562   JULIET	Good even to my ghostly confessor.
+
+1563   FRIAR LAURENCE	Romeo shall thank thee, daughter, for us both.
+
+1564   JULIET	As much to him, else is his thanks too much.
+
+1565   ROMEO	Ah, Juliet, if the measure of thy joy
+1566   	Be heap'd like mine and that thy skill be more
+1567   	To blazon it, then sweeten with thy breath
+1568   	This neighbour air, and let rich music's tongue
+1569   	Unfold the imagined happiness that both
+1570   	Receive in either by this dear encounter.
+
+1571   JULIET	Conceit, more rich in matter than in words,
+1572   	Brags of his substance, not of ornament:
+1573   	They are but beggars that can count their worth;
+1574   	But my true love is grown to such excess
+1575   	I cannot sum up sum of half my wealth.
+
+1576   FRIAR LAURENCE	Come, come with me, and we will make short work;
+1577   	For, by your leaves, you shall not stay alone
+1578   	Till holy church incorporate two in one.
+
+1579   	[Exeunt]
+
+
+
+
+1580   	ROMEO AND JULIET
+
+
+1581   ACT III
+
+
+
+1582   SCENE I	A public place.
+
+
+1583   	[Enter MERCUTIO, BENVOLIO, Page, and Servants]
+
+1584   BENVOLIO	I pray thee, good Mercutio, let's retire:
+1585   	The day is hot, the Capulets abroad,
+1586   	And, if we meet, we shall not scape a brawl;
+1587   	For now, these hot days, is the mad blood stirring.
+
+1588   MERCUTIO	Thou art like one of those fellows that when he
+1589   	enters the confines of a tavern claps me his sword
+1590   	upon the table and says 'God send me no need of
+1591   	thee!' and by the operation of the second cup draws
+1592   	it on the drawer, when indeed there is no need.
+
+1593   BENVOLIO	Am I like such a fellow?
+
+1594   MERCUTIO	Come, come, thou art as hot a Jack in thy mood as
+1595   	any in Italy, and as soon moved to be moody, and as
+1596   	soon moody to be moved.
+
+1597   BENVOLIO	And what to?
+
+1598   MERCUTIO	Nay, an there were two such, we should have none
+1599   	shortly, for one would kill the other. Thou! why,
+1600   	thou wilt quarrel with a man that hath a hair more,
+1601   	or a hair less, in his beard, than thou hast: thou
+1602   	wilt quarrel with a man for cracking nuts, having no
+1603   	other reason but because thou hast hazel eyes: what
+1604   	eye but such an eye would spy out such a quarrel?
+1605   	Thy head is as fun of quarrels as an egg is full of
+1606   	meat, and yet thy head hath been beaten as addle as
+1607   	an egg for quarrelling: thou hast quarrelled with a
+1608   	man for coughing in the street, because he hath
+1609   	wakened thy dog that hath lain asleep in the sun:
+1610   	didst thou not fall out with a tailor for wearing
+1611   	his new doublet before Easter? with another, for
+1612   	tying his new shoes with old riband? and yet thou
+1613   	wilt tutor me from quarrelling!
+
+1614   BENVOLIO	An I were so apt to quarrel as thou art, any man
+1615   	should buy the fee-simple of my life for an hour and a quarter.
+
+1616   MERCUTIO	The fee-simple! O simple!
+
+1617   BENVOLIO	By my head, here come the Capulets.
+
+1618   MERCUTIO	By my heel, I care not.
+
+1619   	[Enter TYBALT and others]
+
+1620   TYBALT	Follow me close, for I will speak to them.
+1621   	Gentlemen, good den: a word with one of you.
+
+1622   MERCUTIO	And but one word with one of us? couple it with
+1623   	something; make it a word and a blow.
+
+1624   TYBALT	You shall find me apt enough to that, sir, an you
+1625   	will give me occasion.
+
+1626   MERCUTIO	Could you not take some occasion without giving?
+
+1627   TYBALT	Mercutio, thou consort'st with Romeo,--
+
+1628   MERCUTIO	Consort! what, dost thou make us minstrels? an
+1629   	thou make minstrels of us, look to hear nothing but
+1630   	discords: here's my fiddlestick; here's that shall
+1631   	make you dance. 'Zounds, consort!
+
+1632   BENVOLIO	We talk here in the public haunt of men:
+1633   	Either withdraw unto some private place,
+1634   	And reason coldly of your grievances,
+1635   	Or else depart; here all eyes gaze on us.
+
+1636   MERCUTIO	Men's eyes were made to look, and let them gaze;
+1637   	I will not budge for no man's pleasure, I.
+
+1638   	[Enter ROMEO]
+
+1639   TYBALT	Well, peace be with you, sir: here comes my man.
+
+1640   MERCUTIO	But I'll be hanged, sir, if he wear your livery:
+1641   	Marry, go before to field, he'll be your follower;
+1642   	Your worship in that sense may call him 'man.'
+
+1643   TYBALT	Romeo, the hate I bear thee can afford
+1644   	No better term than this,--thou art a villain.
+
+1645   ROMEO	Tybalt, the reason that I have to love thee
+1646   	Doth much excuse the appertaining rage
+1647   	To such a greeting: villain am I none;
+1648   	Therefore farewell; I see thou know'st me not.
+
+1649   TYBALT	Boy, this shall not excuse the injuries
+1650   	That thou hast done me; therefore turn and draw.
+
+1651   ROMEO	I do protest, I never injured thee,
+1652   	But love thee better than thou canst devise,
+1653   	Till thou shalt know the reason of my love:
+1654   	And so, good Capulet,--which name I tender
+1655   	As dearly as my own,--be satisfied.
+
+1656   MERCUTIO	O calm, dishonourable, vile submission!
+1657   	Alla stoccata carries it away.
+
+1658   	[Draws]
+
+1659   	Tybalt, you rat-catcher, will you walk?
+
+1660   TYBALT	What wouldst thou have with me?
+
+1661   MERCUTIO	Good king of cats, nothing but one of your nine
+1662   	lives; that I mean to make bold withal, and as you
+1663   	shall use me hereafter, drybeat the rest of the
+1664   	eight. Will you pluck your sword out of his pitcher
+1665   	by the ears? make haste, lest mine be about your
+1666   	ears ere it be out.
+
+1667   TYBALT	I am for you.
+
+1668   	[Drawing]
+
+1669   ROMEO	Gentle Mercutio, put thy rapier up.
+
+1670   MERCUTIO	Come, sir, your passado.
+
+1671   	[They fight]
+
+1672   ROMEO	Draw, Benvolio; beat down their weapons.
+1673   	Gentlemen, for shame, forbear this outrage!
+1674   	Tybalt, Mercutio, the prince expressly hath
+1675   	Forbidden bandying in Verona streets:
+1676   	Hold, Tybalt! good Mercutio!
+
+1677   	[TYBALT under ROMEO's arm stabs MERCUTIO, and flies
+1678   	with his followers]
+
+1679   MERCUTIO	I am hurt.
+1680   	A plague o' both your houses! I am sped.
+1681   	Is he gone, and hath nothing?
+
+1682   BENVOLIO	What, art thou hurt?
+
+1683   MERCUTIO	Ay, ay, a scratch, a scratch; marry, 'tis enough.
+1684   	Where is my page? Go, villain, fetch a surgeon.
+
+1685   	[Exit Page]
+
+1686   ROMEO	Courage, man; the hurt cannot be much.
+
+1687   MERCUTIO	No, 'tis not so deep as a well, nor so wide as a
+1688   	church-door; but 'tis enough,'twill serve: ask for
+1689   	me to-morrow, and you shall find me a grave man. I
+1690   	am peppered, I warrant, for this world. A plague o'
+1691   	both your houses! 'Zounds, a dog, a rat, a mouse, a
+1692   	cat, to scratch a man to death! a braggart, a
+1693   	rogue, a villain, that fights by the book of
+1694   	arithmetic! Why the devil came you between us? I
+1695   	was hurt under your arm.
+
+1696   ROMEO	I thought all for the best.
+
+1697   MERCUTIO	Help me into some house, Benvolio,
+1698   	Or I shall faint. A plague o' both your houses!
+1699   	They have made worms' meat of me: I have it,
+1700   	And soundly too: your houses!
+
+1701   	[Exeunt MERCUTIO and BENVOLIO]
+
+1702   ROMEO	This gentleman, the prince's near ally,
+1703   	My very friend, hath got his mortal hurt
+1704   	In my behalf; my reputation stain'd
+1705   	With Tybalt's slander,--Tybalt, that an hour
+1706   	Hath been my kinsman! O sweet Juliet,
+1707   	Thy beauty hath made me effeminate
+1708   	And in my temper soften'd valour's steel!
+
+1709   	[Re-enter BENVOLIO]
+
+1710   BENVOLIO	O Romeo, Romeo, brave Mercutio's dead!
+1711   	That gallant spirit hath aspired the clouds,
+1712   	Which too untimely here did scorn the earth.
+
+1713   ROMEO	This day's black fate on more days doth depend;
+1714   	This but begins the woe, others must end.
+
+1715   BENVOLIO	Here comes the furious Tybalt back again.
+
+1716   ROMEO	Alive, in triumph! and Mercutio slain!
+1717   	Away to heaven, respective lenity,
+1718   	And fire-eyed fury be my conduct now!
+
+1719   	[Re-enter TYBALT]
+
+1720   	Now, Tybalt, take the villain back again,
+1721   	That late thou gavest me; for Mercutio's soul
+1722   	Is but a little way above our heads,
+1723   	Staying for thine to keep him company:
+1724   	Either thou, or I, or both, must go with him.
+
+1725   TYBALT	Thou, wretched boy, that didst consort him here,
+1726   	Shalt with him hence.
+
+1727   ROMEO	This shall determine that.
+
+1728   	[They fight; TYBALT falls]
+
+1729   BENVOLIO	Romeo, away, be gone!
+1730   	The citizens are up, and Tybalt slain.
+1731   	Stand not amazed: the prince will doom thee death,
+1732   	If thou art taken: hence, be gone, away!
+
+1733   ROMEO	O, I am fortune's fool!
+
+1734   BENVOLIO	Why dost thou stay?
+
+1735   	[Exit ROMEO]
+
+1736   	[Enter Citizens, &c]
+
+1737   First Citizen	Which way ran he that kill'd Mercutio?
+1738   	Tybalt, that murderer, which way ran he?
+
+1739   BENVOLIO	There lies that Tybalt.
+
+1740   First Citizen	Up, sir, go with me;
+1741   	I charge thee in the princes name, obey.
+
+1742   	[Enter Prince, attended; MONTAGUE, CAPULET, their
+1743   	Wives, and others]
+
+1744   PRINCE	Where are the vile beginners of this fray?
+
+1745   BENVOLIO	O noble prince, I can discover all
+1746   	The unlucky manage of this fatal brawl:
+1747   	There lies the man, slain by young Romeo,
+1748   	That slew thy kinsman, brave Mercutio.
+
+1749   LADY CAPULET	Tybalt, my cousin! O my brother's child!
+1750   	O prince! O cousin! husband! O, the blood is spilt
+1751   	O my dear kinsman! Prince, as thou art true,
+1752   	For blood of ours, shed blood of Montague.
+1753   	O cousin, cousin!
+
+1754   PRINCE	Benvolio, who began this bloody fray?
+
+1755   BENVOLIO	Tybalt, here slain, whom Romeo's hand did slay;
+1756   	Romeo that spoke him fair, bade him bethink
+1757   	How nice the quarrel was, and urged withal
+1758   	Your high displeasure: all this uttered
+1759   	With gentle breath, calm look, knees humbly bow'd,
+1760   	Could not take truce with the unruly spleen
+1761   	Of Tybalt deaf to peace, but that he tilts
+1762   	With piercing steel at bold Mercutio's breast,
+1763   	Who all as hot, turns deadly point to point,
+1764   	And, with a martial scorn, with one hand beats
+1765   	Cold death aside, and with the other sends
+1766   	It back to Tybalt, whose dexterity,
+1767   	Retorts it: Romeo he cries aloud,
+1768   	'Hold, friends! friends, part!' and, swifter than
+1769   	his tongue,
+1770   	His agile arm beats down their fatal points,
+1771   	And 'twixt them rushes; underneath whose arm
+1772   	An envious thrust from Tybalt hit the life
+1773   	Of stout Mercutio, and then Tybalt fled;
+1774   	But by and by comes back to Romeo,
+1775   	Who had but newly entertain'd revenge,
+1776   	And to 't they go like lightning, for, ere I
+1777   	Could draw to part them, was stout Tybalt slain.
+1778   	And, as he fell, did Romeo turn and fly.
+1779   	This is the truth, or let Benvolio die.
+
+1780   LADY CAPULET	He is a kinsman to the Montague;
+1781   	Affection makes him false; he speaks not true:
+1782   	Some twenty of them fought in this black strife,
+1783   	And all those twenty could but kill one life.
+1784   	I beg for justice, which thou, prince, must give;
+1785   	Romeo slew Tybalt, Romeo must not live.
+
+1786   PRINCE	Romeo slew him, he slew Mercutio;
+1787   	Who now the price of his dear blood doth owe?
+
+1788   MONTAGUE	Not Romeo, prince, he was Mercutio's friend;
+1789   	His fault concludes but what the law should end,
+1790   	The life of Tybalt.
+
+1791   PRINCE	And for that offence
+1792   	Immediately we do exile him hence:
+1793   	I have an interest in your hate's proceeding,
+1794   	My blood for your rude brawls doth lie a-bleeding;
+1795   	But I'll amerce you with so strong a fine
+1796   	That you shall all repent the loss of mine:
+1797   	I will be deaf to pleading and excuses;
+1798   	Nor tears nor prayers shall purchase out abuses:
+1799   	Therefore use none: let Romeo hence in haste,
+1800   	Else, when he's found, that hour is his last.
+1801   	Bear hence this body and attend our will:
+1802   	Mercy but murders, pardoning those that kill.
+
+1803   	[Exeunt]
+
+
+
+
+1804   	ROMEO AND JULIET
+
+
+1805   ACT III
+
+
+
+1806   SCENE II	Capulet's orchard.
+
+
+1807   	[Enter JULIET]
+
+1808   JULIET	Gallop apace, you fiery-footed steeds,
+1809   	Towards Phoebus' lodging: such a wagoner
+1810   	As Phaethon would whip you to the west,
+1811   	And bring in cloudy night immediately.
+1812   	Spread thy close curtain, love-performing night,
+1813   	That runaway's eyes may wink and Romeo
+1814   	Leap to these arms, untalk'd of and unseen.
+1815   	Lovers can see to do their amorous rites
+1816   	By their own beauties; or, if love be blind,
+1817   	It best agrees with night. Come, civil night,
+1818   	Thou sober-suited matron, all in black,
+1819   	And learn me how to lose a winning match,
+1820   	Play'd for a pair of stainless maidenhoods:
+1821   	Hood my unmann'd blood, bating in my cheeks,
+1822   	With thy black mantle; till strange love, grown bold,
+1823   	Think true love acted simple modesty.
+1824   	Come, night; come, Romeo; come, thou day in night;
+1825   	For thou wilt lie upon the wings of night
+1826   	Whiter than new snow on a raven's back.
+1827   	Come, gentle night, come, loving, black-brow'd night,
+1828   	Give me my Romeo; and, when he shall die,
+1829   	Take him and cut him out in little stars,
+1830   	And he will make the face of heaven so fine
+1831   	That all the world will be in love with night
+1832   	And pay no worship to the garish sun.
+1833   	O, I have bought the mansion of a love,
+1834   	But not possess'd it, and, though I am sold,
+1835   	Not yet enjoy'd: so tedious is this day
+1836   	As is the night before some festival
+1837   	To an impatient child that hath new robes
+1838   	And may not wear them. O, here comes my nurse,
+1839   	And she brings news; and every tongue that speaks
+1840   	But Romeo's name speaks heavenly eloquence.
+
+1841   	[Enter Nurse, with cords]
+
+1842   	Now, nurse, what news? What hast thou there? the cords
+1843   	That Romeo bid thee fetch?
+
+1844   Nurse	Ay, ay, the cords.
+
+1845   	[Throws them down]
+
+1846   JULIET	Ay me! what news? why dost thou wring thy hands?
+
+1847   Nurse	Ah, well-a-day! he's dead, he's dead, he's dead!
+1848   	We are undone, lady, we are undone!
+1849   	Alack the day! he's gone, he's kill'd, he's dead!
+
+1850   JULIET	Can heaven be so envious?
+
+1851   Nurse	Romeo can,
+1852   	Though heaven cannot: O Romeo, Romeo!
+1853   	Who ever would have thought it? Romeo!
+
+1854   JULIET	What devil art thou, that dost torment me thus?
+1855   	This torture should be roar'd in dismal hell.
+1856   	Hath Romeo slain himself? say thou but 'I,'
+1857   	And that bare vowel 'I' shall poison more
+1858   	Than the death-darting eye of cockatrice:
+1859   	I am not I, if there be such an I;
+1860   	Or those eyes shut, that make thee answer 'I.'
+1861   	If he be slain, say 'I'; or if not, no:
+1862   	Brief sounds determine of my weal or woe.
+
+1863   Nurse	I saw the wound, I saw it with mine eyes,--
+1864   	God save the mark!--here on his manly breast:
+1865   	A piteous corse, a bloody piteous corse;
+1866   	Pale, pale as ashes, all bedaub'd in blood,
+1867   	All in gore-blood; I swounded at the sight.
+
+1868   JULIET	O, break, my heart! poor bankrupt, break at once!
+1869   	To prison, eyes, ne'er look on liberty!
+1870   	Vile earth, to earth resign; end motion here;
+1871   	And thou and Romeo press one heavy bier!
+
+1872   Nurse	O Tybalt, Tybalt, the best friend I had!
+1873   	O courteous Tybalt! honest gentleman!
+1874   	That ever I should live to see thee dead!
+
+1875   JULIET	What storm is this that blows so contrary?
+1876   	Is Romeo slaughter'd, and is Tybalt dead?
+1877   	My dear-loved cousin, and my dearer lord?
+1878   	Then, dreadful trumpet, sound the general doom!
+1879   	For who is living, if those two are gone?
+
+1880   Nurse	Tybalt is gone, and Romeo banished;
+1881   	Romeo that kill'd him, he is banished.
+
+1882   JULIET	O God! did Romeo's hand shed Tybalt's blood?
+
+1883   Nurse	It did, it did; alas the day, it did!
+
+1884   JULIET	O serpent heart, hid with a flowering face!
+1885   	Did ever dragon keep so fair a cave?
+1886   	Beautiful tyrant! fiend angelical!
+1887   	Dove-feather'd raven! wolvish-ravening lamb!
+1888   	Despised substance of divinest show!
+1889   	Just opposite to what thou justly seem'st,
+1890   	A damned saint, an honourable villain!
+1891   	O nature, what hadst thou to do in hell,
+1892   	When thou didst bower the spirit of a fiend
+1893   	In moral paradise of such sweet flesh?
+1894   	Was ever book containing such vile matter
+1895   	So fairly bound? O that deceit should dwell
+1896   	In such a gorgeous palace!
+
+1897   Nurse	There's no trust,
+1898   	No faith, no honesty in men; all perjured,
+1899   	All forsworn, all naught, all dissemblers.
+1900   	Ah, where's my man? give me some aqua vitae:
+1901   	These griefs, these woes, these sorrows make me old.
+1902   	Shame come to Romeo!
+
+1903   JULIET	Blister'd be thy tongue
+1904   	For such a wish! he was not born to shame:
+1905   	Upon his brow shame is ashamed to sit;
+1906   	For 'tis a throne where honour may be crown'd
+1907   	Sole monarch of the universal earth.
+1908   	O, what a beast was I to chide at him!
+
+1909   Nurse	Will you speak well of him that kill'd your cousin?
+
+1910   JULIET	Shall I speak ill of him that is my husband?
+1911   	Ah, poor my lord, what tongue shall smooth thy name,
+1912   	When I, thy three-hours wife, have mangled it?
+1913   	But, wherefore, villain, didst thou kill my cousin?
+1914   	That villain cousin would have kill'd my husband:
+1915   	Back, foolish tears, back to your native spring;
+1916   	Your tributary drops belong to woe,
+1917   	Which you, mistaking, offer up to joy.
+1918   	My husband lives, that Tybalt would have slain;
+1919   	And Tybalt's dead, that would have slain my husband:
+1920   	All this is comfort; wherefore weep I then?
+1921   	Some word there was, worser than Tybalt's death,
+1922   	That murder'd me: I would forget it fain;
+1923   	But, O, it presses to my memory,
+1924   	Like damned guilty deeds to sinners' minds:
+1925   	'Tybalt is dead, and Romeo--banished;'
+1926   	That 'banished,' that one word 'banished,'
+1927   	Hath slain ten thousand Tybalts. Tybalt's death
+1928   	Was woe enough, if it had ended there:
+1929   	Or, if sour woe delights in fellowship
+1930   	And needly will be rank'd with other griefs,
+1931   	Why follow'd not, when she said 'Tybalt's dead,'
+1932   	Thy father, or thy mother, nay, or both,
+1933   	Which modern lamentations might have moved?
+1934   	But with a rear-ward following Tybalt's death,
+1935   	'Romeo is banished,' to speak that word,
+1936   	Is father, mother, Tybalt, Romeo, Juliet,
+1937   	All slain, all dead. 'Romeo is banished!'
+1938   	There is no end, no limit, measure, bound,
+1939   	In that word's death; no words can that woe sound.
+1940   	Where is my father, and my mother, nurse?
+
+1941   Nurse	Weeping and wailing over Tybalt's corse:
+1942   	Will you go to them? I will bring you thither.
+
+1943   JULIET	Wash they his wounds with tears: mine shall be spent,
+1944   	When theirs are dry, for Romeo's banishment.
+1945   	Take up those cords: poor ropes, you are beguiled,
+1946   	Both you and I; for Romeo is exiled:
+1947   	He made you for a highway to my bed;
+1948   	But I, a maid, die maiden-widowed.
+1949   	Come, cords, come, nurse; I'll to my wedding-bed;
+1950   	And death, not Romeo, take my maidenhead!
+
+1951   Nurse	Hie to your chamber: I'll find Romeo
+1952   	To comfort you: I wot well where he is.
+1953   	Hark ye, your Romeo will be here at night:
+1954   	I'll to him; he is hid at Laurence' cell.
+
+1955   JULIET	O, find him! give this ring to my true knight,
+1956   	And bid him come to take his last farewell.
+
+1957   	[Exeunt]
+
+
+
+
+1958   	ROMEO AND JULIET
+
+
+1959   ACT III
+
+
+
+1960   SCENE III	Friar Laurence's cell.
+
+
+1961   	[Enter FRIAR LAURENCE]
+
+1962   FRIAR LAURENCE	Romeo, come forth; come forth, thou fearful man:
+1963   	Affliction is enamour'd of thy parts,
+1964   	And thou art wedded to calamity.
+
+1965   	[Enter ROMEO]
+
+1966   ROMEO	Father, what news? what is the prince's doom?
+1967   	What sorrow craves acquaintance at my hand,
+1968   	That I yet know not?
+
+1969   FRIAR LAURENCE	Too familiar
+1970   	Is my dear son with such sour company:
+1971   	I bring thee tidings of the prince's doom.
+
+1972   ROMEO	What less than dooms-day is the prince's doom?
+
+1973   FRIAR LAURENCE	A gentler judgment vanish'd from his lips,
+1974   	Not body's death, but body's banishment.
+
+1975   ROMEO	Ha, banishment! be merciful, say 'death;'
+1976   	For exile hath more terror in his look,
+1977   	Much more than death: do not say 'banishment.'
+
+1978   FRIAR LAURENCE	Hence from Verona art thou banished:
+1979   	Be patient, for the world is broad and wide.
+
+1980   ROMEO	There is no world without Verona walls,
+1981   	But purgatory, torture, hell itself.
+1982   	Hence-banished is banish'd from the world,
+1983   	And world's exile is death: then banished,
+1984   	Is death mis-term'd: calling death banishment,
+1985   	Thou cutt'st my head off with a golden axe,
+1986   	And smilest upon the stroke that murders me.
+
+1987   FRIAR LAURENCE	O deadly sin! O rude unthankfulness!
+1988   	Thy fault our law calls death; but the kind prince,
+1989   	Taking thy part, hath rush'd aside the law,
+1990   	And turn'd that black word death to banishment:
+1991   	This is dear mercy, and thou seest it not.
+
+1992   ROMEO	'Tis torture, and not mercy: heaven is here,
+1993   	Where Juliet lives; and every cat and dog
+1994   	And little mouse, every unworthy thing,
+1995   	Live here in heaven and may look on her;
+1996   	But Romeo may not: more validity,
+1997   	More honourable state, more courtship lives
+1998   	In carrion-flies than Romeo: they my seize
+1999   	On the white wonder of dear Juliet's hand
+2000   	And steal immortal blessing from her lips,
+2001   	Who even in pure and vestal modesty,
+2002   	Still blush, as thinking their own kisses sin;
+2003   	But Romeo may not; he is banished:
+2004   	Flies may do this, but I from this must fly:
+2005   	They are free men, but I am banished.
+2006   	And say'st thou yet that exile is not death?
+2007   	Hadst thou no poison mix'd, no sharp-ground knife,
+2008   	No sudden mean of death, though ne'er so mean,
+2009   	But 'banished' to kill me?--'banished'?
+2010   	O friar, the damned use that word in hell;
+2011   	Howlings attend it: how hast thou the heart,
+2012   	Being a divine, a ghostly confessor,
+2013   	A sin-absolver, and my friend profess'd,
+2014   	To mangle me with that word 'banished'?
+
+2015   FRIAR LAURENCE	Thou fond mad man, hear me but speak a word.
+
+2016   ROMEO	O, thou wilt speak again of banishment.
+
+2017   FRIAR LAURENCE	I'll give thee armour to keep off that word:
+2018   	Adversity's sweet milk, philosophy,
+2019   	To comfort thee, though thou art banished.
+
+2020   ROMEO	Yet 'banished'? Hang up philosophy!
+2021   	Unless philosophy can make a Juliet,
+2022   	Displant a town, reverse a prince's doom,
+2023   	It helps not, it prevails not: talk no more.
+
+2024   FRIAR LAURENCE	O, then I see that madmen have no ears.
+
+2025   ROMEO	How should they, when that wise men have no eyes?
+
+2026   FRIAR LAURENCE	Let me dispute with thee of thy estate.
+
+2027   ROMEO	Thou canst not speak of that thou dost not feel:
+2028   	Wert thou as young as I, Juliet thy love,
+2029   	An hour but married, Tybalt murdered,
+2030   	Doting like me and like me banished,
+2031   	Then mightst thou speak, then mightst thou tear thy hair,
+2032   	And fall upon the ground, as I do now,
+2033   	Taking the measure of an unmade grave.
+
+2034   	[Knocking within]
+
+2035   FRIAR LAURENCE	Arise; one knocks; good Romeo, hide thyself.
+
+2036   ROMEO	Not I; unless the breath of heartsick groans,
+2037   	Mist-like, infold me from the search of eyes.
+
+2038   	[Knocking]
+
+2039   FRIAR LAURENCE	Hark, how they knock! Who's there? Romeo, arise;
+2040   	Thou wilt be taken. Stay awhile! Stand up;
+
+2041   	[Knocking]
+
+2042   	Run to my study. By and by! God's will,
+2043   	What simpleness is this! I come, I come!
+
+2044   	[Knocking]
+
+2045   	Who knocks so hard? whence come you? what's your will?
+
+2046   Nurse	[Within]  Let me come in, and you shall know
+2047   	my errand;
+2048   	I come from Lady Juliet.
+
+2049   FRIAR LAURENCE	Welcome, then.
+
+2050   	[Enter Nurse]
+
+2051   Nurse	O holy friar, O, tell me, holy friar,
+2052   	Where is my lady's lord, where's Romeo?
+
+2053   FRIAR LAURENCE	There on the ground, with his own tears made drunk.
+
+2054   Nurse	O, he is even in my mistress' case,
+2055   	Just in her case! O woful sympathy!
+2056   	Piteous predicament! Even so lies she,
+2057   	Blubbering and weeping, weeping and blubbering.
+2058   	Stand up, stand up; stand, and you be a man:
+2059   	For Juliet's sake, for her sake, rise and stand;
+2060   	Why should you fall into so deep an O?
+
+2061   ROMEO	Nurse!
+
+2062   Nurse	Ah sir! ah sir! Well, death's the end of all.
+
+2063   ROMEO	Spakest thou of Juliet? how is it with her?
+2064   	Doth she not think me an old murderer,
+2065   	Now I have stain'd the childhood of our joy
+2066   	With blood removed but little from her own?
+2067   	Where is she? and how doth she? and what says
+2068   	My conceal'd lady to our cancell'd love?
+
+2069   Nurse	O, she says nothing, sir, but weeps and weeps;
+2070   	And now falls on her bed; and then starts up,
+2071   	And Tybalt calls; and then on Romeo cries,
+2072   	And then down falls again.
+
+2073   ROMEO	As if that name,
+2074   	Shot from the deadly level of a gun,
+2075   	Did murder her; as that name's cursed hand
+2076   	Murder'd her kinsman. O, tell me, friar, tell me,
+2077   	In what vile part of this anatomy
+2078   	Doth my name lodge? tell me, that I may sack
+2079   	The hateful mansion.
+
+2080   	[Drawing his sword]
+
+2081   FRIAR LAURENCE	Hold thy desperate hand:
+2082   	Art thou a man? thy form cries out thou art:
+2083   	Thy tears are womanish; thy wild acts denote
+2084   	The unreasonable fury of a beast:
+2085   	Unseemly woman in a seeming man!
+2086   	Or ill-beseeming beast in seeming both!
+2087   	Thou hast amazed me: by my holy order,
+2088   	I thought thy disposition better temper'd.
+2089   	Hast thou slain Tybalt? wilt thou slay thyself?
+2090   	And stay thy lady too that lives in thee,
+2091   	By doing damned hate upon thyself?
+2092   	Why rail'st thou on thy birth, the heaven, and earth?
+2093   	Since birth, and heaven, and earth, all three do meet
+2094   	In thee at once; which thou at once wouldst lose.
+2095   	Fie, fie, thou shamest thy shape, thy love, thy wit;
+2096   	Which, like a usurer, abound'st in all,
+2097   	And usest none in that true use indeed
+2098   	Which should bedeck thy shape, thy love, thy wit:
+2099   	Thy noble shape is but a form of wax,
+2100   	Digressing from the valour of a man;
+2101   	Thy dear love sworn but hollow perjury,
+2102   	Killing that love which thou hast vow'd to cherish;
+2103   	Thy wit, that ornament to shape and love,
+2104   	Misshapen in the conduct of them both,
+2105   	Like powder in a skitless soldier's flask,
+2106   	Is set afire by thine own ignorance,
+2107   	And thou dismember'd with thine own defence.
+2108   	What, rouse thee, man! thy Juliet is alive,
+2109   	For whose dear sake thou wast but lately dead;
+2110   	There art thou happy: Tybalt would kill thee,
+2111   	But thou slew'st Tybalt; there are thou happy too:
+2112   	The law that threaten'd death becomes thy friend
+2113   	And turns it to exile; there art thou happy:
+2114   	A pack of blessings lights up upon thy back;
+2115   	Happiness courts thee in her best array;
+2116   	But, like a misbehaved and sullen wench,
+2117   	Thou pout'st upon thy fortune and thy love:
+2118   	Take heed, take heed, for such die miserable.
+2119   	Go, get thee to thy love, as was decreed,
+2120   	Ascend her chamber, hence and comfort her:
+2121   	But look thou stay not till the watch be set,
+2122   	For then thou canst not pass to Mantua;
+2123   	Where thou shalt live, till we can find a time
+2124   	To blaze your marriage, reconcile your friends,
+2125   	Beg pardon of the prince, and call thee back
+2126   	With twenty hundred thousand times more joy
+2127   	Than thou went'st forth in lamentation.
+2128   	Go before, nurse: commend me to thy lady;
+2129   	And bid her hasten all the house to bed,
+2130   	Which heavy sorrow makes them apt unto:
+2131   	Romeo is coming.
+
+2132   Nurse	O Lord, I could have stay'd here all the night
+2133   	To hear good counsel: O, what learning is!
+2134   	My lord, I'll tell my lady you will come.
+
+2135   ROMEO	Do so, and bid my sweet prepare to chide.
+
+2136   Nurse	Here, sir, a ring she bid me give you, sir:
+2137   	Hie you, make haste, for it grows very late.
+
+2138   	[Exit]
+
+2139   ROMEO	How well my comfort is revived by this!
+
+2140   FRIAR LAURENCE	Go hence; good night; and here stands all your state:
+2141   	Either be gone before the watch be set,
+2142   	Or by the break of day disguised from hence:
+2143   	Sojourn in Mantua; I'll find out your man,
+2144   	And he shall signify from time to time
+2145   	Every good hap to you that chances here:
+2146   	Give me thy hand; 'tis late: farewell; good night.
+
+2147   ROMEO	But that a joy past joy calls out on me,
+2148   	It were a grief, so brief to part with thee: Farewell.
+
+2149   	[Exeunt]
+
+
+
+
+2150   	ROMEO AND JULIET
+
+
+2151   ACT III
+
+
+
+2152   SCENE IV	A room in Capulet's house.
+
+
+2153   	[Enter CAPULET, LADY CAPULET, and PARIS]
+
+2154   CAPULET	Things have fall'n out, sir, so unluckily,
+2155   	That we have had no time to move our daughter:
+2156   	Look you, she loved her kinsman Tybalt dearly,
+2157   	And so did I:--Well, we were born to die.
+2158   	'Tis very late, she'll not come down to-night:
+2159   	I promise you, but for your company,
+2160   	I would have been a-bed an hour ago.
+
+2161   PARIS	These times of woe afford no time to woo.
+2162   	Madam, good night: commend me to your daughter.
+
+2163   LADY CAPULET	I will, and know her mind early to-morrow;
+2164   	To-night she is mew'd up to her heaviness.
+
+2165   CAPULET	Sir Paris, I will make a desperate tender
+2166   	Of my child's love: I think she will be ruled
+2167   	In all respects by me; nay, more, I doubt it not.
+2168   	Wife, go you to her ere you go to bed;
+2169   	Acquaint her here of my son Paris' love;
+2170   	And bid her, mark you me, on Wednesday next--
+2171   	But, soft! what day is this?
+
+2172   PARIS	Monday, my lord,
+
+2173   CAPULET	Monday! ha, ha! Well, Wednesday is too soon,
+2174   	O' Thursday let it be: o' Thursday, tell her,
+2175   	She shall be married to this noble earl.
+2176   	Will you be ready? do you like this haste?
+2177   	We'll keep no great ado,--a friend or two;
+2178   	For, hark you, Tybalt being slain so late,
+2179   	It may be thought we held him carelessly,
+2180   	Being our kinsman, if we revel much:
+2181   	Therefore we'll have some half a dozen friends,
+2182   	And there an end. But what say you to Thursday?
+
+2183   PARIS	My lord, I would that Thursday were to-morrow.
+
+2184   CAPULET	Well get you gone: o' Thursday be it, then.
+2185   	Go you to Juliet ere you go to bed,
+2186   	Prepare her, wife, against this wedding-day.
+2187   	Farewell, my lord. Light to my chamber, ho!
+2188   	Afore me! it is so very very late,
+2189   	That we may call it early by and by.
+2190   	Good night.
+
+2191   	[Exeunt]
+
+
+
+
+2192   	ROMEO AND JULIET
+
+
+2193   ACT III
+
+
+
+2194   SCENE V	Capulet's orchard.
+
+
+2195   	[Enter ROMEO and JULIET above, at the window]
+
+2196   JULIET	Wilt thou be gone? it is not yet near day:
+2197   	It was the nightingale, and not the lark,
+2198   	That pierced the fearful hollow of thine ear;
+2199   	Nightly she sings on yon pomegranate-tree:
+2200   	Believe me, love, it was the nightingale.
+
+2201   ROMEO	It was the lark, the herald of the morn,
+2202   	No nightingale: look, love, what envious streaks
+2203   	Do lace the severing clouds in yonder east:
+2204   	Night's candles are burnt out, and jocund day
+2205   	Stands tiptoe on the misty mountain tops.
+2206   	I must be gone and live, or stay and die.
+
+2207   JULIET	Yon light is not day-light, I know it, I:
+2208   	It is some meteor that the sun exhales,
+2209   	To be to thee this night a torch-bearer,
+2210   	And light thee on thy way to Mantua:
+2211   	Therefore stay yet; thou need'st not to be gone.
+
+2212   ROMEO	Let me be ta'en, let me be put to death;
+2213   	I am content, so thou wilt have it so.
+2214   	I'll say yon grey is not the morning's eye,
+2215   	'Tis but the pale reflex of Cynthia's brow;
+2216   	Nor that is not the lark, whose notes do beat
+2217   	The vaulty heaven so high above our heads:
+2218   	I have more care to stay than will to go:
+2219   	Come, death, and welcome! Juliet wills it so.
+2220   	How is't, my soul? let's talk; it is not day.
+
+2221   JULIET	It is, it is: hie hence, be gone, away!
+2222   	It is the lark that sings so out of tune,
+2223   	Straining harsh discords and unpleasing sharps.
+2224   	Some say the lark makes sweet division;
+2225   	This doth not so, for she divideth us:
+2226   	Some say the lark and loathed toad change eyes,
+2227   	O, now I would they had changed voices too!
+2228   	Since arm from arm that voice doth us affray,
+2229   	Hunting thee hence with hunt's-up to the day,
+2230   	O, now be gone; more light and light it grows.
+
+2231   ROMEO	More light and light; more dark and dark our woes!
+
+2232   	[Enter Nurse, to the chamber]
+
+2233   Nurse	Madam!
+
+2234   JULIET	Nurse?
+
+2235   Nurse	Your lady mother is coming to your chamber:
+2236   	The day is broke; be wary, look about.
+
+2237   	[Exit]
+
+2238   JULIET	Then, window, let day in, and let life out.
+
+2239   ROMEO	Farewell, farewell! one kiss, and I'll descend.
+
+2240   	[He goeth down]
+
+2241   JULIET	Art thou gone so? love, lord, ay, husband, friend!
+2242   	I must hear from thee every day in the hour,
+2243   	For in a minute there are many days:
+2244   	O, by this count I shall be much in years
+2245   	Ere I again behold my Romeo!
+
+2246   ROMEO	Farewell!
+2247   	I will omit no opportunity
+2248   	That may convey my greetings, love, to thee.
+
+2249   JULIET	O think'st thou we shall ever meet again?
+
+2250   ROMEO	I doubt it not; and all these woes shall serve
+2251   	For sweet discourses in our time to come.
+
+2252   JULIET	O God, I have an ill-divining soul!
+2253   	Methinks I see thee, now thou art below,
+2254   	As one dead in the bottom of a tomb:
+2255   	Either my eyesight fails, or thou look'st pale.
+
+2256   ROMEO	And trust me, love, in my eye so do you:
+2257   	Dry sorrow drinks our blood. Adieu, adieu!
+
+2258   	[Exit]
+
+2259   JULIET	O fortune, fortune! all men call thee fickle:
+2260   	If thou art fickle, what dost thou with him.
+2261   	That is renown'd for faith? Be fickle, fortune;
+2262   	For then, I hope, thou wilt not keep him long,
+2263   	But send him back.
+
+2264   LADY CAPULET	[Within]         Ho, daughter! are you up?
+
+2265   JULIET	Who is't that calls? is it my lady mother?
+2266   	Is she not down so late, or up so early?
+2267   	What unaccustom'd cause procures her hither?
+
+2268   	[Enter LADY CAPULET]
+
+2269   LADY CAPULET	Why, how now, Juliet!
+
+2270   JULIET	Madam, I am not well.
+
+2271   LADY CAPULET	Evermore weeping for your cousin's death?
+2272   	What, wilt thou wash him from his grave with tears?
+2273   	An if thou couldst, thou couldst not make him live;
+2274   	Therefore, have done: some grief shows much of love;
+2275   	But much of grief shows still some want of wit.
+
+2276   JULIET	Yet let me weep for such a feeling loss.
+
+2277   LADY CAPULET	So shall you feel the loss, but not the friend
+2278   	Which you weep for.
+
+2279   JULIET	Feeling so the loss,
+2280   	Cannot choose but ever weep the friend.
+
+2281   LADY CAPULET	Well, girl, thou weep'st not so much for his death,
+2282   	As that the villain lives which slaughter'd him.
+
+2283   JULIET	What villain madam?
+
+2284   LADY CAPULET	That same villain, Romeo.
+
+2285   JULIET	[Aside]  Villain and he be many miles asunder.--
+2286   	God Pardon him! I do, with all my heart;
+2287   	And yet no man like he doth grieve my heart.
+
+2288   LADY CAPULET	That is, because the traitor murderer lives.
+
+2289   JULIET	Ay, madam, from the reach of these my hands:
+2290   	Would none but I might venge my cousin's death!
+
+2291   LADY CAPULET	We will have vengeance for it, fear thou not:
+2292   	Then weep no more. I'll send to one in Mantua,
+2293   	Where that same banish'd runagate doth live,
+2294   	Shall give him such an unaccustom'd dram,
+2295   	That he shall soon keep Tybalt company:
+2296   	And then, I hope, thou wilt be satisfied.
+
+2297   JULIET	Indeed, I never shall be satisfied
+2298   	With Romeo, till I behold him--dead--
+2299   	Is my poor heart for a kinsman vex'd.
+2300   	Madam, if you could find out but a man
+2301   	To bear a poison, I would temper it;
+2302   	That Romeo should, upon receipt thereof,
+2303   	Soon sleep in quiet. O, how my heart abhors
+2304   	To hear him named, and cannot come to him.
+2305   	To wreak the love I bore my cousin
+2306   	Upon his body that slaughter'd him!
+
+2307   LADY CAPULET	Find thou the means, and I'll find such a man.
+2308   	But now I'll tell thee joyful tidings, girl.
+
+2309   JULIET	And joy comes well in such a needy time:
+2310   	What are they, I beseech your ladyship?
+
+2311   LADY CAPULET	Well, well, thou hast a careful father, child;
+2312   	One who, to put thee from thy heaviness,
+2313   	Hath sorted out a sudden day of joy,
+2314   	That thou expect'st not nor I look'd not for.
+
+2315   JULIET	Madam, in happy time, what day is that?
+
+2316   LADY CAPULET	Marry, my child, early next Thursday morn,
+2317   	The gallant, young and noble gentleman,
+2318   	The County Paris, at Saint Peter's Church,
+2319   	Shall happily make thee there a joyful bride.
+
+2320   JULIET	Now, by Saint Peter's Church and Peter too,
+2321   	He shall not make me there a joyful bride.
+2322   	I wonder at this haste; that I must wed
+2323   	Ere he, that should be husband, comes to woo.
+2324   	I pray you, tell my lord and father, madam,
+2325   	I will not marry yet; and, when I do, I swear,
+2326   	It shall be Romeo, whom you know I hate,
+2327   	Rather than Paris. These are news indeed!
+
+2328   LADY CAPULET	Here comes your father; tell him so yourself,
+2329   	And see how he will take it at your hands.
+
+2330   	[Enter CAPULET and Nurse]
+
+2331   CAPULET	When the sun sets, the air doth drizzle dew;
+2332   	But for the sunset of my brother's son
+2333   	It rains downright.
+2334   	How now! a conduit, girl? what, still in tears?
+2335   	Evermore showering? In one little body
+2336   	Thou counterfeit'st a bark, a sea, a wind;
+2337   	For still thy eyes, which I may call the sea,
+2338   	Do ebb and flow with tears; the bark thy body is,
+2339   	Sailing in this salt flood; the winds, thy sighs;
+2340   	Who, raging with thy tears, and they with them,
+2341   	Without a sudden calm, will overset
+2342   	Thy tempest-tossed body. How now, wife!
+2343   	Have you deliver'd to her our decree?
+
+2344   LADY CAPULET	Ay, sir; but she will none, she gives you thanks.
+2345   	I would the fool were married to her grave!
+
+2346   CAPULET	Soft! take me with you, take me with you, wife.
+2347   	How! will she none? doth she not give us thanks?
+2348   	Is she not proud? doth she not count her blest,
+2349   	Unworthy as she is, that we have wrought
+2350   	So worthy a gentleman to be her bridegroom?
+
+2351   JULIET	Not proud, you have; but thankful, that you have:
+2352   	Proud can I never be of what I hate;
+2353   	But thankful even for hate, that is meant love.
+
+2354   CAPULET	How now, how now, chop-logic! What is this?
+2355   	'Proud,' and 'I thank you,' and 'I thank you not;'
+2356   	And yet 'not proud,' mistress minion, you,
+2357   	Thank me no thankings, nor, proud me no prouds,
+2358   	But fettle your fine joints 'gainst Thursday next,
+2359   	To go with Paris to Saint Peter's Church,
+2360   	Or I will drag thee on a hurdle thither.
+2361   	Out, you green-sickness carrion! out, you baggage!
+2362   	You tallow-face!
+
+2363   LADY CAPULET	                  Fie, fie! what, are you mad?
+
+2364   JULIET	Good father, I beseech you on my knees,
+2365   	Hear me with patience but to speak a word.
+
+2366   CAPULET	Hang thee, young baggage! disobedient wretch!
+2367   	I tell thee what: get thee to church o' Thursday,
+2368   	Or never after look me in the face:
+2369   	Speak not, reply not, do not answer me;
+2370   	My fingers itch. Wife, we scarce thought us blest
+2371   	That God had lent us but this only child;
+2372   	But now I see this one is one too much,
+2373   	And that we have a curse in having her:
+2374   	Out on her, hilding!
+
+2375   Nurse	God in heaven bless her!
+2376   	You are to blame, my lord, to rate her so.
+
+2377   CAPULET	And why, my lady wisdom? hold your tongue,
+2378   	Good prudence; smatter with your gossips, go.
+
+2379   Nurse	I speak no treason.
+
+2380   CAPULET	O, God ye god-den.
+
+2381   Nurse	May not one speak?
+
+2382   CAPULET	                  Peace, you mumbling fool!
+2383   	Utter your gravity o'er a gossip's bowl;
+2384   	For here we need it not.
+
+2385   LADY CAPULET	You are too hot.
+
+2386   CAPULET	God's bread! it makes me mad:
+2387   	Day, night, hour, tide, time, work, play,
+2388   	Alone, in company, still my care hath been
+2389   	To have her match'd: and having now provided
+2390   	A gentleman of noble parentage,
+2391   	Of fair demesnes, youthful, and nobly train'd,
+2392   	Stuff'd, as they say, with honourable parts,
+2393   	Proportion'd as one's thought would wish a man;
+2394   	And then to have a wretched puling fool,
+2395   	A whining mammet, in her fortune's tender,
+2396   	To answer 'I'll not wed; I cannot love,
+2397   	I am too young; I pray you, pardon me.'
+2398   	But, as you will not wed, I'll pardon you:
+2399   	Graze where you will you shall not house with me:
+2400   	Look to't, think on't, I do not use to jest.
+2401   	Thursday is near; lay hand on heart, advise:
+2402   	An you be mine, I'll give you to my friend;
+2403   	And you be not, hang, beg, starve, die in
+2404   	the streets,
+2405   	For, by my soul, I'll ne'er acknowledge thee,
+2406   	Nor what is mine shall never do thee good:
+2407   	Trust to't, bethink you; I'll not be forsworn.
+
+2408   	[Exit]
+
+2409   JULIET	Is there no pity sitting in the clouds,
+2410   	That sees into the bottom of my grief?
+2411   	O, sweet my mother, cast me not away!
+2412   	Delay this marriage for a month, a week;
+2413   	Or, if you do not, make the bridal bed
+2414   	In that dim monument where Tybalt lies.
+
+2415   LADY CAPULET	Talk not to me, for I'll not speak a word:
+2416   	Do as thou wilt, for I have done with thee.
+
+2417   	[Exit]
+
+2418   JULIET	O God!--O nurse, how shall this be prevented?
+2419   	My husband is on earth, my faith in heaven;
+2420   	How shall that faith return again to earth,
+2421   	Unless that husband send it me from heaven
+2422   	By leaving earth? comfort me, counsel me.
+2423   	Alack, alack, that heaven should practise stratagems
+2424   	Upon so soft a subject as myself!
+2425   	What say'st thou? hast thou not a word of joy?
+2426   	Some comfort, nurse.
+
+2427   Nurse	Faith, here it is.
+2428   	Romeo is banish'd; and all the world to nothing,
+2429   	That he dares ne'er come back to challenge you;
+2430   	Or, if he do, it needs must be by stealth.
+2431   	Then, since the case so stands as now it doth,
+2432   	I think it best you married with the county.
+2433   	O, he's a lovely gentleman!
+2434   	Romeo's a dishclout to him: an eagle, madam,
+2435   	Hath not so green, so quick, so fair an eye
+2436   	As Paris hath. Beshrew my very heart,
+2437   	I think you are happy in this second match,
+2438   	For it excels your first: or if it did not,
+2439   	Your first is dead; or 'twere as good he were,
+2440   	As living here and you no use of him.
+
+2441   JULIET	Speakest thou from thy heart?
+
+2442   Nurse	And from my soul too;
+2443   	Or else beshrew them both.
+
+2444   JULIET	Amen!
+
+2445   Nurse	What?
+
+2446   JULIET	Well, thou hast comforted me marvellous much.
+2447   	Go in: and tell my lady I am gone,
+2448   	Having displeased my father, to Laurence' cell,
+2449   	To make confession and to be absolved.
+
+2450   Nurse	Marry, I will; and this is wisely done.
+
+2451   	[Exit]
+
+2452   JULIET	Ancient damnation! O most wicked fiend!
+2453   	Is it more sin to wish me thus forsworn,
+2454   	Or to dispraise my lord with that same tongue
+2455   	Which she hath praised him with above compare
+2456   	So many thousand times? Go, counsellor;
+2457   	Thou and my bosom henceforth shall be twain.
+2458   	I'll to the friar, to know his remedy:
+2459   	If all else fail, myself have power to die.
+
+2460   	[Exit]
+
+
+
+
+2461   	ROMEO AND JULIET
+
+
+2462   ACT IV
+
+
+
+2463   SCENE I	Friar Laurence's cell.
+
+
+2464   	[Enter FRIAR LAURENCE and PARIS]
+
+2465   FRIAR LAURENCE	On Thursday, sir? the time is very short.
+
+2466   PARIS	My father Capulet will have it so;
+2467   	And I am nothing slow to slack his haste.
+
+2468   FRIAR LAURENCE	You say you do not know the lady's mind:
+2469   	Uneven is the course, I like it not.
+
+2470   PARIS	Immoderately she weeps for Tybalt's death,
+2471   	And therefore have I little talk'd of love;
+2472   	For Venus smiles not in a house of tears.
+2473   	Now, sir, her father counts it dangerous
+2474   	That she doth give her sorrow so much sway,
+2475   	And in his wisdom hastes our marriage,
+2476   	To stop the inundation of her tears;
+2477   	Which, too much minded by herself alone,
+2478   	May be put from her by society:
+2479   	Now do you know the reason of this haste.
+
+2480   FRIAR LAURENCE	[Aside]  I would I knew not why it should be slow'd.
+2481   	Look, sir, here comes the lady towards my cell.
+
+2482   	[Enter JULIET]
+
+2483   PARIS	Happily met, my lady and my wife!
+
+2484   JULIET	That may be, sir, when I may be a wife.
+
+2485   PARIS	That may be must be, love, on Thursday next.
+
+2486   JULIET	What must be shall be.
+
+2487   FRIAR LAURENCE	That's a certain text.
+
+2488   PARIS	Come you to make confession to this father?
+
+2489   JULIET	To answer that, I should confess to you.
+
+2490   PARIS	Do not deny to him that you love me.
+
+2491   JULIET	I will confess to you that I love him.
+
+2492   PARIS	So will ye, I am sure, that you love me.
+
+2493   JULIET	If I do so, it will be of more price,
+2494   	Being spoke behind your back, than to your face.
+
+2495   PARIS	Poor soul, thy face is much abused with tears.
+
+2496   JULIET	The tears have got small victory by that;
+2497   	For it was bad enough before their spite.
+
+2498   PARIS	Thou wrong'st it, more than tears, with that report.
+
+2499   JULIET	That is no slander, sir, which is a truth;
+2500   	And what I spake, I spake it to my face.
+
+2501   PARIS	Thy face is mine, and thou hast slander'd it.
+
+2502   JULIET	It may be so, for it is not mine own.
+2503   	Are you at leisure, holy father, now;
+2504   	Or shall I come to you at evening mass?
+
+2505   FRIAR LAURENCE	My leisure serves me, pensive daughter, now.
+2506   	My lord, we must entreat the time alone.
+
+2507   PARIS	God shield I should disturb devotion!
+2508   	Juliet, on Thursday early will I rouse ye:
+2509   	Till then, adieu; and keep this holy kiss.
+
+2510   	[Exit]
+
+2511   JULIET	O shut the door! and when thou hast done so,
+2512   	Come weep with me; past hope, past cure, past help!
+
+2513   FRIAR LAURENCE	Ah, Juliet, I already know thy grief;
+2514   	It strains me past the compass of my wits:
+2515   	I hear thou must, and nothing may prorogue it,
+2516   	On Thursday next be married to this county.
+
+2517   JULIET	Tell me not, friar, that thou hear'st of this,
+2518   	Unless thou tell me how I may prevent it:
+2519   	If, in thy wisdom, thou canst give no help,
+2520   	Do thou but call my resolution wise,
+2521   	And with this knife I'll help it presently.
+2522   	God join'd my heart and Romeo's, thou our hands;
+2523   	And ere this hand, by thee to Romeo seal'd,
+2524   	Shall be the label to another deed,
+2525   	Or my true heart with treacherous revolt
+2526   	Turn to another, this shall slay them both:
+2527   	Therefore, out of thy long-experienced time,
+2528   	Give me some present counsel, or, behold,
+2529   	'Twixt my extremes and me this bloody knife
+2530   	Shall play the umpire, arbitrating that
+2531   	Which the commission of thy years and art
+2532   	Could to no issue of true honour bring.
+2533   	Be not so long to speak; I long to die,
+2534   	If what thou speak'st speak not of remedy.
+
+2535   FRIAR LAURENCE	Hold, daughter: I do spy a kind of hope,
+2536   	Which craves as desperate an execution.
+2537   	As that is desperate which we would prevent.
+2538   	If, rather than to marry County Paris,
+2539   	Thou hast the strength of will to slay thyself,
+2540   	Then is it likely thou wilt undertake
+2541   	A thing like death to chide away this shame,
+2542   	That copest with death himself to scape from it:
+2543   	And, if thou darest, I'll give thee remedy.
+
+2544   JULIET	O, bid me leap, rather than marry Paris,
+2545   	From off the battlements of yonder tower;
+2546   	Or walk in thievish ways; or bid me lurk
+2547   	Where serpents are; chain me with roaring bears;
+2548   	Or shut me nightly in a charnel-house,
+2549   	O'er-cover'd quite with dead men's rattling bones,
+2550   	With reeky shanks and yellow chapless skulls;
+2551   	Or bid me go into a new-made grave
+2552   	And hide me with a dead man in his shroud;
+2553   	Things that, to hear them told, have made me tremble;
+2554   	And I will do it without fear or doubt,
+2555   	To live an unstain'd wife to my sweet love.
+
+2556   FRIAR LAURENCE	Hold, then; go home, be merry, give consent
+2557   	To marry Paris: Wednesday is to-morrow:
+2558   	To-morrow night look that thou lie alone;
+2559   	Let not thy nurse lie with thee in thy chamber:
+2560   	Take thou this vial, being then in bed,
+2561   	And this distilled liquor drink thou off;
+2562   	When presently through all thy veins shall run
+2563   	A cold and drowsy humour, for no pulse
+2564   	Shall keep his native progress, but surcease:
+2565   	No warmth, no breath, shall testify thou livest;
+2566   	The roses in thy lips and cheeks shall fade
+2567   	To paly ashes, thy eyes' windows fall,
+2568   	Like death, when he shuts up the day of life;
+2569   	Each part, deprived of supple government,
+2570   	Shall, stiff and stark and cold, appear like death:
+2571   	And in this borrow'd likeness of shrunk death
+2572   	Thou shalt continue two and forty hours,
+2573   	And then awake as from a pleasant sleep.
+2574   	Now, when the bridegroom in the morning comes
+2575   	To rouse thee from thy bed, there art thou dead:
+2576   	Then, as the manner of our country is,
+2577   	In thy best robes uncover'd on the bier
+2578   	Thou shalt be borne to that same ancient vault
+2579   	Where all the kindred of the Capulets lie.
+2580   	In the mean time, against thou shalt awake,
+2581   	Shall Romeo by my letters know our drift,
+2582   	And hither shall he come: and he and I
+2583   	Will watch thy waking, and that very night
+2584   	Shall Romeo bear thee hence to Mantua.
+2585   	And this shall free thee from this present shame;
+2586   	If no inconstant toy, nor womanish fear,
+2587   	Abate thy valour in the acting it.
+
+2588   JULIET	Give me, give me! O, tell not me of fear!
+
+2589   FRIAR LAURENCE	Hold; get you gone, be strong and prosperous
+2590   	In this resolve: I'll send a friar with speed
+2591   	To Mantua, with my letters to thy lord.
+
+2592   JULIET	Love give me strength! and strength shall help afford.
+2593   	Farewell, dear father!
+
+2594   	[Exeunt]
+
+
+
+
+2595   	ROMEO AND JULIET
+
+
+2596   ACT IV
+
+
+
+2597   SCENE II	Hall in Capulet's house.
+
+
+2598   	[Enter CAPULET, LADY  CAPULET, Nurse, and two
+2599   	Servingmen]
+
+2600   CAPULET	So many guests invite as here are writ.
+
+2601   	[Exit First Servant]
+
+2602   	Sirrah, go hire me twenty cunning cooks.
+
+2603   Second Servant	You shall have none ill, sir; for I'll try if they
+2604   	can lick their fingers.
+
+2605   CAPULET	How canst thou try them so?
+
+2606   Second Servant	Marry, sir, 'tis an ill cook that cannot lick his
+2607   	own fingers: therefore he that cannot lick his
+2608   	fingers goes not with me.
+
+2609   CAPULET	Go, be gone.
+
+2610   	[Exit Second Servant]
+
+2611   	We shall be much unfurnished for this time.
+2612   	What, is my daughter gone to Friar Laurence?
+
+2613   Nurse	Ay, forsooth.
+
+2614   CAPULET	Well, he may chance to do some good on her:
+2615   	A peevish self-will'd harlotry it is.
+
+2616   Nurse	See where she comes from shrift with merry look.
+
+2617   	[Enter JULIET]
+
+2618   CAPULET	How now, my headstrong! where have you been gadding?
+
+2619   JULIET	Where I have learn'd me to repent the sin
+2620   	Of disobedient opposition
+2621   	To you and your behests, and am enjoin'd
+2622   	By holy Laurence to fall prostrate here,
+2623   	And beg your pardon: pardon, I beseech you!
+2624   	Henceforward I am ever ruled by you.
+
+2625   CAPULET	Send for the county; go tell him of this:
+2626   	I'll have this knot knit up to-morrow morning.
+
+2627   JULIET	I met the youthful lord at Laurence' cell;
+2628   	And gave him what becomed love I might,
+2629   	Not step o'er the bounds of modesty.
+
+2630   CAPULET	Why, I am glad on't; this is well: stand up:
+2631   	This is as't should be. Let me see the county;
+2632   	Ay, marry, go, I say, and fetch him hither.
+2633   	Now, afore God! this reverend holy friar,
+2634   	Our whole city is much bound to him.
+
+2635   JULIET	Nurse, will you go with me into my closet,
+2636   	To help me sort such needful ornaments
+2637   	As you think fit to furnish me to-morrow?
+
+2638   LADY CAPULET	No, not till Thursday; there is time enough.
+
+2639   CAPULET	Go, nurse, go with her: we'll to church to-morrow.
+
+2640   	[Exeunt JULIET and Nurse]
+
+2641   LADY  CAPULET	We shall be short in our provision:
+2642   	'Tis now near night.
+
+2643   CAPULET	Tush, I will stir about,
+2644   	And all things shall be well, I warrant thee, wife:
+2645   	Go thou to Juliet, help to deck up her;
+2646   	I'll not to bed to-night; let me alone;
+2647   	I'll play the housewife for this once. What, ho!
+2648   	They are all forth. Well, I will walk myself
+2649   	To County Paris, to prepare him up
+2650   	Against to-morrow: my heart is wondrous light,
+2651   	Since this same wayward girl is so reclaim'd.
+
+2652   	[Exeunt]
+
+
+
+
+2653   	ROMEO AND JULIET
+
+
+2654   ACT IV
+
+
+
+2655   SCENE III	Juliet's chamber.
+
+
+2656   	[Enter JULIET and Nurse]
+
+2657   JULIET	Ay, those attires are best: but, gentle nurse,
+2658   	I pray thee, leave me to myself to-night,
+2659   	For I have need of many orisons
+2660   	To move the heavens to smile upon my state,
+2661   	Which, well thou know'st, is cross, and full of sin.
+
+2662   	[Enter LADY CAPULET]
+
+2663   LADY CAPULET	What, are you busy, ho? need you my help?
+
+2664   JULIET	No, madam; we have cull'd such necessaries
+2665   	As are behoveful for our state to-morrow:
+2666   	So please you, let me now be left alone,
+2667   	And let the nurse this night sit up with you;
+2668   	For, I am sure, you have your hands full all,
+2669   	In this so sudden business.
+
+2670   LADY CAPULET	Good night:
+2671   	Get thee to bed, and rest; for thou hast need.
+
+2672   	[Exeunt LADY CAPULET and Nurse]
+
+2673   JULIET	Farewell! God knows when we shall meet again.
+2674   	I have a faint cold fear thrills through my veins,
+2675   	That almost freezes up the heat of life:
+2676   	I'll call them back again to comfort me:
+2677   	Nurse! What should she do here?
+2678   	My dismal scene I needs must act alone.
+2679   	Come, vial.
+2680   	What if this mixture do not work at all?
+2681   	Shall I be married then to-morrow morning?
+2682   	No, no: this shall forbid it: lie thou there.
+
+2683   	[Laying down her dagger]
+
+2684   	What if it be a poison, which the friar
+2685   	Subtly hath minister'd to have me dead,
+2686   	Lest in this marriage he should be dishonour'd,
+2687   	Because he married me before to Romeo?
+2688   	I fear it is: and yet, methinks, it should not,
+2689   	For he hath still been tried a holy man.
+2690   	How if, when I am laid into the tomb,
+2691   	I wake before the time that Romeo
+2692   	Come to redeem me? there's a fearful point!
+2693   	Shall I not, then, be stifled in the vault,
+2694   	To whose foul mouth no healthsome air breathes in,
+2695   	And there die strangled ere my Romeo comes?
+2696   	Or, if I live, is it not very like,
+2697   	The horrible conceit of death and night,
+2698   	Together with the terror of the place,--
+2699   	As in a vault, an ancient receptacle,
+2700   	Where, for these many hundred years, the bones
+2701   	Of all my buried ancestors are packed:
+2702   	Where bloody Tybalt, yet but green in earth,
+2703   	Lies festering in his shroud; where, as they say,
+2704   	At some hours in the night spirits resort;--
+2705   	Alack, alack, is it not like that I,
+2706   	So early waking, what with loathsome smells,
+2707   	And shrieks like mandrakes' torn out of the earth,
+2708   	That living mortals, hearing them, run mad:--
+2709   	O, if I wake, shall I not be distraught,
+2710   	Environed with all these hideous fears?
+2711   	And madly play with my forefather's joints?
+2712   	And pluck the mangled Tybalt from his shroud?
+2713   	And, in this rage, with some great kinsman's bone,
+2714   	As with a club, dash out my desperate brains?
+2715   	O, look! methinks I see my cousin's ghost
+2716   	Seeking out Romeo, that did spit his body
+2717   	Upon a rapier's point: stay, Tybalt, stay!
+2718   	Romeo, I come! this do I drink to thee.
+
+2719   	[She falls upon her bed, within the curtains]
+
+
+
+
+2720   	ROMEO AND JULIET
+
+
+2721   ACT IV
+
+
+
+2722   SCENE IV	Hall in Capulet's house.
+
+
+2723   	[Enter LADY CAPULET and Nurse]
+
+2724   LADY CAPULET	Hold, take these keys, and fetch more spices, nurse.
+
+2725   Nurse	They call for dates and quinces in the pastry.
+
+2726   	[Enter CAPULET]
+
+2727   CAPULET	Come, stir, stir, stir! the second cock hath crow'd,
+2728   	The curfew-bell hath rung, 'tis three o'clock:
+2729   	Look to the baked meats, good Angelica:
+2730   	Spare not for the cost.
+
+2731   Nurse	Go, you cot-quean, go,
+2732   	Get you to bed; faith, You'll be sick to-morrow
+2733   	For this night's watching.
+
+2734   CAPULET	No, not a whit: what! I have watch'd ere now
+2735   	All night for lesser cause, and ne'er been sick.
+
+2736   LADY CAPULET	Ay, you have been a mouse-hunt in your time;
+2737   	But I will watch you from such watching now.
+
+2738   	[Exeunt LADY CAPULET and Nurse]
+
+2739   CAPULET	A jealous hood, a jealous hood!
+
+2740   	[Enter three or four Servingmen, with spits, logs,
+2741   	and baskets]
+
+2742   		          Now, fellow,
+2743   	What's there?
+
+2744   First Servant	Things for the cook, sir; but I know not what.
+
+2745   CAPULET	Make haste, make haste.
+
+2746   	[Exit First Servant]
+
+2747   		  Sirrah, fetch drier logs:
+2748   	Call Peter, he will show thee where they are.
+
+2749   Second Servant	I have a head, sir, that will find out logs,
+2750   	And never trouble Peter for the matter.
+
+2751   	[Exit]
+
+2752   CAPULET	Mass, and well said; a merry whoreson, ha!
+2753   	Thou shalt be logger-head. Good faith, 'tis day:
+2754   	The county will be here with music straight,
+2755   	For so he said he would: I hear him near.
+
+2756   	[Music within]
+
+2757   	Nurse! Wife! What, ho! What, nurse, I say!
+
+2758   	[Re-enter Nurse]
+
+2759   	Go waken Juliet, go and trim her up;
+2760   	I'll go and chat with Paris: hie, make haste,
+2761   	Make haste; the bridegroom he is come already:
+2762   	Make haste, I say.
+
+2763   	[Exeunt]
+
+
+
+
+2764   	ROMEO AND JULIET
+
+
+2765   ACT IV
+
+
+
+2766   SCENE V	Juliet's chamber.
+
+
+2767   	[Enter Nurse]
+
+2768   Nurse	Mistress! what, mistress! Juliet! fast, I warrant her, she:
+2769   	Why, lamb! why, lady! fie, you slug-a-bed!
+2770   	Why, love, I say! madam! sweet-heart! why, bride!
+2771   	What, not a word? you take your pennyworths now;
+2772   	Sleep for a week; for the next night, I warrant,
+2773   	The County Paris hath set up his rest,
+2774   	That you shall rest but little. God forgive me,
+2775   	Marry, and amen, how sound is she asleep!
+2776   	I must needs wake her. Madam, madam, madam!
+2777   	Ay, let the county take you in your bed;
+2778   	He'll fright you up, i' faith. Will it not be?
+
+2779   	[Undraws the curtains]
+
+2780   	What, dress'd! and in your clothes! and down again!
+2781   	I must needs wake you; Lady! lady! lady!
+2782   	Alas, alas! Help, help! my lady's dead!
+2783   	O, well-a-day, that ever I was born!
+2784   	Some aqua vitae, ho! My lord! my lady!
+
+2785   	[Enter LADY CAPULET]
+
+2786   LADY CAPULET	What noise is here?
+
+2787   Nurse	O lamentable day!
+
+2788   LADY CAPULET	What is the matter?
+
+2789   Nurse	Look, look! O heavy day!
+
+2790   LADY CAPULET	O me, O me! My child, my only life,
+2791   	Revive, look up, or I will die with thee!
+2792   	Help, help! Call help.
+
+2793   	[Enter CAPULET]
+
+2794   CAPULET	For shame, bring Juliet forth; her lord is come.
+
+2795   Nurse	She's dead, deceased, she's dead; alack the day!
+
+2796   LADY CAPULET	Alack the day, she's dead, she's dead, she's dead!
+
+2797   CAPULET	Ha! let me see her: out, alas! she's cold:
+2798   	Her blood is settled, and her joints are stiff;
+2799   	Life and these lips have long been separated:
+2800   	Death lies on her like an untimely frost
+2801   	Upon the sweetest flower of all the field.
+
+2802   Nurse	O lamentable day!
+
+2803   LADY CAPULET	                  O woful time!
+
+2804   CAPULET	Death, that hath ta'en her hence to make me wail,
+2805   	Ties up my tongue, and will not let me speak.
+
+2806   	[Enter FRIAR LAURENCE and PARIS, with Musicians]
+
+2807   FRIAR LAURENCE	Come, is the bride ready to go to church?
+
+2808   CAPULET	Ready to go, but never to return.
+2809   	O son! the night before thy wedding-day
+2810   	Hath Death lain with thy wife. There she lies,
+2811   	Flower as she was, deflowered by him.
+2812   	Death is my son-in-law, Death is my heir;
+2813   	My daughter he hath wedded: I will die,
+2814   	And leave him all; life, living, all is Death's.
+
+2815   PARIS	Have I thought long to see this morning's face,
+2816   	And doth it give me such a sight as this?
+
+2817   LADY CAPULET	Accursed, unhappy, wretched, hateful day!
+2818   	Most miserable hour that e'er time saw
+2819   	In lasting labour of his pilgrimage!
+2820   	But one, poor one, one poor and loving child,
+2821   	But one thing to rejoice and solace in,
+2822   	And cruel death hath catch'd it from my sight!
+
+2823   Nurse	O woe! O woful, woful, woful day!
+2824   	Most lamentable day, most woful day,
+2825   	That ever, ever, I did yet behold!
+2826   	O day! O day! O day! O hateful day!
+2827   	Never was seen so black a day as this:
+2828   	O woful day, O woful day!
+
+2829   PARIS	Beguiled, divorced, wronged, spited, slain!
+2830   	Most detestable death, by thee beguil'd,
+2831   	By cruel cruel thee quite overthrown!
+2832   	O love! O life! not life, but love in death!
+
+2833   CAPULET	Despised, distressed, hated, martyr'd, kill'd!
+2834   	Uncomfortable time, why camest thou now
+2835   	To murder, murder our solemnity?
+2836   	O child! O child! my soul, and not my child!
+2837   	Dead art thou! Alack! my child is dead;
+2838   	And with my child my joys are buried.
+
+2839   FRIAR LAURENCE	Peace, ho, for shame! confusion's cure lives not
+2840   	In these confusions. Heaven and yourself
+2841   	Had part in this fair maid; now heaven hath all,
+2842   	And all the better is it for the maid:
+2843   	Your part in her you could not keep from death,
+2844   	But heaven keeps his part in eternal life.
+2845   	The most you sought was her promotion;
+2846   	For 'twas your heaven she should be advanced:
+2847   	And weep ye now, seeing she is advanced
+2848   	Above the clouds, as high as heaven itself?
+2849   	O, in this love, you love your child so ill,
+2850   	That you run mad, seeing that she is well:
+2851   	She's not well married that lives married long;
+2852   	But she's best married that dies married young.
+2853   	Dry up your tears, and stick your rosemary
+2854   	On this fair corse; and, as the custom is,
+2855   	In all her best array bear her to church:
+2856   	For though fond nature bids us an lament,
+2857   	Yet nature's tears are reason's merriment.
+
+2858   CAPULET	All things that we ordained festival,
+2859   	Turn from their office to black funeral;
+2860   	Our instruments to melancholy bells,
+2861   	Our wedding cheer to a sad burial feast,
+2862   	Our solemn hymns to sullen dirges change,
+2863   	Our bridal flowers serve for a buried corse,
+2864   	And all things change them to the contrary.
+
+2865   FRIAR LAURENCE	Sir, go you in; and, madam, go with him;
+2866   	And go, Sir Paris; every one prepare
+2867   	To follow this fair corse unto her grave:
+2868   	The heavens do lour upon you for some ill;
+2869   	Move them no more by crossing their high will.
+
+2870   	[Exeunt CAPULET, LADY CAPULET, PARIS, and FRIAR LAURENCE]
+
+2871   First Musician	Faith, we may put up our pipes, and be gone.
+
+2872   Nurse	Honest goodfellows, ah, put up, put up;
+2873   	For, well you know, this is a pitiful case.
+
+2874   	[Exit]
+
+2875   First Musician	Ay, by my troth, the case may be amended.
+
+2876   	[Enter PETER]
+
+2877   PETER	Musicians, O, musicians, 'Heart's ease, Heart's
+2878   	ease:' O, an you will have me live, play 'Heart's ease.'
+
+2879   First Musician	Why 'Heart's ease?'
+
+2880   PETER	O, musicians, because my heart itself plays 'My
+2881   	heart is full of woe:' O, play me some merry dump,
+2882   	to comfort me.
+
+2883   First Musician	Not a dump we; 'tis no time to play now.
+
+2884   PETER	You will not, then?
+
+2885   First Musician	No.
+
+2886   PETER	I will then give it you soundly.
+
+2887   First Musician	What will you give us?
+
+2888   PETER	No money, on my faith, but the gleek;
+2889   	I will give you the minstrel.
+
+2890   First Musician	Then I will give you the serving-creature.
+
+2891   PETER	Then will I lay the serving-creature's dagger on
+2892   	your pate. I will carry no crotchets: I'll re you,
+2893   	I'll fa you; do you note me?
+
+2894   First Musician	An you re us and fa us, you note us.
+
+2895   Second Musician	Pray you, put up your dagger, and put out your wit.
+
+2896   PETER	Then have at you with my wit! I will dry-beat you
+2897   	with an iron wit, and put up my iron dagger. Answer
+2898   	me like men:
+2899   	'When griping grief the heart doth wound,
+2900   	And doleful dumps the mind oppress,
+2901   	Then music with her silver sound'--
+2902   	why 'silver sound'? why 'music with her silver
+2903   	sound'? What say you, Simon Catling?
+
+2904   Musician	Marry, sir, because silver hath a sweet sound.
+
+2905   PETER	Pretty! What say you, Hugh Rebeck?
+
+2906   Second Musician	I say 'silver sound,' because musicians sound for silver.
+
+2907   PETER	Pretty too! What say you, James Soundpost?
+
+2908   Third Musician	Faith, I know not what to say.
+
+2909   PETER	O, I cry you mercy; you are the singer: I will say
+2910   	for you. It is 'music with her silver sound,'
+2911   	because musicians have no gold for sounding:
+2912   	'Then music with her silver sound
+2913   	With speedy help doth lend redress.'
+
+2914   	[Exit]
+
+2915   First Musician	What a pestilent knave is this same!
+
+2916   Second Musician	Hang him, Jack! Come, we'll in here; tarry for the
+2917   	mourners, and stay dinner.
+
+2918   	[Exeunt]
+
+
+
+
+2919   	ROMEO AND JULIET
+
+
+2920   ACT V
+
+
+
+2921   SCENE I	Mantua. A street.
+
+
+2922   	[Enter ROMEO]
+
+2923   ROMEO	If I may trust the flattering truth of sleep,
+2924   	My dreams presage some joyful news at hand:
+2925   	My bosom's lord sits lightly in his throne;
+2926   	And all this day an unaccustom'd spirit
+2927   	Lifts me above the ground with cheerful thoughts.
+2928   	I dreamt my lady came and found me dead--
+2929   	Strange dream, that gives a dead man leave
+2930   	to think!--
+2931   	And breathed such life with kisses in my lips,
+2932   	That I revived, and was an emperor.
+2933   	Ah me! how sweet is love itself possess'd,
+2934   	When but love's shadows are so rich in joy!
+
+2935   	[Enter BALTHASAR, booted]
+
+2936   	News from Verona!--How now, Balthasar!
+2937   	Dost thou not bring me letters from the friar?
+2938   	How doth my lady? Is my father well?
+2939   	How fares my Juliet? that I ask again;
+2940   	For nothing can be ill, if she be well.
+
+2941   BALTHASAR	Then she is well, and nothing can be ill:
+2942   	Her body sleeps in Capel's monument,
+2943   	And her immortal part with angels lives.
+2944   	I saw her laid low in her kindred's vault,
+2945   	And presently took post to tell it you:
+2946   	O, pardon me for bringing these ill news,
+2947   	Since you did leave it for my office, sir.
+
+2948   ROMEO	Is it even so? then I defy you, stars!
+2949   	Thou know'st my lodging: get me ink and paper,
+2950   	And hire post-horses; I will hence to-night.
+
+2951   BALTHASAR	I do beseech you, sir, have patience:
+2952   	Your looks are pale and wild, and do import
+2953   	Some misadventure.
+
+2954   ROMEO	                  Tush, thou art deceived:
+2955   	Leave me, and do the thing I bid thee do.
+2956   	Hast thou no letters to me from the friar?
+
+2957   BALTHASAR	No, my good lord.
+
+2958   ROMEO	                  No matter: get thee gone,
+2959   	And hire those horses; I'll be with thee straight.
+
+2960   	[Exit BALTHASAR]
+
+2961   	Well, Juliet, I will lie with thee to-night.
+2962   	Let's see for means: O mischief, thou art swift
+2963   	To enter in the thoughts of desperate men!
+2964   	I do remember an apothecary,--
+2965   	And hereabouts he dwells,--which late I noted
+2966   	In tatter'd weeds, with overwhelming brows,
+2967   	Culling of simples; meagre were his looks,
+2968   	Sharp misery had worn him to the bones:
+2969   	And in his needy shop a tortoise hung,
+2970   	An alligator stuff'd, and other skins
+2971   	Of ill-shaped fishes; and about his shelves
+2972   	A beggarly account of empty boxes,
+2973   	Green earthen pots, bladders and musty seeds,
+2974   	Remnants of packthread and old cakes of roses,
+2975   	Were thinly scatter'd, to make up a show.
+2976   	Noting this penury, to myself I said
+2977   	'An if a man did need a poison now,
+2978   	Whose sale is present death in Mantua,
+2979   	Here lives a caitiff wretch would sell it him.'
+2980   	O, this same thought did but forerun my need;
+2981   	And this same needy man must sell it me.
+2982   	As I remember, this should be the house.
+2983   	Being holiday, the beggar's shop is shut.
+2984   	What, ho! apothecary!
+
+2985   	[Enter Apothecary]
+
+2986   Apothecary	Who calls so loud?
+
+2987   ROMEO	Come hither, man. I see that thou art poor:
+2988   	Hold, there is forty ducats: let me have
+2989   	A dram of poison, such soon-speeding gear
+2990   	As will disperse itself through all the veins
+2991   	That the life-weary taker may fall dead
+2992   	And that the trunk may be discharged of breath
+2993   	As violently as hasty powder fired
+2994   	Doth hurry from the fatal cannon's womb.
+
+2995   Apothecary	Such mortal drugs I have; but Mantua's law
+2996   	Is death to any he that utters them.
+
+2997   ROMEO	Art thou so bare and full of wretchedness,
+2998   	And fear'st to die? famine is in thy cheeks,
+2999   	Need and oppression starveth in thine eyes,
+3000   	Contempt and beggary hangs upon thy back;
+3001   	The world is not thy friend nor the world's law;
+3002   	The world affords no law to make thee rich;
+3003   	Then be not poor, but break it, and take this.
+
+3004   Apothecary	My poverty, but not my will, consents.
+
+3005   ROMEO	I pay thy poverty, and not thy will.
+
+3006   Apothecary	Put this in any liquid thing you will,
+3007   	And drink it off; and, if you had the strength
+3008   	Of twenty men, it would dispatch you straight.
+
+3009   ROMEO	There is thy gold, worse poison to men's souls,
+3010   	Doing more murders in this loathsome world,
+3011   	Than these poor compounds that thou mayst not sell.
+3012   	I sell thee poison; thou hast sold me none.
+3013   	Farewell: buy food, and get thyself in flesh.
+3014   	Come, cordial and not poison, go with me
+3015   	To Juliet's grave; for there must I use thee.
+
+3016   	[Exeunt]
+
+
+
+
+3017   	ROMEO AND JULIET
+
+
+3018   ACT V
+
+
+
+3019   SCENE II	Friar Laurence's cell.
+
+
+3020   	[Enter FRIAR JOHN]
+
+3021   FRIAR JOHN	Holy Franciscan friar! brother, ho!
+
+3022   	[Enter FRIAR LAURENCE]
+
+3023   FRIAR LAURENCE	This same should be the voice of Friar John.
+3024   	Welcome from Mantua: what says Romeo?
+3025   	Or, if his mind be writ, give me his letter.
+
+3026   FRIAR JOHN	Going to find a bare-foot brother out
+3027   	One of our order, to associate me,
+3028   	Here in this city visiting the sick,
+3029   	And finding him, the searchers of the town,
+3030   	Suspecting that we both were in a house
+3031   	Where the infectious pestilence did reign,
+3032   	Seal'd up the doors, and would not let us forth;
+3033   	So that my speed to Mantua there was stay'd.
+
+3034   FRIAR LAURENCE	Who bare my letter, then, to Romeo?
+
+3035   FRIAR JOHN	I could not send it,--here it is again,--
+3036   	Nor get a messenger to bring it thee,
+3037   	So fearful were they of infection.
+
+3038   FRIAR LAURENCE	Unhappy fortune! by my brotherhood,
+3039   	The letter was not nice but full of charge
+3040   	Of dear import, and the neglecting it
+3041   	May do much danger. Friar John, go hence;
+3042   	Get me an iron crow, and bring it straight
+3043   	Unto my cell.
+
+3044   FRIAR JOHN	Brother, I'll go and bring it thee.
+
+3045   	[Exit]
+
+3046   FRIAR LAURENCE	Now must I to the monument alone;
+3047   	Within three hours will fair Juliet wake:
+3048   	She will beshrew me much that Romeo
+3049   	Hath had no notice of these accidents;
+3050   	But I will write again to Mantua,
+3051   	And keep her at my cell till Romeo come;
+3052   	Poor living corse, closed in a dead man's tomb!
+
+3053   	[Exit]
+
+
+
+
+3054   	ROMEO AND JULIET
+
+
+3055   ACT V
+
+
+
+3056   SCENE III	A churchyard; in it a tomb belonging to the Capulets.
+
+
+3057   	[Enter PARIS, and his Page bearing flowers and a torch]
+
+3058   PARIS	Give me thy torch, boy: hence, and stand aloof:
+3059   	Yet put it out, for I would not be seen.
+3060   	Under yond yew-trees lay thee all along,
+3061   	Holding thine ear close to the hollow ground;
+3062   	So shall no foot upon the churchyard tread,
+3063   	Being loose, unfirm, with digging up of graves,
+3064   	But thou shalt hear it: whistle then to me,
+3065   	As signal that thou hear'st something approach.
+3066   	Give me those flowers. Do as I bid thee, go.
+
+3067   PAGE	[Aside]  I am almost afraid to stand alone
+3068   	Here in the churchyard; yet I will adventure.
+
+3069   	[Retires]
+
+3070   PARIS	Sweet flower, with flowers thy bridal bed I strew,--
+3071   	O woe! thy canopy is dust and stones;--
+3072   	Which with sweet water nightly I will dew,
+3073   	Or, wanting that, with tears distill'd by moans:
+3074   	The obsequies that I for thee will keep
+3075   	Nightly shall be to strew thy grave and weep.
+
+3076   	[The Page whistles]
+
+3077   	The boy gives warning something doth approach.
+3078   	What cursed foot wanders this way to-night,
+3079   	To cross my obsequies and true love's rite?
+3080   	What with a torch! muffle me, night, awhile.
+
+3081   	[Retires]
+
+3082   	[Enter ROMEO and BALTHASAR, with a torch,
+3083   	mattock, &c]
+
+3084   ROMEO	Give me that mattock and the wrenching iron.
+3085   	Hold, take this letter; early in the morning
+3086   	See thou deliver it to my lord and father.
+3087   	Give me the light: upon thy life, I charge thee,
+3088   	Whate'er thou hear'st or seest, stand all aloof,
+3089   	And do not interrupt me in my course.
+3090   	Why I descend into this bed of death,
+3091   	Is partly to behold my lady's face;
+3092   	But chiefly to take thence from her dead finger
+3093   	A precious ring, a ring that I must use
+3094   	In dear employment: therefore hence, be gone:
+3095   	But if thou, jealous, dost return to pry
+3096   	In what I further shall intend to do,
+3097   	By heaven, I will tear thee joint by joint
+3098   	And strew this hungry churchyard with thy limbs:
+3099   	The time and my intents are savage-wild,
+3100   	More fierce and more inexorable far
+3101   	Than empty tigers or the roaring sea.
+
+3102   BALTHASAR	I will be gone, sir, and not trouble you.
+
+3103   ROMEO	So shalt thou show me friendship. Take thou that:
+3104   	Live, and be prosperous: and farewell, good fellow.
+
+3105   BALTHASAR	[Aside]  For all this same, I'll hide me hereabout:
+3106   	His looks I fear, and his intents I doubt.
+
+3107   	[Retires]
+
+3108   ROMEO	Thou detestable maw, thou womb of death,
+3109   	Gorged with the dearest morsel of the earth,
+3110   	Thus I enforce thy rotten jaws to open,
+3111   	And, in despite, I'll cram thee with more food!
+
+3112   	[Opens the tomb]
+
+3113   PARIS	This is that banish'd haughty Montague,
+3114   	That murder'd my love's cousin, with which grief,
+3115   	It is supposed, the fair creature died;
+3116   	And here is come to do some villanous shame
+3117   	To the dead bodies: I will apprehend him.
+
+3118   	[Comes forward]
+
+3119   	Stop thy unhallow'd toil, vile Montague!
+3120   	Can vengeance be pursued further than death?
+3121   	Condemned villain, I do apprehend thee:
+3122   	Obey, and go with me; for thou must die.
+
+3123   ROMEO	I must indeed; and therefore came I hither.
+3124   	Good gentle youth, tempt not a desperate man;
+3125   	Fly hence, and leave me: think upon these gone;
+3126   	Let them affright thee. I beseech thee, youth,
+3127   	Put not another sin upon my head,
+3128   	By urging me to fury: O, be gone!
+3129   	By heaven, I love thee better than myself;
+3130   	For I come hither arm'd against myself:
+3131   	Stay not, be gone; live, and hereafter say,
+3132   	A madman's mercy bade thee run away.
+
+3133   PARIS	I do defy thy conjurations,
+3134   	And apprehend thee for a felon here.
+
+3135   ROMEO	Wilt thou provoke me? then have at thee, boy!
+
+3136   	[They fight]
+
+3137   PAGE	O Lord, they fight! I will go call the watch.
+
+3138   	[Exit]
+
+3139   PARIS	O, I am slain!
+
+3140   	[Falls]
+
+3141   	If thou be merciful,
+3142   	Open the tomb, lay me with Juliet.
+
+3143   	[Dies]
+
+3144   ROMEO	In faith, I will. Let me peruse this face.
+3145   	Mercutio's kinsman, noble County Paris!
+3146   	What said my man, when my betossed soul
+3147   	Did not attend him as we rode? I think
+3148   	He told me Paris should have married Juliet:
+3149   	Said he not so? or did I dream it so?
+3150   	Or am I mad, hearing him talk of Juliet,
+3151   	To think it was so? O, give me thy hand,
+3152   	One writ with me in sour misfortune's book!
+3153   	I'll bury thee in a triumphant grave;
+3154   	A grave? O no! a lantern, slaughter'd youth,
+3155   	For here lies Juliet, and her beauty makes
+3156   	This vault a feasting presence full of light.
+3157   	Death, lie thou there, by a dead man interr'd.
+
+3158   	[Laying PARIS in the tomb]
+
+3159   	How oft when men are at the point of death
+3160   	Have they been merry! which their keepers call
+3161   	A lightning before death: O, how may I
+3162   	Call this a lightning? O my love! my wife!
+3163   	Death, that hath suck'd the honey of thy breath,
+3164   	Hath had no power yet upon thy beauty:
+3165   	Thou art not conquer'd; beauty's ensign yet
+3166   	Is crimson in thy lips and in thy cheeks,
+3167   	And death's pale flag is not advanced there.
+3168   	Tybalt, liest thou there in thy bloody sheet?
+3169   	O, what more favour can I do to thee,
+3170   	Than with that hand that cut thy youth in twain
+3171   	To sunder his that was thine enemy?
+3172   	Forgive me, cousin! Ah, dear Juliet,
+3173   	Why art thou yet so fair? shall I believe
+3174   	That unsubstantial death is amorous,
+3175   	And that the lean abhorred monster keeps
+3176   	Thee here in dark to be his paramour?
+3177   	For fear of that, I still will stay with thee;
+3178   	And never from this palace of dim night
+3179   	Depart again: here, here will I remain
+3180   	With worms that are thy chamber-maids; O, here
+3181   	Will I set up my everlasting rest,
+3182   	And shake the yoke of inauspicious stars
+3183   	From this world-wearied flesh. Eyes, look your last!
+3184   	Arms, take your last embrace! and, lips, O you
+3185   	The doors of breath, seal with a righteous kiss
+3186   	A dateless bargain to engrossing death!
+3187   	Come, bitter conduct, come, unsavoury guide!
+3188   	Thou desperate pilot, now at once run on
+3189   	The dashing rocks thy sea-sick weary bark!
+3190   	Here's to my love!
+
+3191   	[Drinks]
+
+3192   	O true apothecary!
+3193   	Thy drugs are quick. Thus with a kiss I die.
+
+3194   	[Dies]
+
+3195   	[Enter, at the other end of the churchyard, FRIAR
+3196   	LAURENCE, with a lantern, crow, and spade]
+
+3197   FRIAR LAURENCE	Saint Francis be my speed! how oft to-night
+3198   	Have my old feet stumbled at graves! Who's there?
+
+3199   BALTHASAR	Here's one, a friend, and one that knows you well.
+
+3200   FRIAR LAURENCE	Bliss be upon you! Tell me, good my friend,
+3201   	What torch is yond, that vainly lends his light
+3202   	To grubs and eyeless skulls? as I discern,
+3203   	It burneth in the Capel's monument.
+
+3204   BALTHASAR	It doth so, holy sir; and there's my master,
+3205   	One that you love.
+
+3206   FRIAR LAURENCE	                  Who is it?
+
+3207   BALTHASAR	Romeo.
+
+3208   FRIAR LAURENCE	How long hath he been there?
+
+3209   BALTHASAR	Full half an hour.
+
+3210   FRIAR LAURENCE	Go with me to the vault.
+
+3211   BALTHASAR	I dare not, sir
+3212   	My master knows not but I am gone hence;
+3213   	And fearfully did menace me with death,
+3214   	If I did stay to look on his intents.
+
+3215   FRIAR LAURENCE	Stay, then; I'll go alone. Fear comes upon me:
+3216   	O, much I fear some ill unlucky thing.
+
+3217   BALTHASAR	As I did sleep under this yew-tree here,
+3218   	I dreamt my master and another fought,
+3219   	And that my master slew him.
+
+3220   FRIAR LAURENCE	Romeo!
+
+3221   	[Advances]
+
+3222   	Alack, alack, what blood is this, which stains
+3223   	The stony entrance of this sepulchre?
+3224   	What mean these masterless and gory swords
+3225   	To lie discolour'd by this place of peace?
+
+3226   	[Enters the tomb]
+
+3227   	Romeo! O, pale! Who else? what, Paris too?
+3228   	And steep'd in blood? Ah, what an unkind hour
+3229   	Is guilty of this lamentable chance!
+3230   	The lady stirs.
+
+3231   	[JULIET wakes]
+
+3232   JULIET	O comfortable friar! where is my lord?
+3233   	I do remember well where I should be,
+3234   	And there I am. Where is my Romeo?
+
+3235   	[Noise within]
+
+3236   FRIAR LAURENCE	I hear some noise. Lady, come from that nest
+3237   	Of death, contagion, and unnatural sleep:
+3238   	A greater power than we can contradict
+3239   	Hath thwarted our intents. Come, come away.
+3240   	Thy husband in thy bosom there lies dead;
+3241   	And Paris too. Come, I'll dispose of thee
+3242   	Among a sisterhood of holy nuns:
+3243   	Stay not to question, for the watch is coming;
+3244   	Come, go, good Juliet,
+
+3245   	[Noise again]
+
+3246   		 I dare no longer stay.
+
+3247   JULIET	Go, get thee hence, for I will not away.
+
+3248   	[Exit FRIAR LAURENCE]
+
+3249   	What's here? a cup, closed in my true love's hand?
+3250   	Poison, I see, hath been his timeless end:
+3251   	O churl! drunk all, and left no friendly drop
+3252   	To help me after? I will kiss thy lips;
+3253   	Haply some poison yet doth hang on them,
+3254   	To make die with a restorative.
+
+3255   	[Kisses him]
+
+3256   	Thy lips are warm.
+
+3257   First Watchman	[Within]  Lead, boy: which way?
+
+3258   JULIET	Yea, noise? then I'll be brief. O happy dagger!
+
+3259   	[Snatching ROMEO's dagger]
+
+3260   	This is thy sheath;
+
+3261   	[Stabs herself]
+
+3262   	there rust, and let me die.
+
+3263   	[Falls on ROMEO's body, and dies]
+
+3264   	[Enter Watch, with the Page of PARIS]
+
+3265   PAGE	This is the place; there, where the torch doth burn.
+
+3266   First Watchman	The ground is bloody; search about the churchyard:
+3267   	Go, some of you, whoe'er you find attach.
+3268   	Pitiful sight! here lies the county slain,
+3269   	And Juliet bleeding, warm, and newly dead,
+3270   	Who here hath lain these two days buried.
+3271   	Go, tell the prince: run to the Capulets:
+3272   	Raise up the Montagues: some others search:
+3273   	We see the ground whereon these woes do lie;
+3274   	But the true ground of all these piteous woes
+3275   	We cannot without circumstance descry.
+
+3276   	[Re-enter some of the Watch, with BALTHASAR]
+
+3277   Second Watchman	Here's Romeo's man; we found him in the churchyard.
+
+3278   First Watchman	Hold him in safety, till the prince come hither.
+
+3279   	[Re-enter others of the Watch, with FRIAR LAURENCE]
+
+3280   Third Watchman	Here is a friar, that trembles, sighs and weeps:
+3281   	We took this mattock and this spade from him,
+3282   	As he was coming from this churchyard side.
+
+3283   First Watchman	A great suspicion: stay the friar too.
+
+3284   	[Enter the PRINCE and Attendants]
+
+3285   PRINCE	What misadventure is so early up,
+3286   	That calls our person from our morning's rest?
+
+3287   	[Enter CAPULET, LADY CAPULET, and others]
+
+3288   CAPULET	What should it be, that they so shriek abroad?
+
+3289   LADY CAPULET	The people in the street cry Romeo,
+3290   	Some Juliet, and some Paris; and all run,
+3291   	With open outcry toward our monument.
+
+3292   PRINCE	What fear is this which startles in our ears?
+
+3293   First Watchman	Sovereign, here lies the County Paris slain;
+3294   	And Romeo dead; and Juliet, dead before,
+3295   	Warm and new kill'd.
+
+3296   PRINCE	Search, seek, and know how this foul murder comes.
+
+3297   First Watchman	Here is a friar, and slaughter'd Romeo's man;
+3298   	With instruments upon them, fit to open
+3299   	These dead men's tombs.
+
+3300   CAPULET	O heavens! O wife, look how our daughter bleeds!
+3301   	This dagger hath mista'en--for, lo, his house
+3302   	Is empty on the back of Montague,--
+3303   	And it mis-sheathed in my daughter's bosom!
+
+3304   LADY CAPULET	O me! this sight of death is as a bell,
+3305   	That warns my old age to a sepulchre.
+
+3306   	[Enter MONTAGUE and others]
+
+3307   PRINCE	Come, Montague; for thou art early up,
+3308   	To see thy son and heir more early down.
+
+3309   MONTAGUE	Alas, my liege, my wife is dead to-night;
+3310   	Grief of my son's exile hath stopp'd her breath:
+3311   	What further woe conspires against mine age?
+
+3312   PRINCE	Look, and thou shalt see.
+
+3313   MONTAGUE	O thou untaught! what manners is in this?
+3314   	To press before thy father to a grave?
+
+3315   PRINCE	Seal up the mouth of outrage for a while,
+3316   	Till we can clear these ambiguities,
+3317   	And know their spring, their head, their
+3318   	true descent;
+3319   	And then will I be general of your woes,
+3320   	And lead you even to death: meantime forbear,
+3321   	And let mischance be slave to patience.
+3322   	Bring forth the parties of suspicion.
+
+3323   FRIAR LAURENCE	I am the greatest, able to do least,
+3324   	Yet most suspected, as the time and place
+3325   	Doth make against me of this direful murder;
+3326   	And here I stand, both to impeach and purge
+3327   	Myself condemned and myself excused.
+
+3328   PRINCE	Then say at once what thou dost know in this.
+
+3329   FRIAR LAURENCE	I will be brief, for my short date of breath
+3330   	Is not so long as is a tedious tale.
+3331   	Romeo, there dead, was husband to that Juliet;
+3332   	And she, there dead, that Romeo's faithful wife:
+3333   	I married them; and their stol'n marriage-day
+3334   	Was Tybalt's dooms-day, whose untimely death
+3335   	Banish'd the new-made bridegroom from the city,
+3336   	For whom, and not for Tybalt, Juliet pined.
+3337   	You, to remove that siege of grief from her,
+3338   	Betroth'd and would have married her perforce
+3339   	To County Paris: then comes she to me,
+3340   	And, with wild looks, bid me devise some mean
+3341   	To rid her from this second marriage,
+3342   	Or in my cell there would she kill herself.
+3343   	Then gave I her, so tutor'd by my art,
+3344   	A sleeping potion; which so took effect
+3345   	As I intended, for it wrought on her
+3346   	The form of death: meantime I writ to Romeo,
+3347   	That he should hither come as this dire night,
+3348   	To help to take her from her borrow'd grave,
+3349   	Being the time the potion's force should cease.
+3350   	But he which bore my letter, Friar John,
+3351   	Was stay'd by accident, and yesternight
+3352   	Return'd my letter back. Then all alone
+3353   	At the prefixed hour of her waking,
+3354   	Came I to take her from her kindred's vault;
+3355   	Meaning to keep her closely at my cell,
+3356   	Till I conveniently could send to Romeo:
+3357   	But when I came, some minute ere the time
+3358   	Of her awaking, here untimely lay
+3359   	The noble Paris and true Romeo dead.
+3360   	She wakes; and I entreated her come forth,
+3361   	And bear this work of heaven with patience:
+3362   	But then a noise did scare me from the tomb;
+3363   	And she, too desperate, would not go with me,
+3364   	But, as it seems, did violence on herself.
+3365   	All this I know; and to the marriage
+3366   	Her nurse is privy: and, if aught in this
+3367   	Miscarried by my fault, let my old life
+3368   	Be sacrificed, some hour before his time,
+3369   	Unto the rigour of severest law.
+
+3370   PRINCE	We still have known thee for a holy man.
+3371   	Where's Romeo's man? what can he say in this?
+
+3372   BALTHASAR	I brought my master news of Juliet's death;
+3373   	And then in post he came from Mantua
+3374   	To this same place, to this same monument.
+3375   	This letter he early bid me give his father,
+3376   	And threatened me with death, going in the vault,
+3377   	I departed not and left him there.
+
+3378   PRINCE	Give me the letter; I will look on it.
+3379   	Where is the county's page, that raised the watch?
+3380   	Sirrah, what made your master in this place?
+
+3381   PAGE	He came with flowers to strew his lady's grave;
+3382   	And bid me stand aloof, and so I did:
+3383   	Anon comes one with light to ope the tomb;
+3384   	And by and by my master drew on him;
+3385   	And then I ran away to call the watch.
+
+3386   PRINCE	This letter doth make good the friar's words,
+3387   	Their course of love, the tidings of her death:
+3388   	And here he writes that he did buy a poison
+3389   	Of a poor 'pothecary, and therewithal
+3390   	Came to this vault to die, and lie with Juliet.
+3391   	Where be these enemies? Capulet! Montague!
+3392   	See, what a scourge is laid upon your hate,
+3393   	That heaven finds means to kill your joys with love.
+3394   	And I for winking at your discords too
+3395   	Have lost a brace of kinsmen: all are punish'd.
+
+3396   CAPULET	O brother Montague, give me thy hand:
+3397   	This is my daughter's jointure, for no more
+3398   	Can I demand.
+
+3399   MONTAGUE   But I can give thee more:
+3400   	For I will raise her statue in pure gold;
+3401   	That while Verona by that name is known,
+3402   	There shall no figure at such rate be set
+3403   	As that of true and faithful Juliet.
+
+3404   CAPULET	As rich shall Romeo's by his lady's lie;
+3405   	Poor sacrifices of our enmity!
+
+3406   PRINCE	A glooming peace this morning with it brings;
+3407   	The sun, for sorrow, will not show his head:
+3408   	Go hence, to have more talk of these sad things;
+3409   	Some shall be pardon'd, and some punished:
+3410   	For never was a story of more woe
+3411   	Than this of Juliet and her Romeo.
+
+3412   	[Exeunt]

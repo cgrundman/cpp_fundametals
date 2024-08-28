@@ -1,4 +1,4 @@
-// Copy File 1
+// Write File 2
 // File copy using getline
 #include <iostream>
 #include <fstream>
