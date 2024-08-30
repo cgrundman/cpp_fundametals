@@ -173,7 +173,21 @@ Code outlining C++ code structures and syntax.
         <tr>
             <td colspan=2><h2>16. I/O Streams</h2></td>
         </tr>
-        <tr><td></td><td></td></tr>
+        <tr><td>ManipBoolean</td><td>Demonstrates how to format boolean outputs.</td></tr>
+        <tr><td>ManipFloating</td><td>Demonstrates how to format floating point outputs.</td></tr>
+        <tr><td>ManipIntegers</td><td>Demonstrates how to format integer outputs.</td></tr>
+        <tr><td>ManipAssignFill</td><td>Demonstrates how to allign and fill outputs for formating.</td></tr>  
+        <tr><td>Challenge1</td><td>Challenge to output a formatted table from a nested list.</td></tr>
+        <tr><td>ReadFile1</td><td>Opens and displays a simple text file.</td></tr>
+        <tr><td>ReadFile2</td><td>Opens, formats, and displays a simpple text file.</td></tr>
+        <tr><td>ReadFile3</td><td>Opens and displays a Shakespeare poem.</td></tr>
+        <tr><td>ReadFile4</td><td>Opens and displays a Shakespeare poem using get method.</td></tr>
+        <tr><td>Challenge2</td><td>Challenge to create a multiple choice test grader, grades and displays results.</td></tr>
+        <tr><td>Challenge3</td><td>Challenge to search a text document for input word and returns the word count in the document.</td></tr>
+        <tr><td>WriteFile1</td><td>Demonstrates basics of writing a file.</td></tr>
+        <tr><td>WriteFile2</td><td>Demonstrates how to copy a file.</td></tr>
+        <tr><td>Challenge4</td><td>Opens Romeo and Juliet text file, adds line numbers and saves to a new written file.</td></tr>
+        <tr><td>StringStream</td><td>Demonstrates String Streams and another way to manipulate strings.</td></tr>
         <tr>
             <td colspan=2><h2>17. The Standard Template Library (STL)</h2></td>
         </tr>
