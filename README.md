@@ -191,7 +191,12 @@ Code outlining C++ code structures and syntax.
         <tr>
             <td colspan=2><h2>17. The Standard Template Library (STL)</h2></td>
         </tr>
-        <tr><td></td><td></td></tr>
+        <tr><td>Macros</td><td></td></tr>
+        <tr><td>FunctionTemplates</td><td></td></tr>
+        <tr><td>ClassTemplates</td><td></td></tr>
+        <tr><td>ClassTemplateArray</td><td></td></tr>
+        <tr><td>Iterators</td><td></td></tr>
+        <tr><td>Algorithms</td><td></td></tr>
         <tr>
             <td colspan=2><h2>18. Lambda Expressions</h2></td>
         </tr>
