@@ -2,19 +2,28 @@
 <CodeLite_Workspace Name="17-standard_template_library" Database="" Version="10000">
   <Project Name="Macros" Path="Macros/Macros.project" Active="No"/>
   <Project Name="FunctionTemplates" Path="FunctionTemplates/FunctionTemplates.project" Active="No"/>
-  <Project Name="ClassTemplates" Path="ClassTemplates/ClassTemplates.project" Active="Yes"/>
+  <Project Name="ClassTemplates" Path="ClassTemplates/ClassTemplates.project" Active="No"/>
+  <Project Name="ClassTemplateArray" Path="ClassTemplateArray/ClassTemplateArray.project" Active="No"/>
+  <Project Name="Iterators" Path="Iterators/Iterators.project" Active="No"/>
+  <Project Name="Algorithms" Path="Algorithms/Algorithms.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Macros" ConfigName="Debug"/>
       <Project Name="FunctionTemplates" ConfigName="Debug"/>
       <Project Name="ClassTemplates" ConfigName="Debug"/>
+      <Project Name="ClassTemplateArray" ConfigName="Debug"/>
+      <Project Name="Iterators" ConfigName="Debug"/>
+      <Project Name="Algorithms" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Macros" ConfigName="Release"/>
       <Project Name="FunctionTemplates" ConfigName="Release"/>
       <Project Name="ClassTemplates" ConfigName="Release"/>
+      <Project Name="ClassTemplateArray" ConfigName="Release"/>
+      <Project Name="Iterators" ConfigName="Release"/>
+      <Project Name="Algorithms" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
