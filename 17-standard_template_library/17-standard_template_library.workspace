@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="17-standard_template_library" Database="" Version="10000">
   <Project Name="Macros" Path="Macros/Macros.project" Active="No"/>
-  <Project Name="FunctionTemplates" Path="FunctionTemplates/FunctionTemplates.project" Active="Yes"/>
+  <Project Name="FunctionTemplates" Path="FunctionTemplates/FunctionTemplates.project" Active="No"/>
+  <Project Name="ClassTemplates" Path="ClassTemplates/ClassTemplates.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Macros" ConfigName="Debug"/>
       <Project Name="FunctionTemplates" ConfigName="Debug"/>
+      <Project Name="ClassTemplates" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Macros" ConfigName="Release"/>
       <Project Name="FunctionTemplates" ConfigName="Release"/>
+      <Project Name="ClassTemplates" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
