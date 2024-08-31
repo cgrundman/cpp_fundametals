@@ -197,6 +197,19 @@ Code outlining C++ code structures and syntax.
         <tr><td>ClassTemplateArray</td><td></td></tr>
         <tr><td>Iterators</td><td></td></tr>
         <tr><td>Algorithms</td><td></td></tr>
+        <tr><td>Array</td><td></td></tr>
+        <tr><td>Vector</td><td></td></tr>
+        <tr><td>Deque</td><td></td></tr>
+        <tr><td>Challenge1</td><td></td></tr>
+        <tr><td>List</td><td></td></tr>
+        <tr><td>Challenge2</td><td></td></tr>
+        <tr><td>Set</td><td></td></tr>
+        <tr><td>Map</td><td></td></tr>
+        <tr><td>Challenge3</td><td></td></tr>
+        <tr><td>Stack</td><td></td></tr>
+        <tr><td>Queue</td><td></td></tr>
+        <tr><td>Challenge4</td><td></td></tr>
+        <tr><td>PriorityQueue</td><td></td></tr>
         <tr>
             <td colspan=2><h2>18. Lambda Expressions</h2></td>
         </tr>
