@@ -1,19 +1,27 @@
 [{
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Deque\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Deque",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Deque\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Deque\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\List\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\List",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\List\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\List\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Array\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Array",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Array\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Array\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge1\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge1",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge1\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge2\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge2",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge2\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Vector\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Vector",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Vector\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Vector\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }, {
-  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Array\\main.cpp",
-  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Array",
-  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Array\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Array\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Algorithms\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Algorithms",
@@ -34,10 +42,6 @@
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\FunctionTemplates\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\FunctionTemplates",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\FunctionTemplates\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\FunctionTemplates\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }, {
-  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Deque\\main.cpp",
-  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Deque",
-  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Deque\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Deque\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Macros\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Macros",
