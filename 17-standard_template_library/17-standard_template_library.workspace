@@ -9,7 +9,8 @@
   <Project Name="Array" Path="Array/Array.project" Active="No"/>
   <Project Name="Vector" Path="Vector/Vector.project" Active="No"/>
   <Project Name="Deque" Path="Deque/Deque.project" Active="No"/>
-  <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="Yes"/>
+  <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
+  <Project Name="List" Path="List/List.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -23,6 +24,7 @@
       <Project Name="Vector" ConfigName="Debug"/>
       <Project Name="Deque" ConfigName="Debug"/>
       <Project Name="Challenge1" ConfigName="Debug"/>
+      <Project Name="List" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -36,6 +38,7 @@
       <Project Name="Vector" ConfigName="Release"/>
       <Project Name="Deque" ConfigName="Release"/>
       <Project Name="Challenge1" ConfigName="Release"/>
+      <Project Name="List" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
