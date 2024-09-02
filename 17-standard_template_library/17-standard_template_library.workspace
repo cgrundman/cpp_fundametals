@@ -13,7 +13,8 @@
   <Project Name="List" Path="List/List.project" Active="No"/>
   <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="No"/>
   <Project Name="Sets" Path="Sets/Sets.project" Active="No"/>
-  <Project Name="Maps" Path="Maps/Maps.project" Active="Yes"/>
+  <Project Name="Maps" Path="Maps/Maps.project" Active="No"/>
+  <Project Name="Stack" Path="Stack/Stack.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -31,6 +32,7 @@
       <Project Name="Challenge2" ConfigName="Debug"/>
       <Project Name="Sets" ConfigName="Debug"/>
       <Project Name="Maps" ConfigName="Debug"/>
+      <Project Name="Stack" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -48,6 +50,7 @@
       <Project Name="Challenge2" ConfigName="Release"/>
       <Project Name="Sets" ConfigName="Release"/>
       <Project Name="Maps" ConfigName="Release"/>
+      <Project Name="Stack" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
