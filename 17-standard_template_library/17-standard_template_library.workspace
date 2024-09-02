@@ -11,7 +11,8 @@
   <Project Name="Deque" Path="Deque/Deque.project" Active="No"/>
   <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
   <Project Name="List" Path="List/List.project" Active="No"/>
-  <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="Yes"/>
+  <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="No"/>
+  <Project Name="Sets" Path="Sets/Sets.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -27,6 +28,7 @@
       <Project Name="Challenge1" ConfigName="Debug"/>
       <Project Name="List" ConfigName="Debug"/>
       <Project Name="Challenge2" ConfigName="Debug"/>
+      <Project Name="Sets" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -42,6 +44,7 @@
       <Project Name="Challenge1" ConfigName="Release"/>
       <Project Name="List" ConfigName="Release"/>
       <Project Name="Challenge2" ConfigName="Release"/>
+      <Project Name="Sets" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
