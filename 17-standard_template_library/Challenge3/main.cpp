@@ -59,11 +59,16 @@ void part1() {
     std::map<std::string, int> words;
     std::string line;       
     std::string word;   
-    std::ifstream in_file {"../words.txt"};
+    std::ifstream in_file {"C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge3\\words.txt"};
     if (in_file) {
-        
-        // You implement this code
-        
+        while (std::getline(in_file, line)) {
+            //std::cout << line;
+            std::stringstream ss(line);
+            while (ss >> word) {
+                word = clean_string(word);
+                words[word]++;      // increment the count for the word in the map
+            }
+        }
         in_file.close();
         display_words(words);
     } else {
@@ -71,17 +76,24 @@ void part1() {
     }
 }
     
-// Part2 process the file and builds a map of words and a 
+// Part1 process the file and builds a map of words and a 
 // set of line numbers in which the word appears
 void part2() {
     std::map<std::string, std::set<int>> words;
     std::string line;
     std::string word;
-    std::ifstream in_file {"../words.txt"};
+    std::ifstream in_file {"C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\17-standard_template_library\\Challenge3\\words.txt"};
     if (in_file) {
-     
-        // You implement this code
-        
+        int line_number = 0;
+        while (std::getline(in_file, line)) {
+            //std::cout << line;
+            line_number++;
+            std::stringstream ss(line);
+            while (ss >> word) {
+               word = clean_string(word);
+               words[word].insert(line_number);
+            }  
+        }
         in_file.close();
         display_words(words);
     } else {
