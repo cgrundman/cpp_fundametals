@@ -9,9 +9,36 @@
 
 bool is_palindrome(const std::string& s)
 {
-    // You must implement this function.
-    // Since we are learning the STL - use a stack and a queue to solve the problem.
-    return false;
+    std::stack<char> stk;
+    std::queue<char> q;
+
+    // add all the string characters that are alpha to the back of the queue  in uppercase
+    // push all the string characters that are alpha on the stack
+    
+    for(char c : s)
+        if(std::isalpha(c)) {
+            c = std::toupper(c);
+            q.push(c);
+            stk.push(c);
+        }
+
+    char c1{};
+    char c2{};    
+    
+    // while the queue is not empty
+    //      compare and remove the character at the top of the stack 
+    //      and the chacterter at the front of the queue
+    //      if they are not the same - return false since it can't be a palindrome
+    // if you complete the loop then the string must be a palindrome so return true
+    while(!q.empty()) {
+        c1 = q.front();
+        q.pop();
+        c2 = stk.top();
+        stk.pop();
+        if(c1 != c2)
+            return false;
+    }
+    return true;
 }
 
 int main()
