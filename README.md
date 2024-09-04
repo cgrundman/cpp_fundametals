@@ -191,25 +191,25 @@ Code outlining C++ code structures and syntax.
         <tr>
             <td colspan=2><h2>17. The Standard Template Library (STL)</h2></td>
         </tr>
-        <tr><td>Macros</td><td></td></tr>
-        <tr><td>FunctionTemplates</td><td></td></tr>
-        <tr><td>ClassTemplates</td><td></td></tr>
-        <tr><td>ClassTemplateArray</td><td></td></tr>
-        <tr><td>Iterators</td><td></td></tr>
-        <tr><td>Algorithms</td><td></td></tr>
-        <tr><td>Array</td><td></td></tr>
-        <tr><td>Vector</td><td></td></tr>
-        <tr><td>Deque</td><td></td></tr>
-        <tr><td>Challenge1</td><td></td></tr>
-        <tr><td>List</td><td></td></tr>
-        <tr><td>Challenge2</td><td></td></tr>
-        <tr><td>Set</td><td></td></tr>
-        <tr><td>Map</td><td></td></tr>
-        <tr><td>Challenge3</td><td></td></tr>
-        <tr><td>Stack</td><td></td></tr>
-        <tr><td>Queue</td><td></td></tr>
-        <tr><td>Challenge4</td><td></td></tr>
-        <tr><td>PriorityQueue</td><td></td></tr>
+        <tr><td>Macros</td><td>Introduces using #define to create macros.</td></tr>
+        <tr><td>FunctionTemplates</td><td>Demonstrates creating functions in STL using templates.</td></tr>
+        <tr><td>ClassTemplates</td><td>Creates a class using the STL template.</td></tr>
+        <tr><td>ClassTemplateArray</td><td>Demonstrates using std::array.</td></tr>
+        <tr><td>Iterators</td><td>Uses ++, +=, and -= and shows how to iterate through data.</td></tr>
+        <tr><td>Algorithms</td><td>Provides some common algorithms used in C++.</td></tr>
+        <tr><td>Array</td><td>Demonstrates how to use the std::array to create and handle arrays.</td></tr>
+        <tr><td>Vector</td><td>Demonstrates how to use the std::vector to create and handle vectors.</td></tr>
+        <tr><td>Deque</td><td>Demonstrates how to use the std::deque and how deques work.</td></tr>
+        <tr><td>Challenge1</td><td>Identifying a palindrome using a deque.</td></tr>
+        <tr><td>List</td><td>Demonstrates how to use the std::list to create and handle lists.</td></tr>
+        <tr><td>Challenge2</td><td>Creates a playlist interface with a list.</td></tr>
+        <tr><td>Set</td><td>Demonstrates how to use the std::set to create and handle sets.</td></tr>
+        <tr><td>Map</td><td>Demonstrates how to use the std::map to create and handle maps.</td></tr>
+        <tr><td>Challenge3</td><td>Inputs a file of words, creates a map and outputs 1) word count and 2) word location.</td></tr>
+        <tr><td>Stack</td><td>Demonstrates how to use std::stack and how it only accesses the top (last) piece of data.</td></tr>
+        <tr><td>Queue</td><td>Demonstrates how to use std::queue and how it only accesses the first piece of data.</td></tr>
+        <tr><td>Challenge4</td><td>Check for a palindrome using stack and queue in a loop.</td></tr>
+        <tr><td>PriorityQueue</td><td>Demonstrates how to use std::priority_queue and how it organizes a queue by value rather than just input time.</td></tr>
         <tr>
             <td colspan=2><h2>18. Lambda Expressions</h2></td>
         </tr>
