@@ -213,7 +213,10 @@ Code outlining C++ code structures and syntax.
         <tr>
             <td colspan=2><h2>18. Lambda Expressions</h2></td>
         </tr>
-        <tr><td></td><td></td></tr>
+        <tr><td>FunctionObjects</td><td></td></tr>
+        <tr><td>StatelessLambdas</td><td></td></tr>
+        <tr><td>StatefulLambdas</td><td></td></tr>
+        <tr><td>LambdasandSTL</td><td></td></tr>
     </tbody>
 </table>
 
