@@ -2,6 +2,24 @@
 
 Code outlining C++ code structures and syntax. 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/cgrundman/cpp_fundamentals
+```
+
+Go to the project directory
+
+```bash
+  cd local/path/np-map-visualization
+```
+
+Use your preferred code editor (eg VS Code, Codelight, etc.) for C++.
+
+## Contents
+
 <table>
     <thead>
         <tr>
