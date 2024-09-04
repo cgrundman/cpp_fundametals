@@ -54,7 +54,6 @@ std::string clean_string(const std::string &s) {
 
 // Part1 process the file and builds a map of words and the 
 // number of times they occur in the file
-
 void part1() {
     std::map<std::string, int> words;
     std::string line;       
@@ -76,7 +75,7 @@ void part1() {
     }
 }
     
-// Part1 process the file and builds a map of words and a 
+// Part2 process the file and builds a map of words and a 
 // set of line numbers in which the word appears
 void part2() {
     std::map<std::string, std::set<int>> words;
