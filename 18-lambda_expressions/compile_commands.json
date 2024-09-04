@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\18-lambda_expressions\\LambdasandSTL\\main.cpp",
+  "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\18-lambda_expressions\\LambdasandSTL",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\18-lambda_expressions\\LambdasandSTL\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\18-lambda_expressions\\LambdasandSTL\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\18-lambda_expressions\\StatefulLambdas\\main.cpp",
   "directory": "C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\18-lambda_expressions\\StatefulLambdas",
   "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\18-lambda_expressions\\StatefulLambdas\\main.cpp -o C:\\Users\\chris\\Documents\\GitHub\\cpp_workspaces\\18-lambda_expressions\\StatefulLambdas\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
