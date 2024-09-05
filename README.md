@@ -1,6 +1,6 @@
 # C++ Fundamentals
 
-Code outlining C++ code structures and syntax. 
+Code outlining C++ code structures and syntax. This is meant to be an educational tool and used for reference. I do not own these materials (see below for references to the course).
 
 ## Run Locally
 
