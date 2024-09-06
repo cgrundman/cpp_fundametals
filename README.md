@@ -231,10 +231,10 @@ Use your preferred code editor (eg VS Code, Codelight, etc.) for C++.
         <tr>
             <td colspan=2><h2>18. Lambda Expressions</h2></td>
         </tr>
-        <tr><td>FunctionObjects</td><td></td></tr>
-        <tr><td>StatelessLambdas</td><td></td></tr>
-        <tr><td>StatefulLambdas</td><td></td></tr>
-        <tr><td>LambdasandSTL</td><td></td></tr>
+        <tr><td>FunctionObjects</td><td>Demonstrates using a Lambda function, creating a function object with less code.</td></tr>
+        <tr><td>StatelessLambdas</td><td>Uses stateless Lambda functions without capturing the state of the object.</td></tr>
+        <tr><td>StatefulLambdas</td><td>Uses stateful Lambda functions which capture (declare) the object's state.</td></tr>
+        <tr><td>LambdasandSTL</td><td>Demonstrates useful STL calls that can utilize Lambda functions.</td></tr>
     </tbody>
 </table>
 
